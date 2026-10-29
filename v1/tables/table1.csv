@@ -1,0 +1,25 @@
+Characteristic,Plans (%),Issuers,States,In-network claim lines received (millions),Median (IQR) reported enrollment,Median listed orthopaedic surgeons,"Median (IQR) density per 10,000 reported enrollees"
+A. Cohort flow (% of cohort plans),,,,,,,
+Individual market plan rows,"4,159",185,30,,,,
+   No plan-level counts (N/A),"1,600",,,,,,
+   No computable proportion,32,,,,,,
+Cohort: plans with a computable in-network denial proportion,"2,527 (100.0%)",149,30,344.35,,,
+Excluded for exposure status,352 (13.9%),17,11,72.87,,,
+   Issuer provider files not retrievable,263 (10.4%),11,8,18.35,,,
+   Issuer provider files incomplete,77 (3.0%),2,1,54.13,,,
+   Plan not found in the directory,8 (0.3%),2,2,0.38,,,
+   Plan listed without individual clinicians,4 (0.2%),2,2,<0.01,,,
+Exposure available (exposure status ok),"2,175 (86.1%)",136,30,271.47,,,
+   Lost to the complete-case rule (enrollment suppressed),494 (19.5%),81,27,5.69,,,
+Analytic sample (exposure available and reported enrollment),"1,681 (66.5%)",135,30,265.78,97 (37 to 276),508,"46,752 (14,663 to 157,381)"
+B. By plan type (% of analytic plans),,,,,,,
+   EPO,387 (23.0%),43,19,68.96,117 (45 to 292),386,"33,571 (12,225 to 83,752)"
+   HMO,872 (51.9%),73,19,146.94,107 (42 to 340),624,"48,358 (14,322 to 159,345)"
+   POS,188 (11.2%),8,6,12.76,38 (19 to 141),"1,983","317,463 (57,632 to 944,286)"
+   PPO,234 (13.9%),22,14,37.12,101 (40 to 245),396,"27,243 (10,944 to 79,985)"
+C. By metal level (% of analytic plans),,,,,,,
+   Bronze,611 (36.3%),123,30,60.86,108 (45 to 288),518,"36,056 (13,055 to 147,035)"
+   Silver,574 (34.1%),125,30,156.13,124 (44 to 398),383,"31,802 (8,486 to 96,143)"
+   Gold,473 (28.1%),108,30,48.34,66 (26 to 199),701,"91,176 (31,667 to 257,532)"
+   Platinum,9 (0.5%),5,4,0.30,23 (11 to 39),63,"29,091 (13,043 to 128,696)"
+   Catastrophic,14 (0.8%),13,13,0.15,20 (16 to 48),303,"73,604 (60,662 to 170,106)"

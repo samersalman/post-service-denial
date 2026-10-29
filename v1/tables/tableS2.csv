@@ -1,0 +1,9 @@
+Analysis,Odds ratio per doubling (95% CI),Plans,Issuers,Detail
+Issuer-level analysis,1.001 (0.980 to 1.023),"1,681",135,Standard errors clustered on 30 states
+Suppressed outcome counts set to 5.5,0.956 (0.848 to 1.077),"1,687",135,6 plans added back
+Suppressed enrollment set to 5.5,0.955 (0.847 to 1.077),"2,175",136,494 plans added back
+"Issuers with fewer than 10,000 in-network claim lines excluded",0.956 (0.848 to 1.077),"1,673",130,5 issuers (8 plans) left out
+Catastrophic plans excluded,0.954 (0.846 to 1.076),"1,667",135,14 Catastrophic plans left out
+Issuer with the most plans left out,1.008 (0.924 to 1.101),"1,301",134,Issuer 33602 left out
+Leave-one-issuer-out over the informative issuers,0.956 (0.848 to 1.077),"1,681",135,Full-sample estimate shown. Smallest and largest of 33 leave-outs: 0.901 (0.661 to 1.227) without issuer 46944; 1.008 (0.924 to 1.101) without issuer 33602. Leave-out intervals that exclude the null: 0 of 33
+Conservative t interval,0.956 (0.844 to 1.082),"1,681",135,t distribution with 32 degrees of freedom; z interval 0.848 to 1.077

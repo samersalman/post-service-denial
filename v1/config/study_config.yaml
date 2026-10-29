@@ -1,0 +1,39 @@
+study:
+  short_title: "Post-service insurance denial: Marketplace denials and orthopaedic network composition"
+  plan_year: 2026
+  data_year: 2024
+  seed: 20261028
+  population_note: "Individual-market QHPs only (excludes SADP and SHOP); WP2 documents how the PUF separates them."
+
+gates:
+  g1:
+    coverage: 0.85
+    transfer_gb: 75
+    transfer_gb_plan_default: 50
+    peak_disk_gb: 8
+    min_issuer_states: 60
+    min_plans: 500
+    user_decision: "2026-10-28: WP3 returned G1 FAIL (transfer 70.6 GB central vs 50 GB; free-text specialty 55 percent NUCC-mappable with NPPES offline). The user chose to proceed with a relaxed G1: transfer cap raised to 75 GB, orthopaedic flag from free-text specialty via a pre-specified crosswalk validated on up to 1000 NPIs through the NPI Registry API, NPPES retried at harvest start and end and used if it returns, subspecialty measures dropped unless NPPES returns."
+  free_disk_floor_gb: 6
+
+suppression:
+  claims_note: "CMS states no numeric rule for the ** marker. It is inferred to mean a count of 1 to 10 (no numeric 1 to 10 appears in any count column; the smallest positive value is 11); see v1/config/sap_frozen.md Section 12. KFF treated suppressed values as zero (replication only)."
+
+figures:
+  widths_mm: [89, 183]
+  width_tol_mm: 0.5
+  max_height_mm: 247
+  dpi: 600
+  min_font_pt: 5
+  font_family: "Arial"
+
+manuscript:
+  words_min: 1570
+  words_max: 1600
+  words_max_including_citations: 1600
+
+inference:
+  alpha: 0.05
+  ci_level: 0.95
+  funnel_ci_levels: [0.95, 0.998]
+  multiplicity: "Holm"

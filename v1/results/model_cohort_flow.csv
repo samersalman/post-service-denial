@@ -1,0 +1,101 @@
+dimension,level,rung_code,rung_label,n_plans,n_issuers,n_states,claim_lines_received,claim_lines_denied,denial_proportion,plan_median_denial_proportion,median_claim_lines_per_plan,share_of_cohort_plans,share_of_cohort_claim_lines
+overall,All plans,cohort,Cohort: plans with a computable in-network denial proportion,2527,149,30,344345114,65578278,0.190443468874078,0.17578004883784,24033,1,1
+overall,All plans,excluded_exposure_status,Excluded for exposure status,352,17,11,72872216,15730821,0.215868569167706,0.189596353863233,19062,0.139295607439652,0.211625526360743
+overall,All plans,issuer_unreachable,Issuer provider files not retrievable,263,11,8,18350577,3457122,0.18839309521439,0.190750839425619,12440,0.10407597942224,0.0532912367677736
+overall,All plans,issuer_incomplete,Issuer provider files incomplete,77,2,1,54132302,12200729,0.225387218891966,0.19101456330372,120026,0.0304709141274238,0.157203630309097
+overall,All plans,plan_not_in_directory,Plan not found in the directory,8,2,2,384956,72790,0.189086544955787,0.191968027338063,25378.5,0.00316580925999209,0.0011179365826576
+overall,All plans,no_individuals,Plan listed without individual clinicians,4,2,2,4381,180,0.0410865099292399,0.0444704761979512,1120.5,0.00158290462999604,1.27227012142243e-05
+overall,All plans,exposure_ok,Exposure available (exposure status ok),2175,136,30,271472898,49847457,0.183618539335739,0.173669942392409,25097,0.860704392560348,0.788374473639257
+overall,All plans,lost_complete_case,Lost to the complete-case rule (enrollment suppressed),494,81,27,5693160,925902,0.162634108298379,0.171127403784932,2366.5,0.195488721804511,0.0165332968830799
+overall,All plans,analytic,Analytic sample (exposure available and reported enrollment),1681,135,30,265779738,48921555,0.184068038324276,0.174460208042658,41192,0.665215670755837,0.771841176756177
+overall,All plans,excluded_not_analytic,"All excluded cohort plans (comparison group, not a ladder step)",846,96,27,78565376,16656723,0.212010988148265,0.180192536224787,3803,0.334784329244163,0.228158823243823
+plan_type,HMO,cohort,Cohort: plans with a computable in-network denial proportion,1195,78,19,177297240,35457485,0.199988928197641,0.184248764893926,26484,1,1
+plan_type,HMO,excluded_exposure_status,Excluded for exposure status,80,8,6,29795741,7564446,0.253876753727991,0.215039623470436,7628,0.0669456066945607,0.168055300804457
+plan_type,HMO,issuer_unreachable,Issuer provider files not retrievable,45,3,3,334355,82507,0.246764666297797,0.200156985871272,2199,0.0376569037656904,0.0018858443594497
+plan_type,HMO,issuer_incomplete,Issuer provider files incomplete,25,1,1,29074189,7409077,0.254833488218708,0.244934026269676,133538,0.0209205020920502,0.163985570220946
+plan_type,HMO,plan_not_in_directory,Plan not found in the directory,8,2,2,384956,72790,0.189086544955787,0.191968027338063,25378.5,0.00669456066945607,0.00217124643339062
+plan_type,HMO,no_individuals,Plan listed without individual clinicians,2,2,2,2241,72,0.0321285140562249,0.0310220299040465,1120.5,0.00167364016736402,1.26397906701763e-05
+plan_type,HMO,exposure_ok,Exposure available (exposure status ok),1115,74,19,147501499,27893039,0.189103427348898,0.18237063230228,27734,0.933054393305439,0.831944699195543
+plan_type,HMO,lost_complete_case,Lost to the complete-case rule (enrollment suppressed),243,44,14,563047,110167,0.195662173850496,0.18688413183826,1550,0.203347280334728,0.00317572343483745
+plan_type,HMO,analytic,Analytic sample (exposure available and reported enrollment),872,73,19,146938452,27782872,0.189078295176269,0.18116835449009,43361,0.729707112970711,0.828768975760706
+plan_type,HMO,excluded_not_analytic,"All excluded cohort plans (comparison group, not a ladder step)",323,51,15,30358788,7674613,0.252797081359111,0.196531791907514,2067,0.270292887029289,0.171231024239294
+plan_type,EPO,cohort,Cohort: plans with a computable in-network denial proportion,661,52,20,95591122,17996498,0.188265370501666,0.188399037571719,24997,1,1
+plan_type,EPO,excluded_exposure_status,Excluded for exposure status,193,9,7,26403244,5082992,0.192513919880451,0.188069903557444,16270,0.291981845688351,0.276210211236981
+plan_type,EPO,issuer_unreachable,Issuer provider files not retrievable,179,8,6,8601051,1563511,0.181781389274404,0.188069903557444,13274,0.270801815431165,0.0899775085807655
+plan_type,EPO,issuer_incomplete,Issuer provider files incomplete,14,1,1,17802193,3519481,0.19769929468802,0.189027239064575,558906.5,0.0211800302571861,0.186232702656215
+plan_type,EPO,plan_not_in_directory,Plan not found in the directory,0,0,0,0,0,,,,0,0
+plan_type,EPO,no_individuals,Plan listed without individual clinicians,0,0,0,0,0,,,,0,0
+plan_type,EPO,exposure_ok,Exposure available (exposure status ok),468,43,19,69187878,12913506,0.186644053456879,0.188598843747014,31713.5,0.708018154311649,0.723789788763019
+plan_type,EPO,lost_complete_case,Lost to the complete-case rule (enrollment suppressed),81,26,16,227292,46195,0.203240765183112,0.214692482915718,2333,0.122541603630862,0.00237775219334699
+plan_type,EPO,analytic,Analytic sample (exposure available and reported enrollment),387,43,19,68960586,12867311,0.186589351198379,0.186982941650194,45110,0.585476550680787,0.721412036569672
+plan_type,EPO,excluded_not_analytic,"All excluded cohort plans (comparison group, not a ladder step)",274,35,18,26630536,5129187,0.192605473656257,0.193995525714516,6661,0.414523449319213,0.278587963430328
+plan_type,POS,cohort,Cohort: plans with a computable in-network denial proportion,347,10,7,21253823,3460708,0.162827553424153,0.14713216957606,10645,1,1
+plan_type,POS,excluded_exposure_status,Excluded for exposure status,40,2,2,5256310,931534,0.177222043600929,0.160378280384287,40388,0.115273775216138,0.247311271953286
+plan_type,POS,issuer_unreachable,Issuer provider files not retrievable,16,1,1,2419086,391872,0.161991760524429,0.144614836579137,88410,0.0461095100864553,0.113818864493226
+plan_type,POS,issuer_incomplete,Issuer provider files incomplete,24,1,1,2837224,539662,0.190207752366398,0.16706564044439,31137.5,0.069164265129683,0.13349240746006
+plan_type,POS,plan_not_in_directory,Plan not found in the directory,0,0,0,0,0,,,,0,0
+plan_type,POS,no_individuals,Plan listed without individual clinicians,0,0,0,0,0,,,,0,0
+plan_type,POS,exposure_ok,Exposure available (exposure status ok),307,8,6,15997513,2529174,0.158097949350002,0.144748345197952,9042,0.884726224783862,0.752688728046714
+plan_type,POS,lost_complete_case,Lost to the complete-case rule (enrollment suppressed),119,6,5,3236098,513640,0.158722016453148,0.142021276595745,3677,0.342939481268012,0.152259572313179
+plan_type,POS,analytic,Analytic sample (exposure available and reported enrollment),188,8,6,12761415,2015534,0.157939695558839,0.145167438832164,22389,0.54178674351585,0.600429155733536
+plan_type,POS,excluded_not_analytic,"All excluded cohort plans (comparison group, not a ladder step)",159,8,6,8492408,1445174,0.170172464629584,0.149259517717299,4730,0.45821325648415,0.399570844266464
+plan_type,PPO,cohort,Cohort: plans with a computable in-network denial proportion,324,25,16,50202929,8663587,0.172571345389031,0.155198915747236,35770,1,1
+plan_type,PPO,excluded_exposure_status,Excluded for exposure status,39,5,5,11416921,2151849,0.188478925272409,0.191945411040606,46948,0.12037037037037,0.227415436258709
+plan_type,PPO,issuer_unreachable,Issuer provider files not retrievable,23,2,2,6996085,1419232,0.202860885766825,0.223556317895941,34062,0.0709876543209877,0.139356112070672
+plan_type,PPO,issuer_incomplete,Issuer provider files incomplete,14,1,1,4418696,732509,0.16577492545312,0.161880369189599,206363,0.0432098765432099,0.088016697193106
+plan_type,PPO,plan_not_in_directory,Plan not found in the directory,0,0,0,0,0,,,,0,0
+plan_type,PPO,no_individuals,Plan listed without individual clinicians,2,2,2,2140,108,0.0504672897196262,0.0493533863599983,1070,0.00617283950617284,4.26269949309133e-05
+plan_type,PPO,exposure_ok,Exposure available (exposure status ok),285,22,14,38786008,6511738,0.167888842801249,0.149484536082474,35001,0.87962962962963,0.772584563741291
+plan_type,PPO,lost_complete_case,Lost to the complete-case rule (enrollment suppressed),51,10,6,1666723,255900,0.153534810523404,0.127851014856665,3144,0.157407407407407,0.0331997162954377
+plan_type,PPO,analytic,Analytic sample (exposure available and reported enrollment),234,22,14,37119285,6255838,0.168533364799457,0.15458225755296,48614.5,0.722222222222222,0.739384847445853
+plan_type,PPO,excluded_not_analytic,"All excluded cohort plans (comparison group, not a ladder step)",90,14,8,13083644,2407749,0.184027400928977,0.157162058084089,5312.5,0.277777777777778,0.260615152554147
+metal_level,Bronze,cohort,Cohort: plans with a computable in-network denial proportion,822,137,30,85250992,16223929,0.190307803104508,0.175696812142009,27472.5,1,1
+metal_level,Bronze,excluded_exposure_status,Excluded for exposure status,123,14,10,24190641,5109729,0.211227515633009,0.194738190200886,27413,0.14963503649635,0.283757882840824
+metal_level,Bronze,issuer_unreachable,Issuer provider files not retrievable,95,11,8,5325823,1018796,0.191293627294786,0.190750839425619,19471,0.115571776155718,0.0624722701173964
+metal_level,Bronze,issuer_incomplete,Issuer provider files incomplete,27,2,1,18841348,4086593,0.216894937665819,0.197041511876429,359145,0.0328467153284672,0.221010308009085
+metal_level,Bronze,plan_not_in_directory,Plan not found in the directory,1,1,1,23470,4340,0.184916915210908,0.184916915210908,23470,0.00121654501216545,0.000275304714342796
+metal_level,Bronze,no_individuals,Plan listed without individual clinicians,0,0,0,0,0,,,,0,0
+metal_level,Bronze,exposure_ok,Exposure available (exposure status ok),699,124,30,61060351,11114200,0.1820199166559,0.173213696783722,27539,0.85036496350365,0.716242117159176
+metal_level,Bronze,lost_complete_case,Lost to the complete-case rule (enrollment suppressed),88,25,17,200364,33876,0.169072288435048,0.169780588237933,2052,0.10705596107056,0.00235028350168641
+metal_level,Bronze,analytic,Analytic sample (exposure available and reported enrollment),611,123,30,60859987,11080324,0.182062542997257,0.173468947360849,34594,0.74330900243309,0.71389183365749
+metal_level,Bronze,excluded_not_analytic,"All excluded cohort plans (comparison group, not a ladder step)",211,39,20,24391005,5143605,0.210881224451391,0.183754530559555,4730,0.25669099756691,0.28610816634251
+metal_level,Catastrophic,cohort,Cohort: plans with a computable in-network denial proportion,76,35,18,201814,44081,0.218423895269902,0.180347099469709,813,1,1
+metal_level,Catastrophic,excluded_exposure_status,Excluded for exposure status,14,7,5,11444,1705,0.148986368402656,0.143141103059581,835,0.184210526315789,0.0567056794870524
+metal_level,Catastrophic,issuer_unreachable,Issuer provider files not retrievable,9,4,3,6173,1277,0.206868621415843,0.173856209150327,765,0.118421052631579,0.0305875707334476
+metal_level,Catastrophic,issuer_incomplete,Issuer provider files incomplete,0,0,0,0,0,,,,0,0
+metal_level,Catastrophic,plan_not_in_directory,Plan not found in the directory,1,1,1,890,248,0.278651685393258,0.278651685393258,890,0.0131578947368421,0.00441000128831498
+metal_level,Catastrophic,no_individuals,Plan listed without individual clinicians,4,2,2,4381,180,0.0410865099292399,0.0444704761979512,1120.5,0.0526315789473684,0.0217081074652898
+metal_level,Catastrophic,exposure_ok,Exposure available (exposure status ok),62,29,18,190370,42376,0.22259809843988,0.184080529213273,798.5,0.81578947368421,0.943294320512948
+metal_level,Catastrophic,lost_complete_case,Lost to the complete-case rule (enrollment suppressed),48,17,11,43997,8244,0.187376412028093,0.180347099469709,690,0.631578947368421,0.218007670429207
+metal_level,Catastrophic,analytic,Analytic sample (exposure available and reported enrollment),14,13,13,146373,34132,0.233185081948174,0.190622752427257,5175,0.184210526315789,0.72528665008374
+metal_level,Catastrophic,excluded_not_analytic,"All excluded cohort plans (comparison group, not a ladder step)",62,23,12,55441,9949,0.179452030086037,0.173678893218697,709.5,0.81578947368421,0.27471334991626
+metal_level,Gold,cohort,Cohort: plans with a computable in-network denial proportion,759,146,30,54291010,9380705,0.172785604835865,0.173261694058154,19401,1,1
+metal_level,Gold,excluded_exposure_status,Excluded for exposure status,97,14,10,5399180,932544,0.17271956111854,0.18402756028813,13729,0.127799736495389,0.0994488774476658
+metal_level,Gold,issuer_unreachable,Issuer provider files not retrievable,75,11,8,3210428,529027,0.164783947810074,0.178105731325179,6993,0.0988142292490119,0.0591336945103803
+metal_level,Gold,issuer_incomplete,Issuer provider files incomplete,17,2,1,2045438,375512,0.183585129444158,0.18703991482543,45466,0.0223978919631094,0.0376754457137563
+metal_level,Gold,plan_not_in_directory,Plan not found in the directory,5,1,1,143314,28005,0.195410078568737,0.196531791907514,27287,0.00658761528326746,0.00263973722352927
+metal_level,Gold,no_individuals,Plan listed without individual clinicians,0,0,0,0,0,,,,0,0
+metal_level,Gold,exposure_ok,Exposure available (exposure status ok),662,133,30,48891830,8448161,0.172792898118152,0.172733886148723,20985,0.872200263504611,0.900551122552334
+metal_level,Gold,lost_complete_case,Lost to the complete-case rule (enrollment suppressed),189,70,26,552008,100783,0.182575252532572,0.177768349596945,2333,0.24901185770751,0.0101675765472037
+metal_level,Gold,analytic,Analytic sample (exposure available and reported enrollment),473,108,30,48339822,8347378,0.172681190261727,0.170879748643245,39988,0.623188405797102,0.890383546005131
+metal_level,Gold,excluded_not_analytic,"All excluded cohort plans (comparison group, not a ladder step)",286,84,27,5951188,1033327,0.173633734978629,0.179961956571681,3449.5,0.376811594202899,0.10961645399487
+metal_level,Platinum,cohort,Cohort: plans with a computable in-network denial proportion,27,8,4,2078443,369662,0.177855250300345,0.171809311138,18615,1,1
+metal_level,Platinum,excluded_exposure_status,Excluded for exposure status,15,2,1,1776303,300829,0.169356804554178,0.171809311138,25794,0.555555555555556,0.85463156795736
+metal_level,Platinum,issuer_unreachable,Issuer provider files not retrievable,0,0,0,0,0,,,,0,0
+metal_level,Platinum,issuer_incomplete,Issuer provider files incomplete,15,2,1,1776303,300829,0.169356804554178,0.171809311138,25794,0.555555555555556,0.85463156795736
+metal_level,Platinum,plan_not_in_directory,Plan not found in the directory,0,0,0,0,0,,,,0,0
+metal_level,Platinum,no_individuals,Plan listed without individual clinicians,0,0,0,0,0,,,,0,0
+metal_level,Platinum,exposure_ok,Exposure available (exposure status ok),12,6,4,302140,68833,0.227818229959621,0.151921218279144,8390.5,0.444444444444444,0.14536843204264
+metal_level,Platinum,lost_complete_case,Lost to the complete-case rule (enrollment suppressed),3,2,2,3274,427,0.130421502748931,0.205263157894737,190,0.111111111111111,0.00157521760279209
+metal_level,Platinum,analytic,Analytic sample (exposure available and reported enrollment),9,5,4,298866,68406,0.228885186003092,0.0933679985404123,10893,0.333333333333333,0.143793214439848
+metal_level,Platinum,excluded_not_analytic,"All excluded cohort plans (comparison group, not a ladder step)",18,4,2,1779577,301256,0.169285172824778,0.176915576879557,24631,0.666666666666667,0.856206785560153
+metal_level,Silver,cohort,Cohort: plans with a computable in-network denial proportion,843,146,30,202522855,39559901,0.195335489419207,0.178265497789927,33418,1,1
+metal_level,Silver,excluded_exposure_status,Excluded for exposure status,103,14,10,41494648,9386014,0.226198183438018,0.198983962665421,22539,0.122182680901542,0.204888717374639
+metal_level,Silver,issuer_unreachable,Issuer provider files not retrievable,84,11,8,9808153,1908022,0.194534281836754,0.200992569718086,12758,0.099644128113879,0.0484298574597914
+metal_level,Silver,issuer_incomplete,Issuer provider files incomplete,18,2,1,31469213,7437795,0.236351477871404,0.191345140452222,422218.5,0.0213523131672598,0.155385983473322
+metal_level,Silver,plan_not_in_directory,Plan not found in the directory,1,1,1,217282,40197,0.184999217606613,0.184999217606613,217282,0.00118623962040332,0.00107287644152557
+metal_level,Silver,no_individuals,Plan listed without individual clinicians,0,0,0,0,0,,,,0,0
+metal_level,Silver,exposure_ok,Exposure available (exposure status ok),740,133,30,161028207,30173887,0.187382618003068,0.17570376561299,35207.5,0.877817319098458,0.795111282625361
+metal_level,Silver,lost_complete_case,Lost to the complete-case rule (enrollment suppressed),166,39,20,4893517,782572,0.159920155585441,0.156169977117553,3419.5,0.196915776986951,0.0241627889355994
+metal_level,Silver,analytic,Analytic sample (exposure available and reported enrollment),574,125,30,156134690,29391315,0.188243336570496,0.179305632143483,58886,0.680901542111507,0.770948493689762
+metal_level,Silver,excluded_not_analytic,"All excluded cohort plans (comparison group, not a ladder step)",269,53,21,46388165,10168586,0.219206472168063,0.173813420621931,4901,0.319098457888494,0.229051506310238

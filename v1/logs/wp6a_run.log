@@ -1,0 +1,70 @@
+2026-10-28 13:26:50 [INFO] === 05_descriptives.R start ===
+2026-10-28 13:26:50 [INFO] out-of-network anomaly: 2 issuers (37160, 73836), 30 plans over 6 issuers
+2026-10-28 13:26:50 [INFO] attrition tie-out to ledger_kff.csv att_ keys: 10 of 10 measures tie (total, issuers reported, issuers suppressed)
+2026-10-28 13:26:50 [INFO] wrote desc_attrition.csv (13 rows)
+2026-10-28 13:26:50 [INFO] wrote desc_attrition_ratios.csv (16 rows)
+2026-10-28 13:26:50 [INFO] wrote desc_oon_exclusions.csv (3 rows)
+2026-10-28 13:26:50 [INFO] wrote desc_issuer_funnel.csv (158 rows)
+2026-10-28 13:26:50 [INFO] wrote desc_funnel_summary.csv (1 rows)
+2026-10-28 13:26:50 [INFO] wrote desc_funnel_limits_grid.csv (200 rows)
+2026-10-28 13:26:50 [INFO] funnel: 158 issuers; pooled rate 0.18726; tau2 0.000763493 (tau 0.0276); phi 13770.9; outside 99.8 pct unadjusted 156, adjusted 34; outside 95 pct unadjusted 157, adjusted 56
+2026-10-28 13:26:50 [INFO] wrote desc_funnel_method.txt
+2026-10-28 13:26:50 [INFO] wrote desc_state_rates.csv (30 rows)
+2026-10-28 13:26:50 [INFO] wrote desc_cohort_flow.csv (6 rows)
+2026-10-28 13:26:50 [INFO] wrote desc_plan_characteristics.csv (44 rows)
+2026-10-28 13:26:50 [INFO] wrote desc_reason_mix.csv (100 rows)
+2026-10-28 13:26:50 [INFO] wrote desc_reason_mix_wide.csv (10 rows)
+2026-10-28 13:26:50 [INFO] variance partition: fitting on 2527 plans, 149 issuers, 30 states
+2026-10-28 13:26:50 [INFO] fit attempt laplace_bobyqa: clean
+2026-10-28 13:26:51 [INFO] convergence cross-check (laplace_nelder_mead): clean=TRUE, max abs difference in the three variances = 2.83e-06
+2026-10-28 13:26:51 [INFO] parametric bootstrap, nsim = 500 (about 2 to 3 minutes)
+2026-10-28 13:27:06 [INFO] === 05_descriptives.R start ===
+2026-10-28 13:27:06 [INFO] out-of-network anomaly: 2 issuers (37160, 73836), 30 plans over 6 issuers
+2026-10-28 13:27:06 [INFO] attrition tie-out to ledger_kff.csv att_ keys: 10 of 10 measures tie (total, issuers reported, issuers suppressed)
+2026-10-28 13:27:06 [INFO] wrote desc_attrition.csv (13 rows)
+2026-10-28 13:27:06 [INFO] wrote desc_attrition_ratios.csv (16 rows)
+2026-10-28 13:27:06 [INFO] wrote desc_oon_exclusions.csv (3 rows)
+2026-10-28 13:27:06 [INFO] wrote desc_issuer_funnel.csv (158 rows)
+2026-10-28 13:27:06 [INFO] wrote desc_funnel_summary.csv (1 rows)
+2026-10-28 13:27:06 [INFO] wrote desc_funnel_limits_grid.csv (200 rows)
+2026-10-28 13:27:06 [INFO] funnel: 158 issuers; pooled rate 0.18726; tau2 0.000763493 (tau 0.0276); phi 13770.9; outside 99.8 pct unadjusted 156, adjusted 34; outside 95 pct unadjusted 157, adjusted 56
+2026-10-28 13:27:06 [INFO] wrote desc_funnel_method.txt
+2026-10-28 13:27:06 [INFO] wrote desc_state_rates.csv (30 rows)
+2026-10-28 13:27:06 [INFO] wrote desc_cohort_flow.csv (6 rows)
+2026-10-28 13:27:06 [INFO] wrote desc_plan_characteristics.csv (44 rows)
+2026-10-28 13:27:06 [INFO] wrote desc_reason_mix.csv (100 rows)
+2026-10-28 13:27:06 [INFO] wrote desc_reason_mix_wide.csv (10 rows)
+2026-10-28 13:27:06 [INFO] variance partition: fitting on 2527 plans, 149 issuers, 30 states
+2026-10-28 13:27:06 [INFO] fit attempt laplace_bobyqa: clean
+2026-10-28 13:27:07 [INFO] convergence cross-check (laplace_nelder_mead): clean=TRUE, max abs difference in the three variances = 2.83e-06
+2026-10-28 13:27:07 [INFO] parametric bootstrap, nsim = 500 (about 2 to 3 minutes)
+2026-10-28 13:29:54 [INFO] bootstrap: 500 of 500 replicates usable
+2026-10-28 13:29:55 [INFO] wrote desc_variance_partition.csv (4 rows)
+2026-10-28 13:29:55 [INFO] variance components: state 0.1035, issuer 0.1538, plan 0.09766; singular=FALSE; among-levels VPC state/issuer/plan = 0.292 / 0.433 / 0.275
+2026-10-28 13:29:55 [INFO] ledger_desc.csv written with 203 keys; sources map in logs/wp6a_ledger_sources.csv
+2026-10-28 13:29:55 [INFO] === 05_descriptives.R done ===
+2026-10-28 13:35:01 [INFO] === 05_descriptives.R start ===
+2026-10-28 13:35:06 [INFO] out-of-network anomaly: 2 issuers (37160, 73836), 30 plans over 6 issuers
+2026-10-28 13:35:06 [INFO] attrition tie-out to ledger_kff.csv att_ keys: 10 of 10 measures tie (total, issuers reported, issuers suppressed)
+2026-10-28 13:35:06 [INFO] wrote desc_attrition.csv (13 rows)
+2026-10-28 13:35:06 [INFO] wrote desc_attrition_ratios.csv (16 rows)
+2026-10-28 13:35:06 [INFO] wrote desc_oon_exclusions.csv (3 rows)
+2026-10-28 13:35:07 [INFO] wrote desc_issuer_funnel.csv (158 rows)
+2026-10-28 13:35:07 [INFO] wrote desc_funnel_summary.csv (1 rows)
+2026-10-28 13:35:07 [INFO] wrote desc_funnel_limits_grid.csv (200 rows)
+2026-10-28 13:35:07 [INFO] funnel: 158 issuers; pooled rate 0.18726; tau2 0.000763493 (tau 0.0276); phi 13770.9; outside 99.8 pct unadjusted 156, adjusted 34; outside 95 pct unadjusted 157, adjusted 56
+2026-10-28 13:35:09 [INFO] wrote desc_funnel_method.txt
+2026-10-28 13:35:09 [INFO] wrote desc_state_rates.csv (30 rows)
+2026-10-28 13:35:11 [INFO] wrote desc_cohort_flow.csv (6 rows)
+2026-10-28 13:35:12 [INFO] wrote desc_plan_characteristics.csv (44 rows)
+2026-10-28 13:35:14 [INFO] wrote desc_reason_mix.csv (100 rows)
+2026-10-28 13:35:14 [INFO] wrote desc_reason_mix_wide.csv (10 rows)
+2026-10-28 13:35:14 [INFO] variance partition: fitting on 2527 plans, 149 issuers, 30 states
+2026-10-28 13:35:14 [INFO] fit attempt laplace_bobyqa: clean
+2026-10-28 13:35:15 [INFO] convergence cross-check (laplace_nelder_mead): clean=TRUE, max abs difference in the three variances = 2.83e-06
+2026-10-28 13:35:15 [INFO] parametric bootstrap, nsim = 500 (about 2 to 3 minutes)
+2026-10-28 13:38:13 [INFO] bootstrap: 500 of 500 replicates usable
+2026-10-28 13:38:35 [INFO] wrote desc_variance_partition.csv (4 rows)
+2026-10-28 13:38:35 [INFO] variance components: state 0.1035, issuer 0.1538, plan 0.09766; singular=FALSE; among-levels VPC state/issuer/plan = 0.292 / 0.433 / 0.275
+2026-10-28 13:38:40 [INFO] ledger_desc.csv written with 203 keys; sources map in logs/wp6a_ledger_sources.csv
+2026-10-28 13:38:40 [INFO] === 05_descriptives.R done ===

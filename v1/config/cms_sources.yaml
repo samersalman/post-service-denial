@@ -1,0 +1,148 @@
+# =====================================================================
+# cms_sources.yaml (WP2). Sources, workbook layout and marker rules.
+# Single top-level key (cms_sources) so load_config() has no collision with
+# study_config.yaml (study, gates, suppression, figures, manuscript, inference).
+# Everything here was DISCOVERED on 2026-10-28 from the live CMS page and the
+# downloaded files, not assumed. 01_download_cms.R re-checks every URL below
+# against the live page (the "2026 Exchange PUF Datasets" block) and stops if one
+# is missing; 02_parse_cms.R re-checks the sheet names, header anchor and row counts.
+# =====================================================================
+cms_sources:
+  discovered_utc_date: "2026-10-28"
+  page_url: "https://www.cms.gov/marketplace/resources/data/public-use-files"
+  page_section: "2026 Exchange PUF Datasets"
+  plan_year: 2026
+  data_year: 2024
+  year_mapping_note: >-
+    CMS dictionary: "PUF data always reflect data from the plan year that was two years
+    prior. Therefore, the plan year 2026 PUF contains data from plan year 2024." Claims have
+    dates of service in calendar year 2024. Folder name marketplace-puf/2026 = plan year 2026.
+    PY2027 files return 404 on 2026-10-28 (checked by WP1).
+  vintage_note: >-
+    The CMS page labels the Transparency in Coverage PUF "Updated September 26, 2025" (the
+    vintage KFF cites). The zip on the server has Last-Modified 2025-10-28 and the workbook
+    inside is dated 2025-10-27, a month later. Hashes are in v1/data_raw/provenance/manifest.csv.
+    Expect tiny differences from KFF (WP1: 263,021 vs 262,982 unrestricted internal appeals).
+  download_dir: "cms_py2026"
+  max_file_mb_in_v1: 5
+  files:
+    - id: transparency_zip
+      kind: zip
+      page_label: "Transparency in Coverage PUF"
+      page_updated: "September 26, 2025"
+      url: "https://download.cms.gov/marketplace-puf/2026/transparency-in-coverage-puf.zip"
+      member: "Transparency_in_Coverage_PUF.xlsx"
+    - id: plan_attributes_zip
+      kind: zip
+      page_label: "Plan Attributes PUF"
+      page_updated: "August 4, 2026"
+      url: "https://download.cms.gov/marketplace-puf/2026/plan-attributes-puf.zip"
+      member: "plan-attributes-puf.csv"
+    - id: crosswalk_zip
+      kind: zip
+      page_label: "Plan ID Crosswalk PUF"
+      page_updated: "October 30, 2025"
+      url: "https://download.cms.gov/marketplace-puf/2026/plan-id-crosswalk-puf.zip"
+      member: "plan-id-crosswalk-puf.csv"
+    - id: network_zip
+      kind: zip
+      page_label: "Network PUF"
+      page_updated: "August 4, 2026"
+      url: "https://download.cms.gov/marketplace-puf/2026/network-puf.zip"
+      member: "network-puf.csv"
+    - id: mr_url_zip
+      kind: zip
+      page_label: "Machine-readable URL PUF"
+      page_updated: "May 20, 2026"
+      url: "https://download.cms.gov/marketplace-puf/2026/machine-readable-url-puf.zip"
+      member: "machine-readable-url-puf.xlsx"
+    - id: tic_dictionary
+      kind: pdf
+      page_label: "Transparency in Coverage Data Dictionary (PDF)"
+      url: "https://www.cms.gov/files/document/transparency-coverage-puf-datadictionary-py26.pdf"
+    - id: tic_disclaimer
+      kind: pdf
+      page_label: "Data Disclaimer for Transparency in Coverage PUF (PDF)"
+      url: "https://www.cms.gov/files/document/transparency-coverage-datadisclaimer-py26.pdf-0"
+    - id: plan_attributes_dictionary
+      kind: pdf
+      page_label: "Plan Attributes Data Dictionary (PDF)"
+      url: "https://www.cms.gov/files/document/planattributes-datadictionary-py26.pdf"
+    - id: crosswalk_dictionary
+      kind: pdf
+      page_label: "Plan ID Crosswalk Data Dictionary (PDF)"
+      url: "https://www.cms.gov/files/document/plan-id-crosswalk-datadictionary-py26.pdf"
+    - id: network_dictionary
+      kind: pdf
+      page_label: "Network Data Dictionary (PDF)"
+      url: "https://www.cms.gov/files/document/network-datadictionary-py26.pdf"
+    - id: mr_url_dictionary
+      kind: pdf
+      page_label: "Machine-readable Data Dictionary (PDF)"
+      url: "https://www.cms.gov/files/document/machinereadable-datadictionary-py26.pdf"
+  # Benchmark working file published by KFF (not CMS). Used only for row-level
+  # reconciliation in G2; stored under data_raw/kff_2024 with its own manifest row.
+  benchmark_files:
+    - id: kff_working_file
+      kind: xlsx
+      source: "KFF, Long M, Lo J, Pestaina K. Claims Denials and Appeals in ACA Marketplace Plans in 2024 (published 2026-03-24)"
+      url: "https://files.kff.org/attachment/2024-kff-transparency-data-working-file.xlsx"
+      download_dir: "kff_2024"
+  workbook:
+    file: "Transparency_in_Coverage_PUF.xlsx"
+    sheet_disclaimer: "PUF Data Disclaimer"
+    sheet_qhp: "Transparency 2026 - Ind QHP"
+    sheet_sadp: "Transparency 2026 - Ind SADP"
+    sheet_shop: "Transparency 2026 - SHOP"
+    header_anchor: "Plan_ID"
+    header_anchor_note: >-
+      The header row is the first row that contains the string Plan_ID in ANY column
+      (row 3 on 2026-10-28; Plan_ID sits in column 8, not column 1). Rows 1 and 2 are a title
+      and the marker legend. The header row is never assumed.
+    expected_data_rows:
+      qhp: 4159
+      sadp: 652
+      shop: 145
+    expected_columns: 44
+    expected_issuers_qhp: 185
+    expected_states_qhp: 30
+  markers:
+    star1: "*"
+    star2: "**"
+    star3: "***"
+    na: "N/A"
+    legend_text:
+      star1: "Data not available for this issuer/plan"
+      star2: "Suppressed data due to small cell sizes"
+      star3: "Data not required due to plan type"
+      na: "Data not applicable because issuer or plan offering is new to the Exchange"
+      missing_url: "Financial Link unavailable on NAIC website"
+    marker_column_values: [numeric, star1, star2, star3, na]
+  suppression_rule:
+    cms_statement_of_threshold: "none found"
+    detail: >-
+      The CMS data dictionary, the data disclaimer and the Exchange PUF FAQ contain no suppression
+      rule and no numeric threshold; the workbook legend says only "Suppressed data due to small
+      cell sizes" for "**". The statement "CMS does not report values under 10" and "CMS suppresses
+      reporting of observations lower than 10" is KFF's, not CMS's.
+    empirical_check: >-
+      No numeric value from 1 to 10 appears in any issuer-level or plan-level claim, denial-reason or
+      appeal count column (26 columns, 5,841 true zeros shown as 0, smallest positive value 11, about
+      200 cells at each of 11, 12 and 13, none at 10). So "**" most likely stands for a count of 1 to
+      10. This is an inference from the file, not a CMS statement; it is one unit wider than WP1's
+      reading (1 to 9) and than KFF's wording (values under 10). Percent columns are not count
+      columns. Enrollment shows the same lower edge (smallest numeric value 11); see enrollment_note.
+    kff_replication_rule: "suppressed values assumed to be zero (KFF). Used ONLY in the G2 replication, never in analysis."
+    analysis_rule: >-
+      Cells with "**" are kept as NA plus a marker column value star2. Only star2 cells are eligible
+      for the suppression sensitivity bounds downstream (WP5 sets the bounds). star1, star3 and na are
+      never bounded: they are structurally missing, not small counts.
+  enrollment_note: >-
+    Average Monthly Enrollment and Disenrollment are text columns that mix "*" (not available),
+    "**" and numbers. Enrollment cells are numeric for only part of the plans (1,949 of 4,159); the
+    smallest numeric value is 11. See v1/qa/g2_reconciliation.md for the counts.
+  issuer_level_columns_repeated_note: >-
+    The Individual QHP tab repeats issuer-level columns (Issuer_Claims_*, Issuer_*_Appeals_*,
+    URL_Claims_Payment_Policies) on every plan row of the issuer. Summing them over plan rows
+    multiplies them. issuer_state.csv is built by de-duplicating on Issuer_ID after checking the
+    repeated values are identical.

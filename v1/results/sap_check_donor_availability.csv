@@ -1,0 +1,5 @@
+metric,value,note
+plans_outside_cohort,1632,rows of the plan table that are not cohort plans
+outside_cohort_missing_network_id,74,""
+outside_cohort_with_agreeing_donor,723,upper bound for the plans addable in 9.4; the 21 suppressed-outcome plans are a subset
+outside_cohort_with_donor_and_numeric_enrollment,7,upper bound; the outcome-side count is determined by WP6b

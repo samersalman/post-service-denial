@@ -1,0 +1,4 @@
+pair,n_plans,partial_correlation,raw_spearman_log2_density,note
+orthopaedic vs dermatology density,1681,0.960616388470179,0.982743782883377,"residuals after log2 enrollment, plan type, metal group, issuer effects; equals the partial correlation of log2 counts"
+"orthopaedic vs ophthalmology density (frozen control definition, offset)",1681,0.78395846872836,0.840231307372497,raw Spearman uses the offset definition
+orthopaedic vs ophthalmology density (plans with a positive ophthalmology count),1676,0.753479796011878,0.838798273628226,raw Spearman uses plans with finite log2 density

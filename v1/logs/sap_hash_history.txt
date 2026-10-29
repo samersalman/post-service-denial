@@ -1,0 +1,7 @@
+SUPERSEDED 2026-10-28, never used by any outcome analysis, replaced by the F5 re-freeze because of reviewer R5 (see plans/reviews/R5.md). Original freeze by WP5 follows.
+d175f7bdb206b1bc6c4d1ee15e5371f739e60860a94449918acccd6145ee01ad  config/sap_frozen.md
+8f9a75c4b747006b4e6cf399c30b405e637c389141e7308f8cde497b462362ce  config/design_constants.csv
+1a68c6dda9eda57ceb9870a7fd24b4fa940e3cbc08bcf523942cb810b96e8cb1  config/specialty_text_crosswalk.csv
+80797db7189b74309d524255cc09a9144985a9ec0356ba979429660aa00dc492  config/ortho_taxonomy.csv
+frozen_at: 2026-10-28T17:59:25-05:00
+frozen_by: WP5

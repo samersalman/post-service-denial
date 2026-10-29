@@ -1,0 +1,186 @@
+issuer_id,state,issuer_name,in_network_claims_received,in_network_claims_received_marker,out_of_network_claims_received,out_of_network_claims_received_marker,in_network_claims_denied,in_network_claims_denied_marker,out_of_network_claims_denied,out_of_network_claims_denied_marker,share_of_national_in_network_claims,in_network_claims_over_1000,has_reported_in_network_count,has_mr_index_url,in_network_puf
+33602,TX,Blue Cross Blue Shield of Texas,58806743,numeric,2697101,numeric,11028737,numeric,906328,numeric,0.1303197121473687,TRUE,TRUE,TRUE,TRUE
+30252,FL,"Health Options, Inc.",42561091,numeric,474833,numeric,10507969,numeric,83200,numeric,0.09431825067744297,TRUE,TRUE,TRUE,TRUE
+16842,FL,Blue Cross and Blue Shield of Florida,22220889,numeric,1031825,numeric,4251990,numeric,248604,numeric,0.049242990011173236,TRUE,TRUE,TRUE,TRUE
+29418,TX,Celtic Insurance Company,16238521,numeric,1674627,numeric,2652607,numeric,258074,numeric,0.035985658692558466,TRUE,TRUE,TRUE,TRUE
+11512,NC,Blue Cross and Blue Shield of NC,16183703,numeric,776255,numeric,3116071,numeric,101642,numeric,0.0358641783041531,TRUE,TRUE,TRUE,TRUE
+40220,TX,"UnitedHealthcare of Texas, Inc.",14698969,numeric,5348859,numeric,2550560,numeric,2251733,numeric,0.03257390753545212,TRUE,TRUE,TRUE,TRUE
+26065,SC,Blue Cross and Blue Shield of South Carolina,11796220,numeric,324828,numeric,1827005,numeric,268959,numeric,0.026141219805814336,TRUE,TRUE,TRUE,TRUE
+90714,MS,Ambetter of Magnolia Inc.,11374142,numeric,852494,numeric,1824195,numeric,196741,numeric,0.025205866466083603,TRUE,TRUE,TRUE,TRUE
+46944,AL,Blue Cross and Blue Shield of Alabama,10704172,numeric,204199,numeric,2038603,numeric,181561,numeric,0.02372116772078202,TRUE,TRUE,TRUE,TRUE
+70111,TN,Celtic Insurance Company,8726180,numeric,1488485,numeric,1645943,numeric,268561,numeric,0.01933780392745311,TRUE,TRUE,TRUE,TRUE
+87571,OK,Blue Cross Blue Shield of Oklahoma,8439891,numeric,856070,numeric,1385537,numeric,280000,numeric,0.018703368177951426,TRUE,TRUE,TRUE,TRUE
+68781,UT,"SelectHealth, Inc.",8402145,numeric,243867,numeric,1571221,numeric,136635,numeric,0.018619720493965347,TRUE,TRUE,TRUE,TRUE
+40788,TX,Scott and White Health Plan,8274564,numeric,1360874,numeric,1205777,numeric,270578,numeric,0.0183369923858048,TRUE,TRUE,TRUE,TRUE
+62141,AR,Celtic Insurance Company,8079882,numeric,576856,numeric,1297980,numeric,51904,numeric,0.017905563932093735,TRUE,TRUE,TRUE,TRUE
+79222,SC,"Absolute Total Care, Inc",8043578,numeric,1059613,numeric,1471467,numeric,133679,numeric,0.017825111817447663,TRUE,TRUE,TRUE,TRUE
+27248,TX,"Community Health Choice, Inc.",6776421,numeric,680140,numeric,1449319,numeric,409025,numeric,0.01501700636794975,TRUE,TRUE,TRUE,TRUE
+14002,TN,BlueCross BlueShield of Tennessee,6270421,numeric,1095096,numeric,1323501,numeric,652680,numeric,0.01389567621119258,TRUE,TRUE,TRUE,TRUE
+69461,AL,UnitedHealthcare Insurance Company,6010107,numeric,1396975,numeric,1073259,numeric,794119,numeric,0.013318802815093596,TRUE,TRUE,TRUE,TRUE
+99723,MO,Celtic Insurance Company,5919313,numeric,590539,numeric,1113385,numeric,137813,numeric,0.0131175971821833,TRUE,TRUE,TRUE,TRUE
+87226,TX,Superior Health Plan,5807390,numeric,2973880,numeric,1287305,numeric,414165,numeric,0.012869568258992128,TRUE,TRUE,TRUE,TRUE
+19636,LA,"HMO Louisiana, Inc.",5472870,numeric,556952,numeric,993016,numeric,9504,numeric,0.012128249357730452,TRUE,TRUE,TRUE,TRUE
+99248,TN,Cigna Health and Life Insurance Company,4704089,numeric,139697,numeric,955423,numeric,121987,numeric,0.010424578766343232,TRUE,TRUE,TRUE,TRUE
+48121,FL,Cigna Health and Life Insurance Company,4620013,numeric,157117,numeric,926080,numeric,134858,numeric,0.010238260674921264,TRUE,TRUE,TRUE,TRUE
+77264,NC,Ambetter of North Carolina Inc.,4295438,numeric,850630,numeric,924286,numeric,158416,numeric,0.009518980564981624,TRUE,TRUE,TRUE,TRUE
+75293,AR,USAble Mutual Insurance Company,4295266,numeric,19729,numeric,669702,numeric,7106,numeric,0.009518599401371026,TRUE,TRUE,TRUE,TRUE
+29698,MI,Priority Health,4106893,numeric,113292,numeric,324164,numeric,44180,numeric,0.00910115211753937,TRUE,TRUE,TRUE,TRUE
+76589,TX,"Cigna HealthCare of Texas, Inc.",4080439,numeric,139402,numeric,884055,numeric,130069,numeric,0.009042528267802503,TRUE,TRUE,TRUE,TRUE
+25896,IA,"Wellmark Health Plan of Iowa, Inc.",3945784,numeric,140278,numeric,704036,numeric,108660,numeric,0.008744123698122391,TRUE,TRUE,TRUE,TRUE
+32753,MO,Healthy Alliance Life Co(Anthem BCBS),3941746,numeric,307614,numeric,295802,numeric,131639,numeric,0.008735175217543368,TRUE,TRUE,TRUE,TRUE
+34368,KS,Celtic Insurance Company,3865491,numeric,337936,numeric,734165,numeric,65340,numeric,0.008566188990066061,TRUE,TRUE,TRUE,TRUE
+41047,OH,Buckeye Community Health Plan,3673782,numeric,407347,numeric,714834,numeric,105758,numeric,0.00814134890504282,TRUE,TRUE,TRUE,TRUE
+68398,FL,"UnitedHealthcare of Florida, Inc.",3564380,numeric,1012085,numeric,719832,numeric,473962,numeric,0.007898906688027903,TRUE,TRUE,TRUE,TRUE
+56503,FL,"Florida Health Care Plan, Inc.",3536806,numeric,90389,numeric,602771,numeric,68552,numeric,0.007837800842687148,TRUE,TRUE,TRUE,TRUE
+29276,OH,Community Insurance Company(Anthem BCBS),3535080,numeric,306758,numeric,294314,numeric,195583,numeric,0.007833975910176153,TRUE,TRUE,TRUE,TRUE
+54192,IN,"CareSource Indiana, Inc.",3524662,numeric,221570,numeric,638511,numeric,161542,numeric,0.007810888918924975,TRUE,TRUE,TRUE,TRUE
+58594,MI,"Meridian Health Plan of Michigan, Inc.",3404769,numeric,788871,numeric,941541,numeric,117882,numeric,0.007545197937731127,TRUE,TRUE,TRUE,TRUE
+98185,MI,Blue Care Network of Michigan,3398397,numeric,125642,numeric,630298,numeric,96908,numeric,0.007531077155599,TRUE,TRUE,TRUE,TRUE
+91450,AZ,"Health Net of Arizona, Inc.",3202241,numeric,378567,numeric,596289,numeric,97626,numeric,0.007096382218387815,TRUE,TRUE,TRUE,TRUE
+20069,TX,Oscar Insurance Company,3001076,numeric,520276,numeric,764285,numeric,286065,numeric,0.0066505869990517354,TRUE,TRUE,TRUE,TRUE
+77552,OH,"CareSource Ohio, Inc.",2814185,numeric,271798,numeric,562546,numeric,160547,numeric,0.006236423927260226,TRUE,TRUE,TRUE,TRUE
+40702,AZ,"UnitedHealthcare of Arizona, Inc.",2715431,numeric,393847,numeric,646181,numeric,236835,numeric,0.006017578397022286,TRUE,TRUE,TRUE,TRUE
+17575,IN,Anthem Ins Companies Inc(Anthem BCBS),2552004,numeric,1001953,numeric,267110,numeric,540076,numeric,0.0056554131331322584,TRUE,TRUE,TRUE,TRUE
+56766,MS,Cigna Health and Life Insurance Company,2495922,numeric,113128,numeric,691183,numeric,103807,numeric,0.005531131635402505,TRUE,TRUE,TRUE,TRUE
+79475,WI,Compcare Health Serv Ins Co(Anthem BCBS),2462417,numeric,423953,numeric,213637,numeric,243159,numeric,0.005456882293698653,TRUE,TRUE,TRUE,TRUE
+31274,WV,Highmark Blue Cross Blue Shield West Virginia,2341171,numeric,38913,numeric,471125,numeric,14234,numeric,0.005188192973172606,TRUE,TRUE,TRUE,TRUE
+96751,NH,Matthew Thornton Hlth Plan(Anthem BCBS),2199992,numeric,47282,numeric,153654,numeric,25338,numeric,0.004875330779099838,TRUE,TRUE,TRUE,TRUE
+69443,TN,UnitedHealthcare Insurance Company,2157936,numeric,437684,numeric,446509,numeric,246775,numeric,0.004782131844173792,TRUE,TRUE,TRUE,TRUE
+36194,FL,"Health First Commercial Plans, Inc.",2123475,numeric,158074,numeric,475722,numeric,101847,numeric,0.004705763941936621,TRUE,TRUE,TRUE,TRUE
+76168,DE,Highmark BCBSD Inc.,2042140,numeric,46365,numeric,387306,numeric,18805,numeric,0.004525520091541671,TRUE,TRUE,TRUE,TRUE
+64353,OH,"Molina Healthcare of Ohio, Inc.",1975213,numeric,223180,numeric,428806,numeric,92942,numeric,0.0043772053417367555,TRUE,TRUE,TRUE,TRUE
+62505,OK,Celtic Insurance Company,1824797,numeric,488729,numeric,438378,numeric,59946,numeric,0.004043873332134411,TRUE,TRUE,TRUE,TRUE
+15560,MI,Blue Cross Blue Shield of Michigan Mutual Insurance Company,1807844,numeric,434890,numeric,236257,numeric,74902,numeric,0.004006304339748039,TRUE,TRUE,TRUE,TRUE
+90787,LA,"Ambetter Health of Louisiana, Inc.",1704183,numeric,406869,numeric,326106,numeric,111146,numeric,0.003776584566270559,TRUE,TRUE,TRUE,TRUE
+37903,AR,"QualChoice Life & Health Insurance Company, Inc.",1680519,numeric,124177,numeric,262731,numeric,10461,numeric,0.003724143544868382,TRUE,TRUE,TRUE,TRUE
+53932,AL,Celtic Insurance Company,1644320,numeric,551207,numeric,352236,numeric,85607,numeric,0.003643924117310175,TRUE,TRUE,TRUE,TRUE
+54332,NC,"UnitedHealthcare of North Carolina, Inc",1601659,numeric,261882,numeric,339054,numeric,176928,numeric,0.0035493844615445275,TRUE,TRUE,TRUE,TRUE
+70525,AR,"QCA Health Plan, Inc.",1593974,numeric,121950,numeric,245717,numeric,11076,numeric,0.00353235398278034,TRUE,TRUE,TRUE,TRUE
+53901,AZ,"Blue Cross and Blue Shield of Arizona, Inc.",1522332,numeric,82443,numeric,233016,numeric,77924,numeric,0.0033735904746965513,TRUE,TRUE,TRUE,TRUE
+13262,AR,"HMO Partners, Inc.",1506621,numeric,24373,numeric,248827,numeric,8584,numeric,0.0033387738381494923,TRUE,TRUE,TRUE,TRUE
+87416,WI,Common Ground Healthcare Cooperative,1504864,numeric,28650,numeric,143772,numeric,26485,numeric,0.0033348802075458908,TRUE,TRUE,TRUE,TRUE
+54172,FL,"Molina Healthcare of Florida, Inc",1447710,numeric,161927,numeric,341296,numeric,72623,numeric,0.003208223085452414,TRUE,TRUE,TRUE,TRUE
+20305,NE,Medica Insurance Company,1322366,numeric,45007,numeric,281819,numeric,37200,numeric,0.002930452320297136,TRUE,TRUE,TRUE,TRUE
+99969,OH,Medical Health Insuring Corp. of Ohio,1320144,numeric,39919,numeric,198720,numeric,38093,numeric,0.00292552821830442,TRUE,TRUE,TRUE,TRUE
+38166,WI,"Security Health Plan of Wisconsin, Inc.",1306739,numeric,57574,numeric,247191,numeric,26688,numeric,0.0028958218334203686,TRUE,TRUE,TRUE,TRUE
+11269,WY,Blue Cross Blue Shield of Wyoming,1305051,numeric,28568,numeric,229909,numeric,10747,numeric,0.0028920811114745066,TRUE,TRUE,TRUE,TRUE
+29341,OH,Oscar Buckeye State Insurance Corp.,1276642,numeric,633889,numeric,337922,numeric,356571,numeric,0.0028291248497683517,TRUE,TRUE,TRUE,TRUE
+86382,FL,Sunshine State Health Plan,1271365,numeric,476090,numeric,256694,numeric,87510,numeric,0.0028174306615525264,TRUE,TRUE,TRUE,TRUE
+66252,TX,CHRISTUS Health Plan,1206500,numeric,252696,numeric,141176,numeric,111019,numeric,0.002673685442939772,TRUE,TRUE,TRUE,TRUE
+30751,MT,Blue Cross and Blue Shield of Montana,1143888,numeric,80885,numeric,142689,numeric,18878,numeric,0.0025349330244123416,TRUE,TRUE,TRUE,TRUE
+38345,WI,Dean Health Plan,1104307,numeric,13092,numeric,160914,numeric,11067,numeric,0.00244721885655739,TRUE,TRUE,TRUE,TRUE
+39424,OR,"Moda Health Plan, Inc.",1102738,numeric,20682,numeric,157741,numeric,18615,numeric,0.0024437418466444413,TRUE,TRUE,TRUE,TRUE
+95426,MO,UnitedHealthcare Insurance Company,1070569,numeric,388139,numeric,203531,numeric,244949,numeric,0.002372453171125229,TRUE,TRUE,TRUE,TRUE
+42326,SC,"MOLINA HEALTHCARE OF SOUTH CAROLINA, INC",1055016,numeric,83239,numeric,230150,numeric,26217,numeric,0.002337986673243719,TRUE,TRUE,TRUE,TRUE
+18558,KS,"Blue Cross and Blue Shield of Kansas, Inc.",1042704,numeric,58174,numeric,134229,numeric,37482,numeric,0.002310702450140963,TRUE,TRUE,TRUE,TRUE
+69842,LA,UnitedHealthcare Insurance Company,1031551,numeric,521755,numeric,248739,numeric,301175,numeric,0.0022859866492747323,TRUE,TRUE,TRUE,TRUE
+77969,OR,Regence BlueCross BlueShield of Oregon,1013376,numeric,55295,numeric,100498,numeric,41236,numeric,0.002245709622399117,TRUE,TRUE,TRUE,TRUE
+73943,NC,"Cigna HealthCare of North Carolina, Inc.",1009831,numeric,69246,numeric,162599,numeric,64396,numeric,0.002237853663099306,TRUE,TRUE,TRUE,TRUE
+97176,LA,Louisiana Health Service & Indemnity Company,992770,numeric,80498,numeric,147920,numeric,8666,numeric,0.002200045335422559,TRUE,TRUE,TRUE,TRUE
+45786,TX,"Molina Healthcare of Texas, Inc.",987573,numeric,57582,numeric,237126,numeric,22873,numeric,0.0021885284326070118,TRUE,TRUE,TRUE,TRUE
+94968,KS,UnitedHealthcare Insurance Company,935058,numeric,210209,numeric,167716,numeric,130303,numeric,0.0020721516476621443,TRUE,TRUE,TRUE,TRUE
+33931,OH,"UnitedHealthcare of Ohio, Inc.",895840,numeric,339753,numeric,208089,numeric,201832,numeric,0.0019852419123109533,TRUE,TRUE,TRUE,TRUE
+32225,MT,Montana Health Cooperative,868851,numeric,59430,numeric,91410,numeric,22338,numeric,0.0019254324664597297,TRUE,TRUE,TRUE,TRUE
+31195,SD,Sanford Health Plan,855229,numeric,24243,numeric,35230,numeric,10667,numeric,0.001895245194927425,TRUE,TRUE,TRUE,TRUE
+50328,WV,CareSource West Virginia Co.,843758,numeric,118295,numeric,198752,numeric,94227,numeric,0.00186982468459509,TRUE,TRUE,TRUE,TRUE
+23552,TN,Oscar Insurance Company,798002,numeric,100026,numeric,187709,numeric,64043,numeric,0.0017684262999061947,TRUE,TRUE,TRUE,TRUE
+71667,MI,"UnitedHealthcare Community Plan, Inc.",780202,numeric,330437,numeric,204912,numeric,190513,numeric,0.0017289802983443813,TRUE,TRUE,TRUE,TRUE
+38344,AK,Premera Blue Cross Blue Shield of Alaska,777414,numeric,41736,numeric,210082,numeric,21282,numeric,0.0017228019021446996,TRUE,TRUE,TRUE,TRUE
+48772,AR,"USAble HMO, Inc.",766146,numeric,8685,numeric,123118,numeric,3345,numeric,0.0016978312535155696,TRUE,TRUE,TRUE,TRUE
+75841,NH,Celtic Insurance Company,759938,numeric,30063,numeric,133926,numeric,8997,numeric,0.0016840739064540112,TRUE,TRUE,TRUE,TRUE
+18350,HI,Hawaii Medical Service Association,723658,numeric,3861,numeric,198069,numeric,883,numeric,0.0016036749774280229,TRUE,TRUE,TRUE,TRUE
+37160,ND,Blue Cross Blue Shield of North Dakota,717367,numeric,7251,numeric,96964,numeric,12362,numeric,0.0015897336967636763,TRUE,TRUE,TRUE,TRUE
+37833,WI,Quartz Health Benefit Plans Corporation,696511,numeric,10233,numeric,57350,numeric,3696,numeric,0.0015435153929112503,TRUE,TRUE,TRUE,TRUE
+79975,MS,"Molina Healthcare of Mississippi, Inc",687896,numeric,69473,numeric,142847,numeric,31219,numeric,0.0015244239713688333,TRUE,TRUE,TRUE,TRUE
+80180,WI,"UnitedHealthcare of Wisconsin, Inc.",659260,numeric,130202,numeric,113541,numeric,95374,numeric,0.00146096466233939,TRUE,TRUE,TRUE,TRUE
+42261,UT,University of Utah Health Insurance Plans,644314,numeric,8402,numeric,122297,numeric,6301,numeric,0.0014278433174324877,TRUE,TRUE,TRUE,TRUE
+89364,ND,Sanford Health Plan,642746,numeric,20854,numeric,28533,numeric,10773,numeric,0.0014243685235870425,TRUE,TRUE,TRUE,TRUE
+45845,OH,Oscar Insurance Corporation of Ohio,610423,numeric,28712,numeric,121739,numeric,19484,numeric,0.0013527385736722955,TRUE,TRUE,TRUE,TRUE
+29678,NE,Blue Cross and Blue Shield of Nebraska,590006,numeric,18822,numeric,91925,numeric,18718,numeric,0.001307493123453894,TRUE,TRUE,TRUE,TRUE
+69512,MO,Oscar Insurance Company,544633,numeric,123605,numeric,133294,numeric,56006,numeric,0.0012069434926188288,TRUE,TRUE,TRUE,TRUE
+66966,FL,Capital Health Plan,540104,numeric,19667,numeric,35255,numeric,4356,numeric,0.001196906922895601,TRUE,TRUE,TRUE,TRUE
+57845,WI,Medica Community Health Plan,510731,numeric,13758,numeric,87505,numeric,9707,numeric,0.0011318143721160984,TRUE,TRUE,TRUE,TRUE
+71837,TX,"Sendero Health Plans, Inc.",471218,numeric,23432,numeric,101311,numeric,10176,numeric,0.001044250896851383,TRUE,TRUE,TRUE,TRUE
+45819,IA,Oscar Insurance Company,467434,numeric,187918,numeric,117430,numeric,107872,numeric,0.0010358652974182423,TRUE,TRUE,TRUE,TRUE
+20173,WI,HealthPartners Insurance Company,466789,numeric,11313,numeric,30260,numeric,1518,numeric,0.0010344359338785025,TRUE,TRUE,TRUE,TRUE
+33764,SC,"UnitedHealthcare of South Carolina, Inc.",438616,numeric,166827,numeric,88229,numeric,89090,numeric,9.72002664103167e-4,TRUE,TRUE,TRUE,TRUE
+60536,SD,"Avera Health Plans, Inc.",436009,numeric,4675,numeric,11752,numeric,3653,numeric,9.662253761216138e-4,TRUE,TRUE,TRUE,TRUE
+98905,OK,CommunityCare HMO Inc.,435151,numeric,22878,numeric,74500,numeric,8360,numeric,9.643239902036343e-4,TRUE,TRUE,TRUE,TRUE
+19898,FL,"AvMed, Inc.",431996,numeric,37292,numeric,118089,numeric,16682,numeric,9.57332297230178e-4,TRUE,TRUE,TRUE,TRUE
+50305,SD,Wellmark of South Dakota,425214,numeric,21179,numeric,65429,numeric,12544,numeric,9.423029274216264e-4,TRUE,TRUE,TRUE,TRUE
+93078,IA,Medica Insurance Company,420450,numeric,41057,numeric,89569,numeric,37883,numeric,9.317455818350826e-4,TRUE,TRUE,TRUE,TRUE
+56707,OR,Providence Health Plan,410010,numeric,33982,numeric,16582,numeric,20246,numeric,9.08609837098828e-4,TRUE,TRUE,TRUE,TRUE
+53461,MO,Medica Insurance Company,406622,numeric,15692,numeric,95180,numeric,12444,numeric,9.011018003970626e-4,TRUE,TRUE,TRUE,TRUE
+21333,OK,Medica Insurance Company,398541,numeric,47354,numeric,103679,numeric,25606,numeric,8.831937589014999e-4,TRUE,TRUE,TRUE,TRUE
+86584,WI,"Aspirus Health Plan, Inc.",398306,numeric,7112,numeric,47925,numeric,3048,numeric,8.826729830381839e-4,TRUE,TRUE,TRUE,TRUE
+22013,UT,Regence BlueCross BlueShield of Utah,395068,numeric,26259,numeric,58383,numeric,18956,numeric,8.754973564619394e-4,TRUE,TRUE,TRUE,TRUE
+17414,NC,"AmeriHealth Caritas North Carolina, Inc.",387771,numeric,68313,numeric,109227,numeric,30381,numeric,8.593267118890993e-4,TRUE,TRUE,TRUE,TRUE
+94419,IN,Cigna Health and Life Insurance Company,384617,numeric,44826,numeric,75221,numeric,42338,numeric,8.523372349831465e-4,TRUE,TRUE,TRUE,TRUE
+97560,MS,"UnitedHealthcare of Mississippi, Inc.",314752,numeric,50616,numeric,67514,numeric,30602,numeric,6.975116788530287e-4,TRUE,TRUE,TRUE,TRUE
+81413,WI,Network Health Plan,298634,numeric,14480,numeric,48655,numeric,9267,numeric,6.617931028320563e-4,TRUE,TRUE,TRUE,TRUE
+43490,KS,Oscar Insurance Company,296092,numeric,84629,numeric,77239,numeric,46238,numeric,6.561598592382288e-4,TRUE,TRUE,TRUE,TRUE
+13877,AZ,"Oscar Health Plan, Inc.",292877,numeric,51923,numeric,82246,numeric,37208,numeric,6.490352022145642e-4,TRUE,TRUE,TRUE,TRUE
+45480,OK,"UnitedHealthcare of Oklahoma, Inc.",260548,numeric,118378,numeric,59525,numeric,68213,numeric,5.773919558947963e-4,TRUE,TRUE,TRUE,TRUE
+91908,OK,Oscar Insurance Company,259248,numeric,115044,numeric,60135,numeric,35552,numeric,5.745110681402818e-4,TRUE,TRUE,TRUE,TRUE
+58326,WI,"MercyCare HMO, Inc.",208646,numeric,5172,numeric,19105,numeric,1974,numeric,4.62373620329558e-4,TRUE,TRUE,TRUE,TRUE
+94529,WI,Group Health Cooperative of South Central Wisconsin,207372,numeric,4891,numeric,18470,numeric,1424,numeric,4.595503503301338e-4,TRUE,TRUE,TRUE,TRUE
+52664,OH,"Summa Insurance Company, Inc.",197767,numeric,17856,numeric,51591,numeric,10848,numeric,4.382650219592788e-4,TRUE,TRUE,TRUE,TRUE
+73836,AK,"Moda Health Plan, Inc.",168684,numeric,35374,numeric,29231,numeric,66671,numeric,3.7381513075578326e-4,TRUE,TRUE,TRUE,TRUE
+72760,DE,"AmeriHealth Caritas VIP Next, Inc.",165638,numeric,16445,numeric,46346,numeric,7506,numeric,3.670649891402055e-4,TRUE,TRUE,TRUE,TRUE
+13591,NC,CareSource North Carolina Co.,158212,numeric,49496,numeric,44782,numeric,32072,numeric,3.506084718594175e-4,TRUE,TRUE,FALSE,FALSE
+98780,LA,CHRISTUS Health Plan Louisiana,154775,numeric,84097,numeric,22585,numeric,44261,numeric,3.4299184784998196e-4,TRUE,TRUE,TRUE,TRUE
+34762,MO,Blue Cross and Blue Shield of Kansas City,152989,numeric,3260,numeric,31697,numeric,2865,numeric,3.3903395128877977e-4,TRUE,TRUE,TRUE,TRUE
+17933,TX,"Moda Health Plan, Inc.",142112,numeric,8439,numeric,34484,numeric,8188,numeric,3.149297850535076e-4,TRUE,TRUE,TRUE,TRUE
+97667,AZ,"Cigna HealthCare of Arizona, Inc",139645,numeric,9833,numeric,22637,numeric,9371,numeric,3.094627465224405e-4,TRUE,TRUE,TRUE,TRUE
+18167,UT,Molina Healthcare of Utah,125008,numeric,4440,numeric,28618,numeric,2133,numeric,2.7702616647411107e-4,TRUE,TRUE,TRUE,TRUE
+73107,SC,Select Health of South Carolina,121039,numeric,20445,numeric,39520,numeric,12130,numeric,2.682305945528281e-4,TRUE,TRUE,TRUE,TRUE
+59025,NH,Harvard Pilgrim Health Care of NE,117211,numeric,39,numeric,33754,numeric,39,numeric,2.597474881495347e-4,TRUE,TRUE,TRUE,TRUE
+63251,TX,Community First Insurance Plans,112382,numeric,6808,numeric,34419,numeric,4276,numeric,2.4904609817526517e-4,TRUE,TRUE,TRUE,TRUE
+74313,OH,Paramount Insurance Company,110549,numeric,4564,numeric,15746,numeric,2382,numeric,2.449840464413998e-4,TRUE,TRUE,TRUE,TRUE
+94248,KS,Blue Cross and Blue Shield of Kansas City,102463,numeric,2334,numeric,20939,numeric,1923,numeric,2.2706492460831983e-4,TRUE,TRUE,TRUE,TRUE
+74917,MI,McLaren Health Plan Community,100136,numeric,8797,numeric,19916,numeric,7988,numeric,2.2190813552773892e-4,TRUE,TRUE,TRUE,TRUE
+96384,MO,Cox Health Systems Insurance Company,99299,numeric,3676,numeric,14549,numeric,3672,numeric,2.200532870273323e-4,TRUE,TRUE,TRUE,TRUE
+69803,NC,"Oscar Health Plan of North Carolina, Inc",81081,numeric,26311,numeric,17549,numeric,15993,numeric,1.7968096924906728e-4,TRUE,TRUE,TRUE,TRUE
+67926,FL,"AmeriHealth Caritas Florida, Inc.",79451,numeric,12571,numeric,20441,numeric,7584,numeric,1.7606877921840682e-4,TRUE,TRUE,TRUE,TRUE
+73751,ND,Medica Health Plans,72125,numeric,2662,numeric,15098,numeric,2463,numeric,1.5983386868796606e-4,TRUE,TRUE,TRUE,TRUE
+47840,MO,Medica Central Insurance Company,62815,numeric,1388,numeric,13403,numeric,1129,numeric,1.3920228023063554e-4,TRUE,TRUE,TRUE,TRUE
+39520,KS,Medica Insurance Company,56889,numeric,3416,numeric,14017,numeric,2987,numeric,1.2606986420505653e-4,TRUE,TRUE,TRUE,TRUE
+77739,MI,Oscar Insurance Company,54216,numeric,9741,numeric,14778,numeric,5953,numeric,1.2014631576827409e-4,TRUE,TRUE,TRUE,TRUE
+57424,NE,Oscar Insurance Company,46889,numeric,2288,numeric,10186,numeric,2044,numeric,1.0390918917032986e-4,TRUE,TRUE,TRUE,TRUE
+64004,DE,Celtic Insurance Company,24728,numeric,2695,numeric,6979,numeric,882,numeric,5.47989172258721e-5,TRUE,TRUE,TRUE,TRUE
+63474,OR,BridgeSpan Health Company,12346,numeric,264,numeric,1294,numeric,174,numeric,2.735956939787354e-5,TRUE,TRUE,TRUE,TRUE
+60612,HI,"Kaiser Foundation Health Plan, Inc.",11489,numeric,1650,numeric,584,numeric,371,numeric,2.5460399547397463e-5,TRUE,TRUE,TRUE,TRUE
+71287,OR,Kaiser Foundation Healthplan of the NW,9923,numeric,2384,numeric,725,numeric,408,numeric,2.1990037836959268e-5,TRUE,TRUE,TRUE,TRUE
+34541,UT,BridgeSpan Health Company,7900,numeric,556,numeric,1310,numeric,442,numeric,1.7506933277434065e-5,TRUE,TRUE,TRUE,TRUE
+58944,OK,"Taro Health Plan of Oklahoma, Inc.",7564,numeric,206,numeric,642,numeric,199,numeric,1.6762334596267248e-5,TRUE,TRUE,TRUE,TRUE
+10091,OR,PacificSource Health Plans,3771,numeric,1208,numeric,658,numeric,338,numeric,8.356790555595424e-6,TRUE,TRUE,TRUE,TRUE
+34826,TX,"Imperial Insurance Companies, Inc.",2530,numeric,1777,numeric,902,numeric,804,numeric,5.606650783785846e-6,TRUE,TRUE,TRUE,TRUE
+85533,AZ,"Imperial Insurance Companies, Inc.",2393,numeric,1324,numeric,793,numeric,603,numeric,5.303049535810091e-6,TRUE,TRUE,TRUE,TRUE
+98113,UT,"Imperial Health Plan of the Southwest, Inc.",261,numeric,267,numeric,87,numeric,137,numeric,5.783936184063659e-7,FALSE,TRUE,TRUE,TRUE
+23603,MT,PacificSource Health Plans,41,numeric,316,numeric,,star2,49,numeric,9.085876764237933e-8,FALSE,TRUE,TRUE,TRUE
+11718,TX,"Community Health Choice Texas, Inc.",,na,,na,,na,,na,,FALSE,FALSE,TRUE,TRUE
+13219,NH,"Boston Medical Center Health Plan, Inc.",,na,,na,,na,,na,,FALSE,FALSE,TRUE,TRUE
+13484,NE,Celtic Insurance Company,,na,,na,,na,,na,,FALSE,FALSE,TRUE,TRUE
+13887,FL,Community Care Network Inc,,na,,na,,na,,na,,FALSE,FALSE,TRUE,TRUE
+17091,AL,Oscar Insurance Company,,na,,na,,na,,na,,FALSE,FALSE,TRUE,TRUE
+20635,MS,"Oscar Health Plan, Inc.",,na,,na,,na,,na,,FALSE,FALSE,TRUE,TRUE
+21525,FL,Oscar Health Maintenance Organization of Florida,,na,,na,,na,,na,,FALSE,FALSE,TRUE,TRUE
+29854,TN,"Alliant Health Plans, Inc.",,na,,na,,na,,na,,FALSE,FALSE,TRUE,TRUE
+31981,OH,Antidote Health Plan of Ohio,,na,,na,,na,,na,,FALSE,FALSE,TRUE,TRUE
+33863,SC,InStil Health Insurance Company,,na,,na,,na,,na,,FALSE,FALSE,TRUE,TRUE
+35065,IN,Coordinated Care Corporation Indiana,,na,,na,,na,,na,,FALSE,FALSE,TRUE,TRUE
+37758,TX,Harbor Health Insurance Company,,na,,na,,na,,na,,FALSE,FALSE,TRUE,TRUE
+38246,LA,"AmeriHealth Caritas Louisiana, Inc.",,na,,na,,na,,na,,FALSE,FALSE,TRUE,TRUE
+40356,MI,HAP CareSource,,na,,na,,na,,na,,FALSE,FALSE,FALSE,FALSE
+44228,FL,Simply Healthcare Plans Inc dba Wellpoint Florida Inc,,na,,na,,na,,na,,FALSE,FALSE,TRUE,TRUE
+47501,TX,Wellpoint Insurance Company,,na,,na,,na,,na,,FALSE,FALSE,TRUE,TRUE
+48286,IA,"Iowa Total Care, Inc.",,na,,na,,na,,na,,FALSE,FALSE,TRUE,TRUE
+49004,FL,Centene Venture Company Florida,,na,,na,,na,,na,,FALSE,FALSE,TRUE,TRUE
+49714,WY,UnitedHealthcare Insurance Company,,na,,na,,na,,na,,FALSE,FALSE,TRUE,TRUE
+56610,IA,"UnitedHealthcare Plan of the River Valley, Inc.",,na,,na,,na,,na,,FALSE,FALSE,TRUE,TRUE
+68445,AZ,"Antidote Health Plan of Arizona, Inc.",,na,,na,,na,,na,,FALSE,FALSE,TRUE,TRUE
+70754,TX,"UnitedHealthcare Benefits of Texas, Inc.",,na,,na,,na,,na,,FALSE,FALSE,TRUE,TRUE
+72850,IN,UnitedHealthcare Insurance Company,,na,,na,,na,,na,,FALSE,FALSE,TRUE,TRUE
+73102,NE,UnitedHealthcare Insurance Company,,na,,na,,na,,na,,FALSE,FALSE,TRUE,TRUE
+74980,IA,"Avera Health Plans, Inc.",,na,,na,,na,,na,,FALSE,FALSE,TRUE,TRUE
+79850,FL,"Cigna HealthCare of Florida, Inc.",,na,,na,,na,,na,,FALSE,FALSE,TRUE,TRUE

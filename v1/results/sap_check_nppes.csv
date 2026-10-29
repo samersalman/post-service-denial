@@ -1,0 +1,3 @@
+url,http,tested_utc,curl_output,reachable
+https://download.cms.gov/nppes/NPPES_Data_Dissemination_October_2026_V2.zip,404,2026-10-28T23:26:44Z,404,FALSE
+https://download.cms.gov/nppes/NPPES_Data_Dissemination_September_2026_V2.zip,404,2026-10-28T23:26:44Z,404,FALSE

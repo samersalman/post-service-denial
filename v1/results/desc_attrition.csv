@@ -1,0 +1,14 @@
+measure,network,label,unit,total,issuers_reported,issuers_suppressed,issuers_na,issuers_other_missing,issuers_in_file,note
+claims_received,in_network,Claim lines received,claim lines,451249792,159,0,26,0,185,
+claims_received,out_of_network,Claim lines received,claim lines,44397058,159,0,26,0,185,
+claims_received,combined,Claim lines received,claim lines,495646850,159,0,26,0,185,In-network total plus out-of-network total; issuers_reported counts issuers with both cells reported
+claims_denied,in_network,Claim lines denied,claim lines,84502749,158,1,26,0,185,
+claims_denied,out_of_network,Claim lines denied,claim lines,16471653,159,0,26,0,185,"Includes the 2 anomalous issuers whose denied count exceeds received, as published"
+claims_denied,combined,Claim lines denied,claim lines,100974402,158,1,26,0,185,In-network total plus out-of-network total; issuers_reported counts issuers with both cells reported
+claims_resubmitted,in_network,Claim lines resubmitted,claim lines,32111793,158,1,26,0,185,Resubmitted is not a subset of denied (all resubmitted claims regardless of outcome)
+claims_resubmitted,out_of_network,Claim lines resubmitted,claim lines,2976243,155,4,26,0,185,Resubmitted is not a subset of denied (all resubmitted claims regardless of outcome)
+claims_resubmitted,combined,Claim lines resubmitted,claim lines,35088036,155,4,26,0,185,In-network total plus out-of-network total; issuers_reported counts issuers with both cells reported
+internal_appeals_filed,not_split,Internal appeals filed,appeal requests,263021,148,11,26,0,185,Appeals are not split by network; not a subset of in-network or out-of-network lines
+internal_appeals_overturned,not_split,Internal appeals overturned,appeal requests,85807,138,21,26,0,185,Appeals are not split by network; not a subset of in-network or out-of-network lines
+external_appeals_filed,not_split,External appeals filed,appeal requests,5881,100,59,26,0,185,Appeals are not split by network; not a subset of in-network or out-of-network lines
+external_appeals_overturned,not_split,External appeals overturned,appeal requests,1929,108,51,26,0,185,Appeals are not split by network; not a subset of in-network or out-of-network lines

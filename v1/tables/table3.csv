@@ -1,0 +1,14 @@
+Analysis,Odds ratio per doubling (95% CI),Plans,Issuers,Holm-adjusted P
+"Primary model (issuer fixed effects, adjusted for plan size)",0.956 (0.848 to 1.077),"1,681",135,
+Density without adjustment for plan size,0.969 (0.926 to 1.015),"1,681",135,
+State fixed effects instead of issuer fixed effects,0.964 (0.921 to 1.010),"1,681",135,
+Mixed model,0.968 (0.941 to 0.995),"1,681",135,
+Issuer with the largest share of identifying variation left out,0.901 (0.661 to 1.227),"1,669",134,
+"Surgeon share of listed clinicians, all plans with exposure available",0.842 (0.577 to 1.228),"2,175",136,.743
+APC-inclusive density,0.959 (0.854 to 1.078),"1,681",135,.743
+Negative control: dermatology density,0.977 (0.854 to 1.118),"1,681",135,
+Negative control: ophthalmology density,0.999 (0.874 to 1.142),"1,681",135,
+Suppressed outcome counts set to 0,0.956 (0.848 to 1.077),"1,686",135,
+Suppressed outcome counts set to 10,0.956 (0.848 to 1.077),"1,687",135,
+Suppressed enrollment set to 1,0.954 (0.845 to 1.077),"2,175",136,
+Suppressed enrollment set to 10,0.955 (0.848 to 1.076),"2,175",136,

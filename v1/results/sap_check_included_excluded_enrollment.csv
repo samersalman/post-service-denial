@@ -1,0 +1,5 @@
+group,n_plans,n_numeric_enrollment,share_numeric_enrollment,enrollment_p25,enrollment_median,enrollment_p75
+analytic sample,1681,1681,1,37,97,276
+excluded cohort plans,846,261,0.308510638297872,27,90,336
+exposure ok without numeric enrollment,494,0,0,,,
+not exposure ok,352,261,0.741477272727273,27,90,336

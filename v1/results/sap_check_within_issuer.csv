@@ -1,0 +1,15 @@
+metric,value
+analytic_issuers,135
+issuers_with_ge2_analytic_plans,129
+informative_issuers_K,33
+plans_in_informative_issuers,907
+issuers_ge2_plans_identical_counts,96
+issuers_ge2_plans_single_network_id,95
+issuers_ge2_plans_with_missing_network_id,6
+primary_model_by_rule,issuer_fe
+enrollment_free_issuers,136
+enrollment_free_issuers_ge2_plans,136
+enrollment_free_informative_issuers,34
+informative_issuers_states,19
+analytic_states,30
+states_with_ge2_issuers_analytic,29

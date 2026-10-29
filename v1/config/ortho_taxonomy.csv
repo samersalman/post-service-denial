@@ -1,0 +1,23 @@
+code,name,family,is_general,nucc_version,nucc_classification,nucc_specialization
+207X00000X,Orthopaedic Surgery Physician,orthopaedic,TRUE,26.1,Orthopaedic Surgery,""
+207XS0114X,Adult Reconstructive Orthopaedic Surgery Physician,orthopaedic,FALSE,26.1,Orthopaedic Surgery,Adult Reconstructive Orthopaedic Surgery
+207XX0004X,Orthopaedic Foot and Ankle Surgery Physician,orthopaedic,FALSE,26.1,Orthopaedic Surgery,Foot and Ankle Surgery
+207XS0106X,Orthopaedic Hand Surgery Physician,orthopaedic,FALSE,26.1,Orthopaedic Surgery,Hand Surgery
+207XS0117X,Orthopaedic Surgery of the Spine Physician,orthopaedic,FALSE,26.1,Orthopaedic Surgery,Orthopaedic Surgery of the Spine
+207XX0801X,Orthopaedic Trauma Physician,orthopaedic,FALSE,26.1,Orthopaedic Surgery,Orthopaedic Trauma
+207XP3100X,Pediatric Orthopaedic Surgery Physician,orthopaedic,FALSE,26.1,Orthopaedic Surgery,Pediatric Orthopaedic Surgery
+207XX0005X,Sports Medicine (Orthopaedic Surgery) Physician,orthopaedic,FALSE,26.1,Orthopaedic Surgery,Sports Medicine
+207N00000X,Dermatology Physician,dermatology,TRUE,26.1,Dermatology,""
+207NI0002X,Clinical & Laboratory Dermatological Immunology Physician,dermatology,FALSE,26.1,Dermatology,Clinical & Laboratory Dermatological Immunology
+207ND0900X,Dermatopathology Physician,dermatology,FALSE,26.1,Dermatology,Dermatopathology
+207ND0101X,MOHS-Micrographic Surgery Physician,dermatology,FALSE,26.1,Dermatology,MOHS-Micrographic Surgery
+207NP0225X,Pediatric Dermatology Physician,dermatology,FALSE,26.1,Dermatology,Pediatric Dermatology
+207NS0135X,Procedural Dermatology Physician,dermatology,FALSE,26.1,Dermatology,Procedural Dermatology
+207W00000X,Ophthalmology Physician,ophthalmology,TRUE,26.1,Ophthalmology,""
+207WX0120X,Cornea and External Diseases Specialist Physician,ophthalmology,FALSE,26.1,Ophthalmology,Cornea and External Diseases Specialist
+207WX0009X,Glaucoma Specialist (Ophthalmology) Physician,ophthalmology,FALSE,26.1,Ophthalmology,Glaucoma Specialist
+207WX0109X,Neuro-ophthalmology Physician,ophthalmology,FALSE,26.1,Ophthalmology,Neuro-ophthalmology
+207WX0200X,Ophthalmic Plastic and Reconstructive Surgery Physician,ophthalmology,FALSE,26.1,Ophthalmology,Ophthalmic Plastic and Reconstructive Surgery
+207WX0110X,Pediatric Ophthalmology and Strabismus Specialist Physician,ophthalmology,FALSE,26.1,Ophthalmology,Pediatric Ophthalmology and Strabismus Specialist
+207WX0107X,Retina Specialist (Ophthalmology) Physician,ophthalmology,FALSE,26.1,Ophthalmology,Retina Specialist
+207WX0108X,Uveitis and Ocular Inflammatory Disease (Ophthalmology) Physician,ophthalmology,FALSE,26.1,Ophthalmology,Uveitis and Ocular Inflammatory Disease

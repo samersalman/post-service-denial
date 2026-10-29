@@ -1,0 +1,22 @@
+key,value,unit,description,source_script
+figm_curve_lower_percentile,5,percentile,Lower percentile of log2 density where the Fig 3 curves start (design_fig3_lower_quantile times 100),07b_figures_models.R
+figm_curve_upper_percentile,95,percentile,Upper percentile of log2 density where the Fig 3 curves end (design_fig3_upper_quantile times 100),07b_figures_models.R
+figm_derm_density_p05,1314.93506493507,"dermatology clinicians per 10,000 reported enrollees",Dermatology density at the start of the negative-control curve in Fig 3 (its own lower percentile),07b_figures_models.R
+figm_derm_density_p95,490416.666666666,"dermatology clinicians per 10,000 reported enrollees",Dermatology density at the end of the negative-control curve in Fig 3 (its own upper percentile),07b_figures_models.R
+figm_flat_line_lower,0.16610122831548,probability,Lowest constant probability that stays inside both Fig 3 bands over each curve's plotted range (largest lower band limit of the two curves),07b_figures_models.R
+figm_flat_line_upper,0.179119092908033,probability,Highest constant probability that stays inside both Fig 3 bands over each curve's plotted range (smallest upper band limit of the two curves),07b_figures_models.R
+figm_bin1_claims,149382352,claim lines,In-network claim lines received by the analytic plans in bin 1 (lowest density) of Fig 3,07b_figures_models.R
+figm_bin1_claims_share,0.56205319910429,proportion,Share of the analytic in-network claim lines that fall in bin 1 of Fig 3 (bin 1 claim lines over the sum over the 8 bins),07b_figures_models.R
+figm_cohort_plans_not_computable,32,plans,"Plans with plan-level counts reported but no computable in-network denial proportion (received suppressed, denied suppressed or received zero; sum of three cohort_all_ keys)",07b_figures_models.R
+figm_cohort_share_of_issuer_claims,0.763092017114991,proportion,Share of the issuer-level in-network claim lines (att_claims_received_in_network) that the cohort plans hold at plan level (cohort_flow_cohort_claims),07b_figures_models.R
+figm_lost_share_of_exposure_claims,0.0209713751978291,proportion,Share of the in-network claim lines of plans with exposure available that sit in the plans lost to the complete-case rule (the plans added back in the bounded-enrollment rows),07b_figures_models.R
+figm_ophth_positive_plans,1676,plans,Analytic plans with a positive ophthalmology clinician count (analytic plans minus plans with a zero count); the basis of the ophthalmology raw Spearman correlation,07b_figures_models.R
+figm_incomplete_issuer_not_run_individual,15,provider files,"Provider-file shards of the incomplete-directory insurer (BCBS Florida) not run, classed by file name as individual-clinician files (harvest_manifest content_class)",07b_figures_models.R
+figm_incomplete_issuer_not_run_facility_group,29,provider files,"Provider-file shards of the incomplete-directory insurer (BCBS Florida) not run, classed by file name as facility or group files (harvest_manifest content_class)",07b_figures_models.R
+figm_incomplete_issuer_files_total,52,provider files,Provider-file shards listed for the incomplete-directory insurer (BCBS Florida); ortho_files_not_run of them were not retrieved and the rest were harvested,07b_figures_models.R
+figm_g3_derm_n,50,NPIs,Dermatology-text NPIs sampled and found active,07b_figures_models.R
+figm_g3_derm_x,46,NPIs,Dermatology-text NPIs holding a 207N code,07b_figures_models.R
+figm_g3_ophth_n,50,NPIs,Ophthalmology-text NPIs sampled and found active,07b_figures_models.R
+figm_g3_ophth_x,49,NPIs,Ophthalmology-text NPIs holding a 207W code,07b_figures_models.R
+figm_g3_random_unflagged_n,400,NPIs,Randomly drawn unflagged NPIs sampled (stratum C1 of qa/g3_npi_match.md; C1 plus C2 equals ortho_g3_unflagged_sampled),07b_figures_models.R
+figm_g3_ambiguous_unflagged_n,100,NPIs,Unflagged NPIs with an ambiguous term sampled (stratum C2 of qa/g3_npi_match.md),07b_figures_models.R

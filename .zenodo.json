@@ -1,0 +1,23 @@
+{
+  "title": "Post-service claim denial and orthopaedic network density in Marketplace plans: analysis code, frozen analysis plan and derived data",
+  "upload_type": "software",
+  "description": "Analysis code, the frozen statistical analysis plan, derived plan-level data, results and figures for an ecological, plan-level cross-sectional study of 2024 in-network post-service claim denial in Individual-market qualified health plans (CMS plan year 2026 Transparency in Coverage public use file) in relation to orthopaedic surgeon density in issuers' published provider directories. The repository contains no patient data and no clinician names or addresses.",
+  "creators": [
+    {
+      "name": "Salman, Samer G.",
+      "affiliation": "Baylor College of Medicine"
+    }
+  ],
+  "license": "mit",
+  "version": "1.0.0",
+  "access_right": "open",
+  "keywords": [
+    "health insurance claims",
+    "claim denial",
+    "ACA Marketplace",
+    "provider directories",
+    "network adequacy",
+    "orthopaedic surgery",
+    "ecological study"
+  ]
+}

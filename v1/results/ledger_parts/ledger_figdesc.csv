@@ -1,0 +1,14 @@
+key,value,unit,description,source_script
+figd_oon_denied_excl_anomalous,16392620,claim lines,"Out-of-network claim lines denied, reported cells, leaving out the 2 issuers whose denied count exceeds received (Fig 1 caption)",07a_figures_desc.R
+figd_funnel_tau_pp,2.76313692690531,percentage points,"Additive between-issuer standard deviation of the funnel limits, Winsorised, in percentage points of the denial rate",07a_figures_desc.R
+figd_funnel_tau_unwins_pp,4.1538630746738,percentage points,"Same without Winsorising the z scores (sensitivity), in percentage points",07a_figures_desc.R
+figd_funnel_level_95,0.95,proportion,Inner funnel limit level (Fig 2 caption),07a_figures_desc.R
+figd_funnel_level_998,0.998,proportion,Outer funnel limit level (Fig 2 caption),07a_figures_desc.R
+figd_state_lowest_name,South Dakota,state name,Full name of the state with the lowest pooled in-network denial rate (Fig 2 caption; the tiles keep postal codes),07a_figures_desc.R
+figd_state_highest_name,Hawaii,state name,Full name of the state with the highest pooled in-network denial rate (Fig 2 caption),07a_figures_desc.R
+figd_single_issuer_state_name,Wyoming,state name,Full name of the state whose pooled rate rests on a single issuer (dagger in Fig 2b),07a_figures_desc.R
+figd_issuers_ffe,114,issuers,Issuers in the file on the federally facilitated exchange (exchange_type FFE; Fig 2 caption),07a_figures_desc.R
+figd_issuers_spe,59,issuers,Issuers in the file on a state partnership exchange (exchange_type SPE),07a_figures_desc.R
+figd_issuers_sbefp,12,issuers,Issuers in the file on a state-based exchange using the federal platform (exchange_type SBE-FP),07a_figures_desc.R
+figd_n_labelled,4,issuers,Issuers labelled by name in Fig 2a,07a_figures_desc.R
+figd_small_stratum_threshold,100,plans,Strata with fewer plans than this get the imprecision note in Table 2,07a_figures_desc.R

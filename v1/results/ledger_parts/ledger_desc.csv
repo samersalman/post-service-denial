@@ -1,0 +1,204 @@
+key,value,unit,description,source_script
+att_claims_received_combined,495646850,claim lines,"2024 national total, in-network plus out-of-network (claims received), sum of reported issuer-level cells; lower bound",05_descriptives.R
+att_claims_received_combined_issuers_reported,159,issuers,Issuers with both the in-network and out-of-network cell reported (claims received),05_descriptives.R
+att_claims_denied_combined,100974402,claim lines,"2024 national total, in-network plus out-of-network (claims denied), sum of reported issuer-level cells; lower bound",05_descriptives.R
+att_claims_denied_combined_issuers_reported,158,issuers,Issuers with both the in-network and out-of-network cell reported (claims denied),05_descriptives.R
+att_claims_resubmitted_combined,35088036,claim lines,"2024 national total, in-network plus out-of-network (claims resubmitted), sum of reported issuer-level cells; lower bound",05_descriptives.R
+att_claims_resubmitted_combined_issuers_reported,155,issuers,Issuers with both the in-network and out-of-network cell reported (claims resubmitted),05_descriptives.R
+att_ratio_resubmitted_per1000_denied_in_network,380.009247519327,"per 1,000 denied claim lines","Claim lines resubmitted (in-network) over claim lines denied (in-network), matched issuer set (issuers reporting every cell used)",05_descriptives.R
+att_ratio_resubmitted_per1000_denied_in_network_issuers,157,issuers,Matched issuers behind ratio resubmitted_per1000_denied_in_network,05_descriptives.R
+att_ratio_internal_appeals_filed_per1000_denied_in_network,3.15801700856262,"per 1,000 denied claim lines","Internal appeals filed over claim lines denied (in-network), matched issuer set (issuers reporting every cell used)",05_descriptives.R
+att_ratio_internal_appeals_filed_per1000_denied_in_network_issuers,147,issuers,Matched issuers behind ratio internal_appeals_filed_per1000_denied_in_network,05_descriptives.R
+att_ratio_internal_appeals_overturned_per1000_denied_in_network,1.10233808931576,"per 1,000 denied claim lines","Internal appeals overturned over claim lines denied (in-network), matched issuer set (issuers reporting every cell used)",05_descriptives.R
+att_ratio_internal_appeals_overturned_per1000_denied_in_network_issuers,138,issuers,Matched issuers behind ratio internal_appeals_overturned_per1000_denied_in_network,05_descriptives.R
+att_ratio_external_appeals_filed_per1000_denied_in_network,0.0903610787837519,"per 1,000 denied claim lines","External appeals filed over claim lines denied (in-network), matched issuer set (issuers reporting every cell used)",05_descriptives.R
+att_ratio_external_appeals_filed_per1000_denied_in_network_issuers,100,issuers,Matched issuers behind ratio external_appeals_filed_per1000_denied_in_network,05_descriptives.R
+att_ratio_external_appeals_overturned_per1000_denied_in_network,0.0277744557538521,"per 1,000 denied claim lines","External appeals overturned over claim lines denied (in-network), matched issuer set (issuers reporting every cell used)",05_descriptives.R
+att_ratio_external_appeals_overturned_per1000_denied_in_network_issuers,107,issuers,Matched issuers behind ratio external_appeals_overturned_per1000_denied_in_network,05_descriptives.R
+att_ratio_resubmitted_per1000_denied_combined,348.067299067124,"per 1,000 denied claim lines","Claim lines resubmitted (in-network plus out-of-network) over claim lines denied (in-network plus out-of-network), matched issuer set (issuers reporting every cell used); the 2 anomalous out-of-network issuers left out",05_descriptives.R
+att_ratio_resubmitted_per1000_denied_combined_issuers,153,issuers,Matched issuers behind ratio resubmitted_per1000_denied_combined,05_descriptives.R
+att_ratio_internal_appeals_filed_per1000_denied_combined,2.64395695098365,"per 1,000 denied claim lines","Internal appeals filed over claim lines denied (in-network plus out-of-network), matched issuer set (issuers reporting every cell used); the 2 anomalous out-of-network issuers left out",05_descriptives.R
+att_ratio_internal_appeals_filed_per1000_denied_combined_issuers,145,issuers,Matched issuers behind ratio internal_appeals_filed_per1000_denied_combined,05_descriptives.R
+att_ratio_internal_appeals_overturned_per1000_denied_combined,0.921176083198974,"per 1,000 denied claim lines","Internal appeals overturned over claim lines denied (in-network plus out-of-network), matched issuer set (issuers reporting every cell used); the 2 anomalous out-of-network issuers left out",05_descriptives.R
+att_ratio_internal_appeals_overturned_per1000_denied_combined_issuers,136,issuers,Matched issuers behind ratio internal_appeals_overturned_per1000_denied_combined,05_descriptives.R
+att_ratio_external_appeals_filed_per1000_denied_combined,0.0779952031292296,"per 1,000 denied claim lines","External appeals filed over claim lines denied (in-network plus out-of-network), matched issuer set (issuers reporting every cell used); the 2 anomalous out-of-network issuers left out",05_descriptives.R
+att_ratio_external_appeals_filed_per1000_denied_combined_issuers,98,issuers,Matched issuers behind ratio external_appeals_filed_per1000_denied_combined,05_descriptives.R
+att_ratio_external_appeals_overturned_per1000_denied_combined,0.0238590105390036,"per 1,000 denied claim lines","External appeals overturned over claim lines denied (in-network plus out-of-network), matched issuer set (issuers reporting every cell used); the 2 anomalous out-of-network issuers left out",05_descriptives.R
+att_ratio_external_appeals_overturned_per1000_denied_combined_issuers,105,issuers,Matched issuers behind ratio external_appeals_overturned_per1000_denied_combined,05_descriptives.R
+att_ratio_resubmitted_per1000_denied_out_of_network,181.478275579618,"per 1,000 denied claim lines","Claim lines resubmitted (out-of-network) over claim lines denied (out-of-network), matched issuer set (issuers reporting every cell used); the 2 anomalous out-of-network issuers left out",05_descriptives.R
+att_ratio_resubmitted_per1000_denied_out_of_network_issuers,153,issuers,Matched issuers behind ratio resubmitted_per1000_denied_out_of_network,05_descriptives.R
+att_ratio_denial_rate_in_network,0.187263813027567,proportion,"Claim lines denied (in-network) over claim lines received (in-network), matched issuer set (issuers reporting every cell used)",05_descriptives.R
+att_ratio_denial_rate_in_network_issuers,158,issuers,Matched issuers behind ratio denial_rate_in_network,05_descriptives.R
+att_ratio_denial_rate_out_of_network,0.369582449627977,proportion,"Claim lines denied (out-of-network) over claim lines received (out-of-network), matched issuer set (issuers reporting every cell used); the 2 anomalous out-of-network issuers left out",05_descriptives.R
+att_ratio_denial_rate_out_of_network_issuers,157,issuers,Matched issuers behind ratio denial_rate_out_of_network,05_descriptives.R
+att_ratio_denial_rate_combined,0.203690106839229,proportion,"Claim lines denied (in-network plus out-of-network) over claim lines received (in-network plus out-of-network), matched issuer set (issuers reporting every cell used); the 2 anomalous out-of-network issuers left out",05_descriptives.R
+att_ratio_denial_rate_combined_issuers,156,issuers,Matched issuers behind ratio denial_rate_combined,05_descriptives.R
+att_ratio_internal_overturned_per1000_internal_filed,336.006547285735,"per 1,000 internal appeals filed","Internal appeals overturned over internal appeals filed, matched issuer set (issuers reporting every cell used)",05_descriptives.R
+att_ratio_internal_overturned_per1000_internal_filed_issuers,135,issuers,Matched issuers behind ratio internal_overturned_per1000_internal_filed,05_descriptives.R
+att_ratio_external_overturned_per1000_external_filed,356.825749167592,"per 1,000 external appeals filed","External appeals overturned over external appeals filed, matched issuer set (issuers reporting every cell used)",05_descriptives.R
+att_ratio_external_overturned_per1000_external_filed_issuers,83,issuers,Matched issuers behind ratio external_overturned_per1000_external_filed,05_descriptives.R
+att_oon_anomalous_issuers,2,issuers,"Issuers with out-of-network denied above received, left out of out-of-network and combined rates",05_descriptives.R
+att_oon_anomalous_plans,30,plans,"Plans with out-of-network denied above received (flagged, no out-of-network plan rate used)",05_descriptives.R
+att_oon_anomalous_plan_issuers,6,issuers,Issuers holding the anomalous out-of-network plans,05_descriptives.R
+hetero_funnel_issuers,158,issuers,Issuers with reported in-network received and denied counts (funnel plot),05_descriptives.R
+hetero_funnel_issuers_na,26,issuers,Issuers excluded from the funnel because issuer-level claims are N/A,05_descriptives.R
+hetero_funnel_issuers_denied_suppressed,1,issuers,Issuers excluded from the funnel because the in-network denied count is suppressed,05_descriptives.R
+hetero_funnel_issuers_over_1000,157,issuers,"Funnel issuers with more than 1,000 in-network claim lines",05_descriptives.R
+hetero_funnel_claims_received,451249751,claim lines,In-network claim lines received by the funnel issuers,05_descriptives.R
+hetero_funnel_claims_denied,84502749,claim lines,In-network claim lines denied by the funnel issuers,05_descriptives.R
+hetero_funnel_pooled_rate,0.187263813027567,proportion,Pooled in-network denial rate of the funnel issuers (sum denied over sum received),05_descriptives.R
+hetero_issuer_rate_min,0.0269535720592924,proportion,Lowest issuer in-network denial rate among funnel issuers,05_descriptives.R
+hetero_issuer_rate_p25,0.154335416417573,proportion,25th percentile of issuer in-network denial rates (unweighted),05_descriptives.R
+hetero_issuer_rate_median,0.190021397991804,proportion,Median issuer in-network denial rate (unweighted),05_descriptives.R
+hetero_issuer_rate_p75,0.228812207055793,proportion,75th percentile of issuer in-network denial rates (unweighted),05_descriptives.R
+hetero_issuer_rate_max,0.356521739130435,proportion,Highest issuer in-network denial rate among funnel issuers,05_descriptives.R
+hetero_funnel_tau2,0.000763492567682774,proportion scale squared,Additive overdispersion tau-squared from 10 percent Winsorised z-scores,05_descriptives.R
+hetero_funnel_tau,0.0276313692690531,proportion,Square root of the additive overdispersion tau-squared,05_descriptives.R
+hetero_funnel_phi,13770.887902465,factor,Multiplicative overdispersion factor from 10 percent Winsorised z-scores,05_descriptives.R
+hetero_funnel_tau2_unwinsorised,0.00172545784431385,proportion scale squared,Additive tau-squared without Winsorising (sensitivity),05_descriptives.R
+hetero_funnel_winsor_probability,0.1,proportion,Share of z-scores Winsorised in each tail,05_descriptives.R
+hetero_funnel_zcrit_95,1.95996398454005,z,Critical z for the 95 percent funnel limits,05_descriptives.R
+hetero_funnel_zcrit_998,3.09023230616781,z,Critical z for the 99.8 percent funnel limits,05_descriptives.R
+hetero_funnel_outside_95_unadjusted,157,issuers,Issuers outside the 95 percent limits without the overdispersion term,05_descriptives.R
+hetero_funnel_outside_998_unadjusted,156,issuers,Issuers outside the 99.8 percent limits without the overdispersion term,05_descriptives.R
+hetero_funnel_outside_95_adjusted,56,issuers,Issuers outside the 95 percent limits with the additive overdispersion term,05_descriptives.R
+hetero_funnel_outside_998_adjusted,34,issuers,Issuers outside the 99.8 percent limits with the additive overdispersion term,05_descriptives.R
+hetero_funnel_above_998_adjusted,15,issuers,Issuers above the adjusted 99.8 percent upper limit,05_descriptives.R
+hetero_funnel_below_998_adjusted,19,issuers,Issuers below the adjusted 99.8 percent lower limit,05_descriptives.R
+hetero_funnel_outside_95_multiplicative,19,issuers,Issuers outside the 95 percent limits with the multiplicative factor,05_descriptives.R
+hetero_funnel_outside_998_multiplicative,8,issuers,Issuers outside the 99.8 percent limits with the multiplicative factor,05_descriptives.R
+hetero_funnel_outside_998_adjusted_unwinsorised,8,issuers,Issuers outside the 99.8 percent limits using the unwinsorised tau-squared (sensitivity),05_descriptives.R
+hetero_funnel_outside_95_adjusted_unwinsorised,39,issuers,Issuers outside the 95 percent limits using the unwinsorised tau-squared (sensitivity),05_descriptives.R
+hetero_funnel_outside_998_adjusted_over_1000,33,issuers,"Issuers with more than 1,000 claim lines outside the adjusted 99.8 percent limits",05_descriptives.R
+hetero_states,30,states,States with at least one funnel issuer (rows of desc_state_rates.csv),05_descriptives.R
+hetero_state_pooled_rate_min,0.0654903253921461,proportion,Lowest state pooled in-network denial rate,05_descriptives.R
+hetero_state_pooled_rate_max,0.270222146046981,proportion,Highest state pooled in-network denial rate,05_descriptives.R
+hetero_state_lowest,SD,state code,State with the lowest pooled in-network denial rate,05_descriptives.R
+hetero_state_highest,HI,state code,State with the highest pooled in-network denial rate,05_descriptives.R
+hetero_states_single_issuer,1,states,States whose pooled rate rests on a single issuer,05_descriptives.R
+hetero_vp_var_state,0.103548328243968,latent logit variance,"Variance component, state",05_descriptives.R
+hetero_vp_vpc_latent_state,0.0284090650574984,proportion,"Latent-scale variance partition coefficient, state (includes the claim-line residual pi^2/3)",05_descriptives.R
+hetero_vp_vpc_latent_state_ci_lower,0.0110115504895935,proportion,"Lower 95 percent bootstrap limit, latent VPC, state",05_descriptives.R
+hetero_vp_vpc_latent_state_ci_upper,0.0487403168223062,proportion,"Upper 95 percent bootstrap limit, latent VPC, state",05_descriptives.R
+hetero_vp_sd_state,0.321789260610059,logit scale,"Standard deviation of the random intercept, state",05_descriptives.R
+hetero_vp_var_state_ci_lower,0.0395000990070654,latent logit variance,"Lower 95 percent bootstrap limit, variance, state",05_descriptives.R
+hetero_vp_var_state_ci_upper,0.180084376911935,latent logit variance,"Upper 95 percent bootstrap limit, variance, state",05_descriptives.R
+hetero_vp_vpc_among_state,0.291655578246032,proportion,"Share of the between-claim-group variance (state, issuer, plan) at this level, state",05_descriptives.R
+hetero_vp_vpc_among_state_ci_lower,0.129765059809817,proportion,"Lower 95 percent bootstrap limit, among-levels share, state",05_descriptives.R
+hetero_vp_vpc_among_state_ci_upper,0.433583428074196,proportion,"Upper 95 percent bootstrap limit, among-levels share, state",05_descriptives.R
+hetero_vp_mor_state,1.35926748864711,odds ratio,"Median odds ratio, state",05_descriptives.R
+hetero_vp_mor_state_ci_lower,1.2087401703909,odds ratio,"Lower 95 percent bootstrap limit, median odds ratio, state",05_descriptives.R
+hetero_vp_mor_state_ci_upper,1.49898330611218,odds ratio,"Upper 95 percent bootstrap limit, median odds ratio, state",05_descriptives.R
+hetero_vp_var_issuer,0.153828400561979,latent logit variance,"Variance component, issuer",05_descriptives.R
+hetero_vp_vpc_latent_issuer,0.0422036851136779,proportion,"Latent-scale variance partition coefficient, issuer (includes the claim-line residual pi^2/3)",05_descriptives.R
+hetero_vp_vpc_latent_issuer_ci_lower,0.0321708151040457,proportion,"Lower 95 percent bootstrap limit, latent VPC, issuer",05_descriptives.R
+hetero_vp_vpc_latent_issuer_ci_upper,0.054372504146884,proportion,"Upper 95 percent bootstrap limit, latent VPC, issuer",05_descriptives.R
+hetero_vp_sd_issuer,0.392209638537835,logit scale,"Standard deviation of the random intercept, issuer",05_descriptives.R
+hetero_vp_var_issuer_ci_lower,0.116111955947937,latent logit variance,"Lower 95 percent bootstrap limit, variance, issuer",05_descriptives.R
+hetero_vp_var_issuer_ci_upper,0.19993727491659,latent logit variance,"Upper 95 percent bootstrap limit, variance, issuer",05_descriptives.R
+hetero_vp_vpc_among_issuer,0.433275088815155,proportion,"Share of the between-claim-group variance (state, issuer, plan) at this level, issuer",05_descriptives.R
+hetero_vp_vpc_among_issuer_ci_lower,0.32433418938189,proportion,"Lower 95 percent bootstrap limit, among-levels share, issuer",05_descriptives.R
+hetero_vp_vpc_among_issuer_ci_upper,0.563852281503938,proportion,"Upper 95 percent bootstrap limit, among-levels share, issuer",05_descriptives.R
+hetero_vp_mor_issuer,1.45370869103151,odds ratio,"Median odds ratio, issuer",05_descriptives.R
+hetero_vp_mor_issuer_ci_lower,1.38407301149314,odds ratio,"Lower 95 percent bootstrap limit, median odds ratio, issuer",05_descriptives.R
+hetero_vp_mor_issuer_ci_upper,1.5319138196731,odds ratio,"Upper 95 percent bootstrap limit, median odds ratio, issuer",05_descriptives.R
+hetero_vp_var_plan,0.0976596084610811,latent logit variance,"Variance component, plan",05_descriptives.R
+hetero_vp_vpc_latent_plan,0.0267934617324185,proportion,"Latent-scale variance partition coefficient, plan (includes the claim-line residual pi^2/3)",05_descriptives.R
+hetero_vp_vpc_latent_plan_ci_lower,0.0252951991854545,proportion,"Lower 95 percent bootstrap limit, latent VPC, plan",05_descriptives.R
+hetero_vp_vpc_latent_plan_ci_upper,0.028382187679329,proportion,"Upper 95 percent bootstrap limit, latent VPC, plan",05_descriptives.R
+hetero_vp_sd_plan,0.312505373491531,logit scale,"Standard deviation of the random intercept, plan",05_descriptives.R
+hetero_vp_var_plan_ci_lower,0.0924743363049146,latent logit variance,"Lower 95 percent bootstrap limit, variance, plan",05_descriptives.R
+hetero_vp_var_plan_ci_upper,0.103341996454077,latent logit variance,"Upper 95 percent bootstrap limit, variance, plan",05_descriptives.R
+hetero_vp_vpc_among_plan,0.275069332938813,proportion,"Share of the between-claim-group variance (state, issuer, plan) at this level, plan",05_descriptives.R
+hetero_vp_vpc_among_plan_ci_lower,0.225639735434262,proportion,"Lower 95 percent bootstrap limit, among-levels share, plan",05_descriptives.R
+hetero_vp_vpc_among_plan_ci_upper,0.352242893008542,proportion,"Upper 95 percent bootstrap limit, among-levels share, plan",05_descriptives.R
+hetero_vp_mor_plan,1.34728343972908,odds ratio,"Median odds ratio, plan",05_descriptives.R
+hetero_vp_mor_plan_ci_lower,1.33651924360824,odds ratio,"Lower 95 percent bootstrap limit, median odds ratio, plan",05_descriptives.R
+hetero_vp_mor_plan_ci_upper,1.35885166391767,odds ratio,"Upper 95 percent bootstrap limit, median odds ratio, plan",05_descriptives.R
+hetero_vp_var_claim,3.28986813369645,latent logit variance,"Variance component, claim line (latent residual)",05_descriptives.R
+hetero_vp_vpc_latent_claim,0.902593788096405,proportion,"Latent-scale variance partition coefficient, claim line (latent residual) (includes the claim-line residual pi^2/3)",05_descriptives.R
+hetero_vp_vpc_latent_claim_ci_lower,0.883209299070242,proportion,"Lower 95 percent bootstrap limit, latent VPC, claim line (latent residual)",05_descriptives.R
+hetero_vp_vpc_latent_claim_ci_upper,0.921355505791833,proportion,"Upper 95 percent bootstrap limit, latent VPC, claim line (latent residual)",05_descriptives.R
+hetero_vp_plans,2527,plans,Plans in the variance partition model (computable in-network proportion),05_descriptives.R
+hetero_vp_issuers,149,issuers,Issuers in the variance partition model,05_descriptives.R
+hetero_vp_states,30,states,States in the variance partition model,05_descriptives.R
+hetero_vp_nagq,1,count,"Adaptive Gauss-Hermite points used (1 = Laplace, 0 = fixed-effects PIRLS step)",05_descriptives.R
+hetero_vp_converged_clean,1,0 or 1,1 if the model converged with no optimizer or lme4 message and no warning,05_descriptives.R
+hetero_vp_singular,0,0 or 1,1 if lme4 reports a singular fit (a variance at the boundary),05_descriptives.R
+hetero_vp_intercept_logit,-1.5647805284464,logit,Fixed intercept of the null model,05_descriptives.R
+hetero_vp_intercept_probability,0.172961742165822,proportion,Inverse logit of the fixed intercept,05_descriptives.R
+hetero_vp_excluded_denied_suppressed,16,plans,Plans excluded because the in-network denied count is suppressed (received above 0),05_descriptives.R
+hetero_vp_excluded_received_suppressed,5,plans,Plans excluded because the in-network received count is suppressed,05_descriptives.R
+hetero_vp_excluded_received_zero,11,plans,Plans excluded because the in-network received count is 0,05_descriptives.R
+hetero_vp_bootstrap_nsim,500,replicates,Parametric bootstrap replicates requested,05_descriptives.R
+hetero_vp_bootstrap_usable,500,replicates,Parametric bootstrap replicates usable,05_descriptives.R
+cohort_all_plan_rows,4159,plans,Plan rows in the Individual QHP tab,05_descriptives.R
+cohort_all_issuers_in_puf,185,issuers,Issuers in the Individual QHP tab,05_descriptives.R
+cohort_all_plans_na_plan_level,1600,plans,Plans whose plan-level in-network claims are N/A,05_descriptives.R
+cohort_all_plans_plan_level_data,2559,plans,Plans with plan-level in-network claims reported (numeric or suppressed),05_descriptives.R
+cohort_all_issuers_plan_level_data,149,issuers,Issuers holding at least one plan with plan-level data,05_descriptives.R
+cohort_all_plans_excluded_received_suppressed,5,plans,Plans excluded: in-network received count suppressed (**),05_descriptives.R
+cohort_all_plans_excluded_received_zero,11,plans,Plans excluded: in-network received count equal to 0,05_descriptives.R
+cohort_all_plans_excluded_denied_suppressed,16,plans,Plans excluded: in-network denied count suppressed (**) with received above 0,05_descriptives.R
+cohort_all_plans_computable,2527,plans,Plans with a computable in-network denial proportion,05_descriptives.R
+cohort_all_issuers_computable,149,issuers,Issuers holding at least one computable plan,05_descriptives.R
+cohort_all_states_computable,30,states,States with at least one computable plan,05_descriptives.R
+cohort_all_claims_received_computable,344345114,claim lines,In-network claim lines received by the computable plans,05_descriptives.R
+cohort_all_plans_epo,661,plans,"Computable plans, plan type EPO",05_descriptives.R
+cohort_all_issuers_epo,52,issuers,Issuers with at least one computable EPO plan,05_descriptives.R
+cohort_all_plans_hmo,1195,plans,"Computable plans, plan type HMO",05_descriptives.R
+cohort_all_issuers_hmo,78,issuers,Issuers with at least one computable HMO plan,05_descriptives.R
+cohort_all_plans_pos,347,plans,"Computable plans, plan type POS",05_descriptives.R
+cohort_all_issuers_pos,10,issuers,Issuers with at least one computable POS plan,05_descriptives.R
+cohort_all_plans_ppo,324,plans,"Computable plans, plan type PPO",05_descriptives.R
+cohort_all_issuers_ppo,25,issuers,Issuers with at least one computable PPO plan,05_descriptives.R
+cohort_all_plans_bronze,822,plans,"Computable plans, metal level Bronze",05_descriptives.R
+cohort_all_issuers_bronze,137,issuers,Issuers with at least one computable Bronze plan,05_descriptives.R
+cohort_all_plans_silver,843,plans,"Computable plans, metal level Silver",05_descriptives.R
+cohort_all_issuers_silver,146,issuers,Issuers with at least one computable Silver plan,05_descriptives.R
+cohort_all_plans_gold,759,plans,"Computable plans, metal level Gold",05_descriptives.R
+cohort_all_issuers_gold,146,issuers,Issuers with at least one computable Gold plan,05_descriptives.R
+cohort_all_plans_platinum,27,plans,"Computable plans, metal level Platinum",05_descriptives.R
+cohort_all_issuers_platinum,8,issuers,Issuers with at least one computable Platinum plan,05_descriptives.R
+cohort_all_plans_catastrophic,76,plans,"Computable plans, metal level Catastrophic",05_descriptives.R
+cohort_all_issuers_catastrophic,35,issuers,Issuers with at least one computable Catastrophic plan,05_descriptives.R
+cohort_all_plans_enrollment_numeric,1942,plans,Computable plans with average monthly enrollment: Reported (numeric),05_descriptives.R
+cohort_all_plans_enrollment_suppressed_star2,585,plans,Computable plans with average monthly enrollment: Suppressed (**),05_descriptives.R
+cohort_all_plans_enrollment_unavailable_star1,0,plans,Computable plans with average monthly enrollment: Not available (*),05_descriptives.R
+cohort_all_plans_enrollment_not_applicable,0,plans,Computable plans with average monthly enrollment: N/A,05_descriptives.R
+cohort_all_share_enrollment_numeric,0.768500197863079,proportion,Share of computable plans with numeric average monthly enrollment,05_descriptives.R
+reason_share_referral_or_prior_auth_required_all,0.0837944474141358,proportion,"Share of the ten-reason tally total, Referral or prior authorization required, all computable plans",05_descriptives.R
+reason_suppressed_cells_referral_or_prior_auth_required_all,175,plan cells,"Plans with a suppressed (**) tally, Referral or prior authorization required, all computable plans",05_descriptives.R
+reason_share_out_of_network_provider_all,0.0982821069030614,proportion,"Share of the ten-reason tally total, Out-of-network provider, all computable plans",05_descriptives.R
+reason_suppressed_cells_out_of_network_provider_all,368,plan cells,"Plans with a suppressed (**) tally, Out-of-network provider, all computable plans",05_descriptives.R
+reason_share_service_excluded_all,0.116195115903272,proportion,"Share of the ten-reason tally total, Service excluded, all computable plans",05_descriptives.R
+reason_suppressed_cells_service_excluded_all,141,plan cells,"Plans with a suppressed (**) tally, Service excluded, all computable plans",05_descriptives.R
+reason_share_medical_necessity_excl_behavioral_health_all,0.041234268375817,proportion,"Share of the ten-reason tally total, Medical necessity, excluding behavioral health, all computable plans",05_descriptives.R
+reason_suppressed_cells_medical_necessity_excl_behavioral_health_all,421,plan cells,"Plans with a suppressed (**) tally, Medical necessity, excluding behavioral health, all computable plans",05_descriptives.R
+reason_share_medical_necessity_behavioral_health_all,0.00429482451357178,proportion,"Share of the ten-reason tally total, Medical necessity, behavioral health only, all computable plans",05_descriptives.R
+reason_suppressed_cells_medical_necessity_behavioral_health_all,621,plan cells,"Plans with a suppressed (**) tally, Medical necessity, behavioral health only, all computable plans",05_descriptives.R
+reason_share_benefit_limit_reached_all,0.0418303454266624,proportion,"Share of the ten-reason tally total, Enrollee benefit limit reached, all computable plans",05_descriptives.R
+reason_suppressed_cells_benefit_limit_reached_all,306,plan cells,"Plans with a suppressed (**) tally, Enrollee benefit limit reached, all computable plans",05_descriptives.R
+reason_share_member_not_covered_all,0.0657209075981458,proportion,"Share of the ten-reason tally total, Member not covered, all computable plans",05_descriptives.R
+reason_suppressed_cells_member_not_covered_all,212,plan cells,"Plans with a suppressed (**) tally, Member not covered, all computable plans",05_descriptives.R
+reason_share_investigational_experimental_cosmetic_all,0.00116563221759178,proportion,"Share of the ten-reason tally total, Investigational, experimental or cosmetic, all computable plans",05_descriptives.R
+reason_suppressed_cells_investigational_experimental_cosmetic_all,618,plan cells,"Plans with a suppressed (**) tally, Investigational, experimental or cosmetic, all computable plans",05_descriptives.R
+reason_share_administrative_all,0.224979556238864,proportion,"Share of the ten-reason tally total, Administrative reason, all computable plans",05_descriptives.R
+reason_suppressed_cells_administrative_all,66,plan cells,"Plans with a suppressed (**) tally, Administrative reason, all computable plans",05_descriptives.R
+reason_share_other_all,0.322502795408878,proportion,"Share of the ten-reason tally total, Other reason not listed, all computable plans",05_descriptives.R
+reason_suppressed_cells_other_all,85,plan cells,"Plans with a suppressed (**) tally, Other reason not listed, all computable plans",05_descriptives.R
+reason_ten_reason_total_all,87173294,reason tallies,"Sum of the ten reported reason tallies (tallies, not unique claims), all computable plans",05_descriptives.R
+reason_nine_reason_total_all,78605719,reason tallies,Sum of the nine reported tallies excluding out-of-network provider (KFF comparison basis),05_descriptives.R
+reason_plans,2527,plans,Computable plans behind the reason mix,05_descriptives.R
+reason_share_other_of_nine_all,0.357653760536177,proportion,"Other-reason share of the nine-reason total (excluding out-of-network provider), all computable plans",05_descriptives.R
+reason_share_other_epo,0.258640810758073,proportion,"Other-reason share of the ten-reason total, plan type EPO",05_descriptives.R
+reason_share_other_hmo,0.353007155753718,proportion,"Other-reason share of the ten-reason total, plan type HMO",05_descriptives.R
+reason_share_other_pos,0.501706510485685,proportion,"Other-reason share of the ten-reason total, plan type POS",05_descriptives.R
+reason_share_other_ppo,0.268240246332038,proportion,"Other-reason share of the ten-reason total, plan type PPO",05_descriptives.R
+reason_share_other_bronze,0.313010529318368,proportion,"Other-reason share of the ten-reason total, metal level Bronze",05_descriptives.R
+reason_share_other_silver,0.310614452466385,proportion,"Other-reason share of the ten-reason total, metal level Silver",05_descriptives.R
+reason_share_other_gold,0.382302118611652,proportion,"Other-reason share of the ten-reason total, metal level Gold",05_descriptives.R
+reason_share_other_platinum,0.574314338977863,proportion,"Other-reason share of the ten-reason total, metal level Platinum",05_descriptives.R
+reason_share_other_catastrophic,0.198051570214959,proportion,"Other-reason share of the ten-reason total, metal level Catastrophic",05_descriptives.R
+reason_suppressed_cells_all,3013,plan cells,"Suppressed (**) reason cells over the ten reasons, all computable plans (cells, not plans)",05_descriptives.R
+reason_cells_all,25270,plan cells,"Reason cells in the ten-reason table, all computable plans (plans times ten)",05_descriptives.R

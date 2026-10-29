@@ -1,0 +1,992 @@
+key,value,unit,description,source_script,part
+att_claims_received_combined,495646850,claim lines,"2024 national total, in-network plus out-of-network (claims received), sum of reported issuer-level cells; lower bound",05_descriptives.R,desc
+att_claims_received_combined_issuers_reported,159,issuers,Issuers with both the in-network and out-of-network cell reported (claims received),05_descriptives.R,desc
+att_claims_denied_combined,100974402,claim lines,"2024 national total, in-network plus out-of-network (claims denied), sum of reported issuer-level cells; lower bound",05_descriptives.R,desc
+att_claims_denied_combined_issuers_reported,158,issuers,Issuers with both the in-network and out-of-network cell reported (claims denied),05_descriptives.R,desc
+att_claims_resubmitted_combined,35088036,claim lines,"2024 national total, in-network plus out-of-network (claims resubmitted), sum of reported issuer-level cells; lower bound",05_descriptives.R,desc
+att_claims_resubmitted_combined_issuers_reported,155,issuers,Issuers with both the in-network and out-of-network cell reported (claims resubmitted),05_descriptives.R,desc
+att_ratio_resubmitted_per1000_denied_in_network,380.009247519327,"per 1,000 denied claim lines","Claim lines resubmitted (in-network) over claim lines denied (in-network), matched issuer set (issuers reporting every cell used)",05_descriptives.R,desc
+att_ratio_resubmitted_per1000_denied_in_network_issuers,157,issuers,Matched issuers behind ratio resubmitted_per1000_denied_in_network,05_descriptives.R,desc
+att_ratio_internal_appeals_filed_per1000_denied_in_network,3.15801700856262,"per 1,000 denied claim lines","Internal appeals filed over claim lines denied (in-network), matched issuer set (issuers reporting every cell used)",05_descriptives.R,desc
+att_ratio_internal_appeals_filed_per1000_denied_in_network_issuers,147,issuers,Matched issuers behind ratio internal_appeals_filed_per1000_denied_in_network,05_descriptives.R,desc
+att_ratio_internal_appeals_overturned_per1000_denied_in_network,1.10233808931576,"per 1,000 denied claim lines","Internal appeals overturned over claim lines denied (in-network), matched issuer set (issuers reporting every cell used)",05_descriptives.R,desc
+att_ratio_internal_appeals_overturned_per1000_denied_in_network_issuers,138,issuers,Matched issuers behind ratio internal_appeals_overturned_per1000_denied_in_network,05_descriptives.R,desc
+att_ratio_external_appeals_filed_per1000_denied_in_network,0.0903610787837519,"per 1,000 denied claim lines","External appeals filed over claim lines denied (in-network), matched issuer set (issuers reporting every cell used)",05_descriptives.R,desc
+att_ratio_external_appeals_filed_per1000_denied_in_network_issuers,100,issuers,Matched issuers behind ratio external_appeals_filed_per1000_denied_in_network,05_descriptives.R,desc
+att_ratio_external_appeals_overturned_per1000_denied_in_network,0.0277744557538521,"per 1,000 denied claim lines","External appeals overturned over claim lines denied (in-network), matched issuer set (issuers reporting every cell used)",05_descriptives.R,desc
+att_ratio_external_appeals_overturned_per1000_denied_in_network_issuers,107,issuers,Matched issuers behind ratio external_appeals_overturned_per1000_denied_in_network,05_descriptives.R,desc
+att_ratio_resubmitted_per1000_denied_combined,348.067299067124,"per 1,000 denied claim lines","Claim lines resubmitted (in-network plus out-of-network) over claim lines denied (in-network plus out-of-network), matched issuer set (issuers reporting every cell used); the 2 anomalous out-of-network issuers left out",05_descriptives.R,desc
+att_ratio_resubmitted_per1000_denied_combined_issuers,153,issuers,Matched issuers behind ratio resubmitted_per1000_denied_combined,05_descriptives.R,desc
+att_ratio_internal_appeals_filed_per1000_denied_combined,2.64395695098365,"per 1,000 denied claim lines","Internal appeals filed over claim lines denied (in-network plus out-of-network), matched issuer set (issuers reporting every cell used); the 2 anomalous out-of-network issuers left out",05_descriptives.R,desc
+att_ratio_internal_appeals_filed_per1000_denied_combined_issuers,145,issuers,Matched issuers behind ratio internal_appeals_filed_per1000_denied_combined,05_descriptives.R,desc
+att_ratio_internal_appeals_overturned_per1000_denied_combined,0.921176083198974,"per 1,000 denied claim lines","Internal appeals overturned over claim lines denied (in-network plus out-of-network), matched issuer set (issuers reporting every cell used); the 2 anomalous out-of-network issuers left out",05_descriptives.R,desc
+att_ratio_internal_appeals_overturned_per1000_denied_combined_issuers,136,issuers,Matched issuers behind ratio internal_appeals_overturned_per1000_denied_combined,05_descriptives.R,desc
+att_ratio_external_appeals_filed_per1000_denied_combined,0.0779952031292296,"per 1,000 denied claim lines","External appeals filed over claim lines denied (in-network plus out-of-network), matched issuer set (issuers reporting every cell used); the 2 anomalous out-of-network issuers left out",05_descriptives.R,desc
+att_ratio_external_appeals_filed_per1000_denied_combined_issuers,98,issuers,Matched issuers behind ratio external_appeals_filed_per1000_denied_combined,05_descriptives.R,desc
+att_ratio_external_appeals_overturned_per1000_denied_combined,0.0238590105390036,"per 1,000 denied claim lines","External appeals overturned over claim lines denied (in-network plus out-of-network), matched issuer set (issuers reporting every cell used); the 2 anomalous out-of-network issuers left out",05_descriptives.R,desc
+att_ratio_external_appeals_overturned_per1000_denied_combined_issuers,105,issuers,Matched issuers behind ratio external_appeals_overturned_per1000_denied_combined,05_descriptives.R,desc
+att_ratio_resubmitted_per1000_denied_out_of_network,181.478275579618,"per 1,000 denied claim lines","Claim lines resubmitted (out-of-network) over claim lines denied (out-of-network), matched issuer set (issuers reporting every cell used); the 2 anomalous out-of-network issuers left out",05_descriptives.R,desc
+att_ratio_resubmitted_per1000_denied_out_of_network_issuers,153,issuers,Matched issuers behind ratio resubmitted_per1000_denied_out_of_network,05_descriptives.R,desc
+att_ratio_denial_rate_in_network,0.187263813027567,proportion,"Claim lines denied (in-network) over claim lines received (in-network), matched issuer set (issuers reporting every cell used)",05_descriptives.R,desc
+att_ratio_denial_rate_in_network_issuers,158,issuers,Matched issuers behind ratio denial_rate_in_network,05_descriptives.R,desc
+att_ratio_denial_rate_out_of_network,0.369582449627977,proportion,"Claim lines denied (out-of-network) over claim lines received (out-of-network), matched issuer set (issuers reporting every cell used); the 2 anomalous out-of-network issuers left out",05_descriptives.R,desc
+att_ratio_denial_rate_out_of_network_issuers,157,issuers,Matched issuers behind ratio denial_rate_out_of_network,05_descriptives.R,desc
+att_ratio_denial_rate_combined,0.203690106839229,proportion,"Claim lines denied (in-network plus out-of-network) over claim lines received (in-network plus out-of-network), matched issuer set (issuers reporting every cell used); the 2 anomalous out-of-network issuers left out",05_descriptives.R,desc
+att_ratio_denial_rate_combined_issuers,156,issuers,Matched issuers behind ratio denial_rate_combined,05_descriptives.R,desc
+att_ratio_internal_overturned_per1000_internal_filed,336.006547285735,"per 1,000 internal appeals filed","Internal appeals overturned over internal appeals filed, matched issuer set (issuers reporting every cell used)",05_descriptives.R,desc
+att_ratio_internal_overturned_per1000_internal_filed_issuers,135,issuers,Matched issuers behind ratio internal_overturned_per1000_internal_filed,05_descriptives.R,desc
+att_ratio_external_overturned_per1000_external_filed,356.825749167592,"per 1,000 external appeals filed","External appeals overturned over external appeals filed, matched issuer set (issuers reporting every cell used)",05_descriptives.R,desc
+att_ratio_external_overturned_per1000_external_filed_issuers,83,issuers,Matched issuers behind ratio external_overturned_per1000_external_filed,05_descriptives.R,desc
+att_oon_anomalous_issuers,2,issuers,"Issuers with out-of-network denied above received, left out of out-of-network and combined rates",05_descriptives.R,desc
+att_oon_anomalous_plans,30,plans,"Plans with out-of-network denied above received (flagged, no out-of-network plan rate used)",05_descriptives.R,desc
+att_oon_anomalous_plan_issuers,6,issuers,Issuers holding the anomalous out-of-network plans,05_descriptives.R,desc
+hetero_funnel_issuers,158,issuers,Issuers with reported in-network received and denied counts (funnel plot),05_descriptives.R,desc
+hetero_funnel_issuers_na,26,issuers,Issuers excluded from the funnel because issuer-level claims are N/A,05_descriptives.R,desc
+hetero_funnel_issuers_denied_suppressed,1,issuers,Issuers excluded from the funnel because the in-network denied count is suppressed,05_descriptives.R,desc
+hetero_funnel_issuers_over_1000,157,issuers,"Funnel issuers with more than 1,000 in-network claim lines",05_descriptives.R,desc
+hetero_funnel_claims_received,451249751,claim lines,In-network claim lines received by the funnel issuers,05_descriptives.R,desc
+hetero_funnel_claims_denied,84502749,claim lines,In-network claim lines denied by the funnel issuers,05_descriptives.R,desc
+hetero_funnel_pooled_rate,0.187263813027567,proportion,Pooled in-network denial rate of the funnel issuers (sum denied over sum received),05_descriptives.R,desc
+hetero_issuer_rate_min,0.0269535720592924,proportion,Lowest issuer in-network denial rate among funnel issuers,05_descriptives.R,desc
+hetero_issuer_rate_p25,0.154335416417573,proportion,25th percentile of issuer in-network denial rates (unweighted),05_descriptives.R,desc
+hetero_issuer_rate_median,0.190021397991804,proportion,Median issuer in-network denial rate (unweighted),05_descriptives.R,desc
+hetero_issuer_rate_p75,0.228812207055793,proportion,75th percentile of issuer in-network denial rates (unweighted),05_descriptives.R,desc
+hetero_issuer_rate_max,0.356521739130435,proportion,Highest issuer in-network denial rate among funnel issuers,05_descriptives.R,desc
+hetero_funnel_tau2,0.000763492567682774,proportion scale squared,Additive overdispersion tau-squared from 10 percent Winsorised z-scores,05_descriptives.R,desc
+hetero_funnel_tau,0.0276313692690531,proportion,Square root of the additive overdispersion tau-squared,05_descriptives.R,desc
+hetero_funnel_phi,13770.887902465,factor,Multiplicative overdispersion factor from 10 percent Winsorised z-scores,05_descriptives.R,desc
+hetero_funnel_tau2_unwinsorised,0.00172545784431385,proportion scale squared,Additive tau-squared without Winsorising (sensitivity),05_descriptives.R,desc
+hetero_funnel_winsor_probability,0.1,proportion,Share of z-scores Winsorised in each tail,05_descriptives.R,desc
+hetero_funnel_zcrit_95,1.95996398454005,z,Critical z for the 95 percent funnel limits,05_descriptives.R,desc
+hetero_funnel_zcrit_998,3.09023230616781,z,Critical z for the 99.8 percent funnel limits,05_descriptives.R,desc
+hetero_funnel_outside_95_unadjusted,157,issuers,Issuers outside the 95 percent limits without the overdispersion term,05_descriptives.R,desc
+hetero_funnel_outside_998_unadjusted,156,issuers,Issuers outside the 99.8 percent limits without the overdispersion term,05_descriptives.R,desc
+hetero_funnel_outside_95_adjusted,56,issuers,Issuers outside the 95 percent limits with the additive overdispersion term,05_descriptives.R,desc
+hetero_funnel_outside_998_adjusted,34,issuers,Issuers outside the 99.8 percent limits with the additive overdispersion term,05_descriptives.R,desc
+hetero_funnel_above_998_adjusted,15,issuers,Issuers above the adjusted 99.8 percent upper limit,05_descriptives.R,desc
+hetero_funnel_below_998_adjusted,19,issuers,Issuers below the adjusted 99.8 percent lower limit,05_descriptives.R,desc
+hetero_funnel_outside_95_multiplicative,19,issuers,Issuers outside the 95 percent limits with the multiplicative factor,05_descriptives.R,desc
+hetero_funnel_outside_998_multiplicative,8,issuers,Issuers outside the 99.8 percent limits with the multiplicative factor,05_descriptives.R,desc
+hetero_funnel_outside_998_adjusted_unwinsorised,8,issuers,Issuers outside the 99.8 percent limits using the unwinsorised tau-squared (sensitivity),05_descriptives.R,desc
+hetero_funnel_outside_95_adjusted_unwinsorised,39,issuers,Issuers outside the 95 percent limits using the unwinsorised tau-squared (sensitivity),05_descriptives.R,desc
+hetero_funnel_outside_998_adjusted_over_1000,33,issuers,"Issuers with more than 1,000 claim lines outside the adjusted 99.8 percent limits",05_descriptives.R,desc
+hetero_states,30,states,States with at least one funnel issuer (rows of desc_state_rates.csv),05_descriptives.R,desc
+hetero_state_pooled_rate_min,0.0654903253921461,proportion,Lowest state pooled in-network denial rate,05_descriptives.R,desc
+hetero_state_pooled_rate_max,0.270222146046981,proportion,Highest state pooled in-network denial rate,05_descriptives.R,desc
+hetero_state_lowest,SD,state code,State with the lowest pooled in-network denial rate,05_descriptives.R,desc
+hetero_state_highest,HI,state code,State with the highest pooled in-network denial rate,05_descriptives.R,desc
+hetero_states_single_issuer,1,states,States whose pooled rate rests on a single issuer,05_descriptives.R,desc
+hetero_vp_var_state,0.103548328243968,latent logit variance,"Variance component, state",05_descriptives.R,desc
+hetero_vp_vpc_latent_state,0.0284090650574984,proportion,"Latent-scale variance partition coefficient, state (includes the claim-line residual pi^2/3)",05_descriptives.R,desc
+hetero_vp_vpc_latent_state_ci_lower,0.0110115504895935,proportion,"Lower 95 percent bootstrap limit, latent VPC, state",05_descriptives.R,desc
+hetero_vp_vpc_latent_state_ci_upper,0.0487403168223062,proportion,"Upper 95 percent bootstrap limit, latent VPC, state",05_descriptives.R,desc
+hetero_vp_sd_state,0.321789260610059,logit scale,"Standard deviation of the random intercept, state",05_descriptives.R,desc
+hetero_vp_var_state_ci_lower,0.0395000990070654,latent logit variance,"Lower 95 percent bootstrap limit, variance, state",05_descriptives.R,desc
+hetero_vp_var_state_ci_upper,0.180084376911935,latent logit variance,"Upper 95 percent bootstrap limit, variance, state",05_descriptives.R,desc
+hetero_vp_vpc_among_state,0.291655578246032,proportion,"Share of the between-claim-group variance (state, issuer, plan) at this level, state",05_descriptives.R,desc
+hetero_vp_vpc_among_state_ci_lower,0.129765059809817,proportion,"Lower 95 percent bootstrap limit, among-levels share, state",05_descriptives.R,desc
+hetero_vp_vpc_among_state_ci_upper,0.433583428074196,proportion,"Upper 95 percent bootstrap limit, among-levels share, state",05_descriptives.R,desc
+hetero_vp_mor_state,1.35926748864711,odds ratio,"Median odds ratio, state",05_descriptives.R,desc
+hetero_vp_mor_state_ci_lower,1.2087401703909,odds ratio,"Lower 95 percent bootstrap limit, median odds ratio, state",05_descriptives.R,desc
+hetero_vp_mor_state_ci_upper,1.49898330611218,odds ratio,"Upper 95 percent bootstrap limit, median odds ratio, state",05_descriptives.R,desc
+hetero_vp_var_issuer,0.153828400561979,latent logit variance,"Variance component, issuer",05_descriptives.R,desc
+hetero_vp_vpc_latent_issuer,0.0422036851136779,proportion,"Latent-scale variance partition coefficient, issuer (includes the claim-line residual pi^2/3)",05_descriptives.R,desc
+hetero_vp_vpc_latent_issuer_ci_lower,0.0321708151040457,proportion,"Lower 95 percent bootstrap limit, latent VPC, issuer",05_descriptives.R,desc
+hetero_vp_vpc_latent_issuer_ci_upper,0.054372504146884,proportion,"Upper 95 percent bootstrap limit, latent VPC, issuer",05_descriptives.R,desc
+hetero_vp_sd_issuer,0.392209638537835,logit scale,"Standard deviation of the random intercept, issuer",05_descriptives.R,desc
+hetero_vp_var_issuer_ci_lower,0.116111955947937,latent logit variance,"Lower 95 percent bootstrap limit, variance, issuer",05_descriptives.R,desc
+hetero_vp_var_issuer_ci_upper,0.19993727491659,latent logit variance,"Upper 95 percent bootstrap limit, variance, issuer",05_descriptives.R,desc
+hetero_vp_vpc_among_issuer,0.433275088815155,proportion,"Share of the between-claim-group variance (state, issuer, plan) at this level, issuer",05_descriptives.R,desc
+hetero_vp_vpc_among_issuer_ci_lower,0.32433418938189,proportion,"Lower 95 percent bootstrap limit, among-levels share, issuer",05_descriptives.R,desc
+hetero_vp_vpc_among_issuer_ci_upper,0.563852281503938,proportion,"Upper 95 percent bootstrap limit, among-levels share, issuer",05_descriptives.R,desc
+hetero_vp_mor_issuer,1.45370869103151,odds ratio,"Median odds ratio, issuer",05_descriptives.R,desc
+hetero_vp_mor_issuer_ci_lower,1.38407301149314,odds ratio,"Lower 95 percent bootstrap limit, median odds ratio, issuer",05_descriptives.R,desc
+hetero_vp_mor_issuer_ci_upper,1.5319138196731,odds ratio,"Upper 95 percent bootstrap limit, median odds ratio, issuer",05_descriptives.R,desc
+hetero_vp_var_plan,0.0976596084610811,latent logit variance,"Variance component, plan",05_descriptives.R,desc
+hetero_vp_vpc_latent_plan,0.0267934617324185,proportion,"Latent-scale variance partition coefficient, plan (includes the claim-line residual pi^2/3)",05_descriptives.R,desc
+hetero_vp_vpc_latent_plan_ci_lower,0.0252951991854545,proportion,"Lower 95 percent bootstrap limit, latent VPC, plan",05_descriptives.R,desc
+hetero_vp_vpc_latent_plan_ci_upper,0.028382187679329,proportion,"Upper 95 percent bootstrap limit, latent VPC, plan",05_descriptives.R,desc
+hetero_vp_sd_plan,0.312505373491531,logit scale,"Standard deviation of the random intercept, plan",05_descriptives.R,desc
+hetero_vp_var_plan_ci_lower,0.0924743363049146,latent logit variance,"Lower 95 percent bootstrap limit, variance, plan",05_descriptives.R,desc
+hetero_vp_var_plan_ci_upper,0.103341996454077,latent logit variance,"Upper 95 percent bootstrap limit, variance, plan",05_descriptives.R,desc
+hetero_vp_vpc_among_plan,0.275069332938813,proportion,"Share of the between-claim-group variance (state, issuer, plan) at this level, plan",05_descriptives.R,desc
+hetero_vp_vpc_among_plan_ci_lower,0.225639735434262,proportion,"Lower 95 percent bootstrap limit, among-levels share, plan",05_descriptives.R,desc
+hetero_vp_vpc_among_plan_ci_upper,0.352242893008542,proportion,"Upper 95 percent bootstrap limit, among-levels share, plan",05_descriptives.R,desc
+hetero_vp_mor_plan,1.34728343972908,odds ratio,"Median odds ratio, plan",05_descriptives.R,desc
+hetero_vp_mor_plan_ci_lower,1.33651924360824,odds ratio,"Lower 95 percent bootstrap limit, median odds ratio, plan",05_descriptives.R,desc
+hetero_vp_mor_plan_ci_upper,1.35885166391767,odds ratio,"Upper 95 percent bootstrap limit, median odds ratio, plan",05_descriptives.R,desc
+hetero_vp_var_claim,3.28986813369645,latent logit variance,"Variance component, claim line (latent residual)",05_descriptives.R,desc
+hetero_vp_vpc_latent_claim,0.902593788096405,proportion,"Latent-scale variance partition coefficient, claim line (latent residual) (includes the claim-line residual pi^2/3)",05_descriptives.R,desc
+hetero_vp_vpc_latent_claim_ci_lower,0.883209299070242,proportion,"Lower 95 percent bootstrap limit, latent VPC, claim line (latent residual)",05_descriptives.R,desc
+hetero_vp_vpc_latent_claim_ci_upper,0.921355505791833,proportion,"Upper 95 percent bootstrap limit, latent VPC, claim line (latent residual)",05_descriptives.R,desc
+hetero_vp_plans,2527,plans,Plans in the variance partition model (computable in-network proportion),05_descriptives.R,desc
+hetero_vp_issuers,149,issuers,Issuers in the variance partition model,05_descriptives.R,desc
+hetero_vp_states,30,states,States in the variance partition model,05_descriptives.R,desc
+hetero_vp_nagq,1,count,"Adaptive Gauss-Hermite points used (1 = Laplace, 0 = fixed-effects PIRLS step)",05_descriptives.R,desc
+hetero_vp_converged_clean,1,0 or 1,1 if the model converged with no optimizer or lme4 message and no warning,05_descriptives.R,desc
+hetero_vp_singular,0,0 or 1,1 if lme4 reports a singular fit (a variance at the boundary),05_descriptives.R,desc
+hetero_vp_intercept_logit,-1.5647805284464,logit,Fixed intercept of the null model,05_descriptives.R,desc
+hetero_vp_intercept_probability,0.172961742165822,proportion,Inverse logit of the fixed intercept,05_descriptives.R,desc
+hetero_vp_excluded_denied_suppressed,16,plans,Plans excluded because the in-network denied count is suppressed (received above 0),05_descriptives.R,desc
+hetero_vp_excluded_received_suppressed,5,plans,Plans excluded because the in-network received count is suppressed,05_descriptives.R,desc
+hetero_vp_excluded_received_zero,11,plans,Plans excluded because the in-network received count is 0,05_descriptives.R,desc
+hetero_vp_bootstrap_nsim,500,replicates,Parametric bootstrap replicates requested,05_descriptives.R,desc
+hetero_vp_bootstrap_usable,500,replicates,Parametric bootstrap replicates usable,05_descriptives.R,desc
+cohort_all_plan_rows,4159,plans,Plan rows in the Individual QHP tab,05_descriptives.R,desc
+cohort_all_issuers_in_puf,185,issuers,Issuers in the Individual QHP tab,05_descriptives.R,desc
+cohort_all_plans_na_plan_level,1600,plans,Plans whose plan-level in-network claims are N/A,05_descriptives.R,desc
+cohort_all_plans_plan_level_data,2559,plans,Plans with plan-level in-network claims reported (numeric or suppressed),05_descriptives.R,desc
+cohort_all_issuers_plan_level_data,149,issuers,Issuers holding at least one plan with plan-level data,05_descriptives.R,desc
+cohort_all_plans_excluded_received_suppressed,5,plans,Plans excluded: in-network received count suppressed (**),05_descriptives.R,desc
+cohort_all_plans_excluded_received_zero,11,plans,Plans excluded: in-network received count equal to 0,05_descriptives.R,desc
+cohort_all_plans_excluded_denied_suppressed,16,plans,Plans excluded: in-network denied count suppressed (**) with received above 0,05_descriptives.R,desc
+cohort_all_plans_computable,2527,plans,Plans with a computable in-network denial proportion,05_descriptives.R,desc
+cohort_all_issuers_computable,149,issuers,Issuers holding at least one computable plan,05_descriptives.R,desc
+cohort_all_states_computable,30,states,States with at least one computable plan,05_descriptives.R,desc
+cohort_all_claims_received_computable,344345114,claim lines,In-network claim lines received by the computable plans,05_descriptives.R,desc
+cohort_all_plans_epo,661,plans,"Computable plans, plan type EPO",05_descriptives.R,desc
+cohort_all_issuers_epo,52,issuers,Issuers with at least one computable EPO plan,05_descriptives.R,desc
+cohort_all_plans_hmo,1195,plans,"Computable plans, plan type HMO",05_descriptives.R,desc
+cohort_all_issuers_hmo,78,issuers,Issuers with at least one computable HMO plan,05_descriptives.R,desc
+cohort_all_plans_pos,347,plans,"Computable plans, plan type POS",05_descriptives.R,desc
+cohort_all_issuers_pos,10,issuers,Issuers with at least one computable POS plan,05_descriptives.R,desc
+cohort_all_plans_ppo,324,plans,"Computable plans, plan type PPO",05_descriptives.R,desc
+cohort_all_issuers_ppo,25,issuers,Issuers with at least one computable PPO plan,05_descriptives.R,desc
+cohort_all_plans_bronze,822,plans,"Computable plans, metal level Bronze",05_descriptives.R,desc
+cohort_all_issuers_bronze,137,issuers,Issuers with at least one computable Bronze plan,05_descriptives.R,desc
+cohort_all_plans_silver,843,plans,"Computable plans, metal level Silver",05_descriptives.R,desc
+cohort_all_issuers_silver,146,issuers,Issuers with at least one computable Silver plan,05_descriptives.R,desc
+cohort_all_plans_gold,759,plans,"Computable plans, metal level Gold",05_descriptives.R,desc
+cohort_all_issuers_gold,146,issuers,Issuers with at least one computable Gold plan,05_descriptives.R,desc
+cohort_all_plans_platinum,27,plans,"Computable plans, metal level Platinum",05_descriptives.R,desc
+cohort_all_issuers_platinum,8,issuers,Issuers with at least one computable Platinum plan,05_descriptives.R,desc
+cohort_all_plans_catastrophic,76,plans,"Computable plans, metal level Catastrophic",05_descriptives.R,desc
+cohort_all_issuers_catastrophic,35,issuers,Issuers with at least one computable Catastrophic plan,05_descriptives.R,desc
+cohort_all_plans_enrollment_numeric,1942,plans,Computable plans with average monthly enrollment: Reported (numeric),05_descriptives.R,desc
+cohort_all_plans_enrollment_suppressed_star2,585,plans,Computable plans with average monthly enrollment: Suppressed (**),05_descriptives.R,desc
+cohort_all_plans_enrollment_unavailable_star1,0,plans,Computable plans with average monthly enrollment: Not available (*),05_descriptives.R,desc
+cohort_all_plans_enrollment_not_applicable,0,plans,Computable plans with average monthly enrollment: N/A,05_descriptives.R,desc
+cohort_all_share_enrollment_numeric,0.768500197863079,proportion,Share of computable plans with numeric average monthly enrollment,05_descriptives.R,desc
+reason_share_referral_or_prior_auth_required_all,0.0837944474141358,proportion,"Share of the ten-reason tally total, Referral or prior authorization required, all computable plans",05_descriptives.R,desc
+reason_suppressed_cells_referral_or_prior_auth_required_all,175,plan cells,"Plans with a suppressed (**) tally, Referral or prior authorization required, all computable plans",05_descriptives.R,desc
+reason_share_out_of_network_provider_all,0.0982821069030614,proportion,"Share of the ten-reason tally total, Out-of-network provider, all computable plans",05_descriptives.R,desc
+reason_suppressed_cells_out_of_network_provider_all,368,plan cells,"Plans with a suppressed (**) tally, Out-of-network provider, all computable plans",05_descriptives.R,desc
+reason_share_service_excluded_all,0.116195115903272,proportion,"Share of the ten-reason tally total, Service excluded, all computable plans",05_descriptives.R,desc
+reason_suppressed_cells_service_excluded_all,141,plan cells,"Plans with a suppressed (**) tally, Service excluded, all computable plans",05_descriptives.R,desc
+reason_share_medical_necessity_excl_behavioral_health_all,0.041234268375817,proportion,"Share of the ten-reason tally total, Medical necessity, excluding behavioral health, all computable plans",05_descriptives.R,desc
+reason_suppressed_cells_medical_necessity_excl_behavioral_health_all,421,plan cells,"Plans with a suppressed (**) tally, Medical necessity, excluding behavioral health, all computable plans",05_descriptives.R,desc
+reason_share_medical_necessity_behavioral_health_all,0.00429482451357178,proportion,"Share of the ten-reason tally total, Medical necessity, behavioral health only, all computable plans",05_descriptives.R,desc
+reason_suppressed_cells_medical_necessity_behavioral_health_all,621,plan cells,"Plans with a suppressed (**) tally, Medical necessity, behavioral health only, all computable plans",05_descriptives.R,desc
+reason_share_benefit_limit_reached_all,0.0418303454266624,proportion,"Share of the ten-reason tally total, Enrollee benefit limit reached, all computable plans",05_descriptives.R,desc
+reason_suppressed_cells_benefit_limit_reached_all,306,plan cells,"Plans with a suppressed (**) tally, Enrollee benefit limit reached, all computable plans",05_descriptives.R,desc
+reason_share_member_not_covered_all,0.0657209075981458,proportion,"Share of the ten-reason tally total, Member not covered, all computable plans",05_descriptives.R,desc
+reason_suppressed_cells_member_not_covered_all,212,plan cells,"Plans with a suppressed (**) tally, Member not covered, all computable plans",05_descriptives.R,desc
+reason_share_investigational_experimental_cosmetic_all,0.00116563221759178,proportion,"Share of the ten-reason tally total, Investigational, experimental or cosmetic, all computable plans",05_descriptives.R,desc
+reason_suppressed_cells_investigational_experimental_cosmetic_all,618,plan cells,"Plans with a suppressed (**) tally, Investigational, experimental or cosmetic, all computable plans",05_descriptives.R,desc
+reason_share_administrative_all,0.224979556238864,proportion,"Share of the ten-reason tally total, Administrative reason, all computable plans",05_descriptives.R,desc
+reason_suppressed_cells_administrative_all,66,plan cells,"Plans with a suppressed (**) tally, Administrative reason, all computable plans",05_descriptives.R,desc
+reason_share_other_all,0.322502795408878,proportion,"Share of the ten-reason tally total, Other reason not listed, all computable plans",05_descriptives.R,desc
+reason_suppressed_cells_other_all,85,plan cells,"Plans with a suppressed (**) tally, Other reason not listed, all computable plans",05_descriptives.R,desc
+reason_ten_reason_total_all,87173294,reason tallies,"Sum of the ten reported reason tallies (tallies, not unique claims), all computable plans",05_descriptives.R,desc
+reason_nine_reason_total_all,78605719,reason tallies,Sum of the nine reported tallies excluding out-of-network provider (KFF comparison basis),05_descriptives.R,desc
+reason_plans,2527,plans,Computable plans behind the reason mix,05_descriptives.R,desc
+reason_share_other_of_nine_all,0.357653760536177,proportion,"Other-reason share of the nine-reason total (excluding out-of-network provider), all computable plans",05_descriptives.R,desc
+reason_share_other_epo,0.258640810758073,proportion,"Other-reason share of the ten-reason total, plan type EPO",05_descriptives.R,desc
+reason_share_other_hmo,0.353007155753718,proportion,"Other-reason share of the ten-reason total, plan type HMO",05_descriptives.R,desc
+reason_share_other_pos,0.501706510485685,proportion,"Other-reason share of the ten-reason total, plan type POS",05_descriptives.R,desc
+reason_share_other_ppo,0.268240246332038,proportion,"Other-reason share of the ten-reason total, plan type PPO",05_descriptives.R,desc
+reason_share_other_bronze,0.313010529318368,proportion,"Other-reason share of the ten-reason total, metal level Bronze",05_descriptives.R,desc
+reason_share_other_silver,0.310614452466385,proportion,"Other-reason share of the ten-reason total, metal level Silver",05_descriptives.R,desc
+reason_share_other_gold,0.382302118611652,proportion,"Other-reason share of the ten-reason total, metal level Gold",05_descriptives.R,desc
+reason_share_other_platinum,0.574314338977863,proportion,"Other-reason share of the ten-reason total, metal level Platinum",05_descriptives.R,desc
+reason_share_other_catastrophic,0.198051570214959,proportion,"Other-reason share of the ten-reason total, metal level Catastrophic",05_descriptives.R,desc
+reason_suppressed_cells_all,3013,plan cells,"Suppressed (**) reason cells over the ten reasons, all computable plans (cells, not plans)",05_descriptives.R,desc
+reason_cells_all,25270,plan cells,"Reason cells in the ten-reason table, all computable plans (plans times ten)",05_descriptives.R,desc
+figd_oon_denied_excl_anomalous,16392620,claim lines,"Out-of-network claim lines denied, reported cells, leaving out the 2 issuers whose denied count exceeds received (Fig 1 caption)",07a_figures_desc.R,figdesc
+figd_funnel_tau_pp,2.76313692690531,percentage points,"Additive between-issuer standard deviation of the funnel limits, Winsorised, in percentage points of the denial rate",07a_figures_desc.R,figdesc
+figd_funnel_tau_unwins_pp,4.1538630746738,percentage points,"Same without Winsorising the z scores (sensitivity), in percentage points",07a_figures_desc.R,figdesc
+figd_funnel_level_95,0.95,proportion,Inner funnel limit level (Fig 2 caption),07a_figures_desc.R,figdesc
+figd_funnel_level_998,0.998,proportion,Outer funnel limit level (Fig 2 caption),07a_figures_desc.R,figdesc
+figd_state_lowest_name,South Dakota,state name,Full name of the state with the lowest pooled in-network denial rate (Fig 2 caption; the tiles keep postal codes),07a_figures_desc.R,figdesc
+figd_state_highest_name,Hawaii,state name,Full name of the state with the highest pooled in-network denial rate (Fig 2 caption),07a_figures_desc.R,figdesc
+figd_single_issuer_state_name,Wyoming,state name,Full name of the state whose pooled rate rests on a single issuer (dagger in Fig 2b),07a_figures_desc.R,figdesc
+figd_issuers_ffe,114,issuers,Issuers in the file on the federally facilitated exchange (exchange_type FFE; Fig 2 caption),07a_figures_desc.R,figdesc
+figd_issuers_spe,59,issuers,Issuers in the file on a state partnership exchange (exchange_type SPE),07a_figures_desc.R,figdesc
+figd_issuers_sbefp,12,issuers,Issuers in the file on a state-based exchange using the federal platform (exchange_type SBE-FP),07a_figures_desc.R,figdesc
+figd_n_labelled,4,issuers,Issuers labelled by name in Fig 2a,07a_figures_desc.R,figdesc
+figd_small_stratum_threshold,100,plans,Strata with fewer plans than this get the imprecision note in Table 2,07a_figures_desc.R,figdesc
+figm_curve_lower_percentile,5,percentile,Lower percentile of log2 density where the Fig 3 curves start (design_fig3_lower_quantile times 100),07b_figures_models.R,figmodels
+figm_curve_upper_percentile,95,percentile,Upper percentile of log2 density where the Fig 3 curves end (design_fig3_upper_quantile times 100),07b_figures_models.R,figmodels
+figm_derm_density_p05,1314.93506493507,"dermatology clinicians per 10,000 reported enrollees",Dermatology density at the start of the negative-control curve in Fig 3 (its own lower percentile),07b_figures_models.R,figmodels
+figm_derm_density_p95,490416.666666666,"dermatology clinicians per 10,000 reported enrollees",Dermatology density at the end of the negative-control curve in Fig 3 (its own upper percentile),07b_figures_models.R,figmodels
+figm_flat_line_lower,0.16610122831548,probability,Lowest constant probability that stays inside both Fig 3 bands over each curve's plotted range (largest lower band limit of the two curves),07b_figures_models.R,figmodels
+figm_flat_line_upper,0.179119092908033,probability,Highest constant probability that stays inside both Fig 3 bands over each curve's plotted range (smallest upper band limit of the two curves),07b_figures_models.R,figmodels
+figm_bin1_claims,149382352,claim lines,In-network claim lines received by the analytic plans in bin 1 (lowest density) of Fig 3,07b_figures_models.R,figmodels
+figm_bin1_claims_share,0.56205319910429,proportion,Share of the analytic in-network claim lines that fall in bin 1 of Fig 3 (bin 1 claim lines over the sum over the 8 bins),07b_figures_models.R,figmodels
+figm_cohort_plans_not_computable,32,plans,"Plans with plan-level counts reported but no computable in-network denial proportion (received suppressed, denied suppressed or received zero; sum of three cohort_all_ keys)",07b_figures_models.R,figmodels
+figm_cohort_share_of_issuer_claims,0.763092017114991,proportion,Share of the issuer-level in-network claim lines (att_claims_received_in_network) that the cohort plans hold at plan level (cohort_flow_cohort_claims),07b_figures_models.R,figmodels
+figm_lost_share_of_exposure_claims,0.0209713751978291,proportion,Share of the in-network claim lines of plans with exposure available that sit in the plans lost to the complete-case rule (the plans added back in the bounded-enrollment rows),07b_figures_models.R,figmodels
+figm_ophth_positive_plans,1676,plans,Analytic plans with a positive ophthalmology clinician count (analytic plans minus plans with a zero count); the basis of the ophthalmology raw Spearman correlation,07b_figures_models.R,figmodels
+figm_incomplete_issuer_not_run_individual,15,provider files,"Provider-file shards of the incomplete-directory insurer (BCBS Florida) not run, classed by file name as individual-clinician files (harvest_manifest content_class)",07b_figures_models.R,figmodels
+figm_incomplete_issuer_not_run_facility_group,29,provider files,"Provider-file shards of the incomplete-directory insurer (BCBS Florida) not run, classed by file name as facility or group files (harvest_manifest content_class)",07b_figures_models.R,figmodels
+figm_incomplete_issuer_files_total,52,provider files,Provider-file shards listed for the incomplete-directory insurer (BCBS Florida); ortho_files_not_run of them were not retrieved and the rest were harvested,07b_figures_models.R,figmodels
+figm_g3_derm_n,50,NPIs,Dermatology-text NPIs sampled and found active,07b_figures_models.R,figmodels
+figm_g3_derm_x,46,NPIs,Dermatology-text NPIs holding a 207N code,07b_figures_models.R,figmodels
+figm_g3_ophth_n,50,NPIs,Ophthalmology-text NPIs sampled and found active,07b_figures_models.R,figmodels
+figm_g3_ophth_x,49,NPIs,Ophthalmology-text NPIs holding a 207W code,07b_figures_models.R,figmodels
+figm_g3_random_unflagged_n,400,NPIs,Randomly drawn unflagged NPIs sampled (stratum C1 of qa/g3_npi_match.md; C1 plus C2 equals ortho_g3_unflagged_sampled),07b_figures_models.R,figmodels
+figm_g3_ambiguous_unflagged_n,100,NPIs,Unflagged NPIs with an ambiguous term sampled (stratum C2 of qa/g3_npi_match.md),07b_figures_models.R,figmodels
+kff_claims_received_total,495645965,claim lines,"Claims received, in plus out-of-network, issuers with more than 1,000 in-network claims, 2024 (KFF replication; suppressed counted as zero)",02_parse_cms.R,kff
+kff_claims_received_in_network,451249490,claim lines,"In-network claims received, issuers with more than 1,000 in-network claims (KFF replication)",02_parse_cms.R,kff
+kff_claims_received_out_of_network,44396475,claim lines,"Out-of-network claims received, same issuers (KFF replication)",02_parse_cms.R,kff
+kff_claims_denied_in_network,84502662,claim lines,"In-network claims denied, same issuers (KFF replication)",02_parse_cms.R,kff
+kff_claims_denied_out_of_network,16471467,claim lines,"Out-of-network claims denied, same issuers (KFF replication)",02_parse_cms.R,kff
+kff_in_network_share_of_claims,0.910427042415245,proportion,In-network share of all claims received (KFF replication),02_parse_cms.R,kff
+kff_denial_rate_in_network,0.187263728541832,proportion,Claims-weighted in-network denial rate (KFF replication),02_parse_cms.R,kff
+kff_denial_rate_out_of_network,0.371008441548569,proportion,Claims-weighted out-of-network denial rate (KFF replication),02_parse_cms.R,kff
+kff_denial_rate_combined,0.203722285926407,proportion,Claims-weighted combined denial rate (KFF replication),02_parse_cms.R,kff
+kff_issuer_in_network_rate_min,0.0269535720592924,proportion,"Lowest issuer in-network denial rate among issuers with more than 1,000 in-network claims",02_parse_cms.R,kff
+kff_issuer_in_network_rate_max,0.356521739130435,proportion,"Highest issuer in-network denial rate among issuers with more than 1,000 in-network claims",02_parse_cms.R,kff
+kff_issuers_over_1000_in_network_claims,157,issuers,"Issuers with more than 1,000 in-network claims received (KFF restriction); identical to the 157 issuers in KFF's working file",02_parse_cms.R,kff
+kff_issuers_in_puf,185,issuers,Issuer IDs in the Individual QHP tab,02_parse_cms.R,kff
+kff_issuers_offering_2026,183,issuers,Issuer IDs present in both the 2026 Machine-readable URL PUF and the Network PUF (KFF: 183 offering plans in 2026),02_parse_cms.R,kff
+kff_internal_appeals_filed,262982,appeal requests,"Internal appeals filed, issuers with more than 1,000 in-network claims (KFF: at least 262,982)",02_parse_cms.R,kff
+kff_internal_appeals_filed_unrestricted,263021,appeal requests,"Internal appeals filed, all 185 issuers, suppressed counted as zero",02_parse_cms.R,kff
+kff_internal_appeals_share_of_denied,0.00311211497692227,proportion,Internal appeals filed over in-network claims denied (KFF: less than 1%),02_parse_cms.R,kff
+kff_internal_upheld_share_reported_percent,0.660772461513493,proportion,Share of internal appeals upheld on issuers that report a percent overturned (CMS percent column),02_parse_cms.R,kff
+kff_internal_appeals_reported_percent_issuers,131,issuers,Issuers (of the KFF set) with a reported percent of internal appeals overturned,02_parse_cms.R,kff
+kff_internal_appeals_filed_reported_percent_issuers,252621,appeal requests,Internal appeals filed by issuers that report a percent overturned,02_parse_cms.R,kff
+kff_internal_upheld_share_all_appeals,0.673715311314082,proportion,"Filed minus overturned over filed, KFF issuers, suppressed overturned counted as zero",02_parse_cms.R,kff
+kff_external_appeals_filed,5881,appeal requests,"External appeals filed, issuers with more than 1,000 in-network claims (KFF: at least 5,881)",02_parse_cms.R,kff
+kff_external_share_of_upheld_internal,0.040532903261379,proportion,"External appeals over upheld internal appeals, issuers with at least 10 external appeals (KFF: 4%)",02_parse_cms.R,kff
+kff_plan_level_in_network_denied,65578278,claim lines,"Plan-level in-network claims denied, all plan rows (KFF: about 66 million)",02_parse_cms.R,kff
+kff_plan_level_in_network_received,344346696,claim lines,"Plan-level in-network claims received, all plan rows",02_parse_cms.R,kff
+kff_denial_reason_tallies_nine,78605749,reason tallies,"Sum of the nine denial reason tallies excluding out-of-network provider, all plan rows (KFF: about 79 million)",02_parse_cms.R,kff
+kff_denial_reason_tallies_ten,87173324,reason tallies,"Sum of all ten denial reason tallies, all plan rows",02_parse_cms.R,kff
+kff_plan_rows_individual_qhp,4159,plans,Plan rows in the Individual QHP tab,02_parse_cms.R,kff
+kff_plan_rows_with_plan_level_data,2559,plans,Plan rows whose plan-level in-network claims are not N/A,02_parse_cms.R,kff
+kff_plan_level_share_of_plans,0.615292137533061,proportion,Plan rows with plan-level data over all plan rows (KFF: 62%),02_parse_cms.R,kff
+kff_states_individual_qhp,30,states,States in the Individual QHP tab,02_parse_cms.R,kff
+kff_g2_rows_reproduce,41,rows,G2 table rows that reproduce within rounding or exactly,02_parse_cms.R,kff
+kff_g2_rows_differs_explained,5,rows,G2 table rows that differ with a verified explanation,02_parse_cms.R,kff
+kff_g2_rows_differs_unexplained,1,rows,G2 table rows that differ with no verified explanation,02_parse_cms.R,kff
+kff_g2_rows_not_testable,1,rows,G2 table rows not testable from the PUF,02_parse_cms.R,kff
+kff_denial_rate_in_network_bronze,0.190307213231782,proportion,"Plan-level in-network denial rate, Bronze plans, KFF issuers (replication)",02_parse_cms.R,kff
+kff_denial_rate_in_network_silver,0.195335310538623,proportion,"Plan-level in-network denial rate, Silver plans, KFF issuers (replication)",02_parse_cms.R,kff
+kff_denial_rate_in_network_gold,0.172781922666671,proportion,"Plan-level in-network denial rate, Gold plans, KFF issuers (replication)",02_parse_cms.R,kff
+kff_denial_rate_in_network_platinum,0.177855250300345,proportion,"Plan-level in-network denial rate, Platinum plans, KFF issuers (replication)",02_parse_cms.R,kff
+kff_denial_rate_in_network_catastrophic,0.218271397093412,proportion,"Plan-level in-network denial rate, Catastrophic plans, KFF issuers (replication)",02_parse_cms.R,kff
+att_claims_received_in_network,451249792,claim lines,"2024 national total, sum of reported issuer-level cells over all 185 issuers (claims received in network); suppressed cells contribute nothing, so a lower bound",02_parse_cms.R,kff
+att_claims_received_in_network_issuers_reported,159,issuers,Issuers with a numeric value for claims received in network,02_parse_cms.R,kff
+att_claims_received_in_network_issuers_suppressed,0,issuers,Issuers with a suppressed (**) value for claims received in network,02_parse_cms.R,kff
+att_claims_received_out_of_network,44397058,claim lines,"2024 national total, sum of reported issuer-level cells over all 185 issuers (claims received out of network); suppressed cells contribute nothing, so a lower bound",02_parse_cms.R,kff
+att_claims_received_out_of_network_issuers_reported,159,issuers,Issuers with a numeric value for claims received out of network,02_parse_cms.R,kff
+att_claims_received_out_of_network_issuers_suppressed,0,issuers,Issuers with a suppressed (**) value for claims received out of network,02_parse_cms.R,kff
+att_claims_denied_in_network,84502749,claim lines,"2024 national total, sum of reported issuer-level cells over all 185 issuers (claims denied in network); suppressed cells contribute nothing, so a lower bound",02_parse_cms.R,kff
+att_claims_denied_in_network_issuers_reported,158,issuers,Issuers with a numeric value for claims denied in network,02_parse_cms.R,kff
+att_claims_denied_in_network_issuers_suppressed,1,issuers,Issuers with a suppressed (**) value for claims denied in network,02_parse_cms.R,kff
+att_claims_denied_out_of_network,16471653,claim lines,"2024 national total, sum of reported issuer-level cells over all 185 issuers (claims denied out of network); suppressed cells contribute nothing, so a lower bound",02_parse_cms.R,kff
+att_claims_denied_out_of_network_issuers_reported,159,issuers,Issuers with a numeric value for claims denied out of network,02_parse_cms.R,kff
+att_claims_denied_out_of_network_issuers_suppressed,0,issuers,Issuers with a suppressed (**) value for claims denied out of network,02_parse_cms.R,kff
+att_claims_resubmitted_in_network,32111793,claim lines,"2024 national total, sum of reported issuer-level cells over all 185 issuers (claims resubmitted in network); suppressed cells contribute nothing, so a lower bound",02_parse_cms.R,kff
+att_claims_resubmitted_in_network_issuers_reported,158,issuers,Issuers with a numeric value for claims resubmitted in network,02_parse_cms.R,kff
+att_claims_resubmitted_in_network_issuers_suppressed,1,issuers,Issuers with a suppressed (**) value for claims resubmitted in network,02_parse_cms.R,kff
+att_claims_resubmitted_out_of_network,2976243,claim lines,"2024 national total, sum of reported issuer-level cells over all 185 issuers (claims resubmitted out of network); suppressed cells contribute nothing, so a lower bound",02_parse_cms.R,kff
+att_claims_resubmitted_out_of_network_issuers_reported,155,issuers,Issuers with a numeric value for claims resubmitted out of network,02_parse_cms.R,kff
+att_claims_resubmitted_out_of_network_issuers_suppressed,4,issuers,Issuers with a suppressed (**) value for claims resubmitted out of network,02_parse_cms.R,kff
+att_internal_appeals_filed,263021,appeal requests,"2024 national total, sum of reported issuer-level cells over all 185 issuers (internal appeals filed); suppressed cells contribute nothing, so a lower bound",02_parse_cms.R,kff
+att_internal_appeals_filed_issuers_reported,148,issuers,Issuers with a numeric value for internal appeals filed,02_parse_cms.R,kff
+att_internal_appeals_filed_issuers_suppressed,11,issuers,Issuers with a suppressed (**) value for internal appeals filed,02_parse_cms.R,kff
+att_internal_appeals_overturned,85807,appeal requests,"2024 national total, sum of reported issuer-level cells over all 185 issuers (internal appeals overturned); suppressed cells contribute nothing, so a lower bound",02_parse_cms.R,kff
+att_internal_appeals_overturned_issuers_reported,138,issuers,Issuers with a numeric value for internal appeals overturned,02_parse_cms.R,kff
+att_internal_appeals_overturned_issuers_suppressed,21,issuers,Issuers with a suppressed (**) value for internal appeals overturned,02_parse_cms.R,kff
+att_external_appeals_filed,5881,appeal requests,"2024 national total, sum of reported issuer-level cells over all 185 issuers (external appeals filed); suppressed cells contribute nothing, so a lower bound",02_parse_cms.R,kff
+att_external_appeals_filed_issuers_reported,100,issuers,Issuers with a numeric value for external appeals filed,02_parse_cms.R,kff
+att_external_appeals_filed_issuers_suppressed,59,issuers,Issuers with a suppressed (**) value for external appeals filed,02_parse_cms.R,kff
+att_external_appeals_overturned,1929,appeal requests,"2024 national total, sum of reported issuer-level cells over all 185 issuers (external appeals overturned); suppressed cells contribute nothing, so a lower bound",02_parse_cms.R,kff
+att_external_appeals_overturned_issuers_reported,108,issuers,Issuers with a numeric value for external appeals overturned,02_parse_cms.R,kff
+att_external_appeals_overturned_issuers_suppressed,51,issuers,Issuers with a suppressed (**) value for external appeals overturned,02_parse_cms.R,kff
+att_issuers_in_puf,185,issuers,Issuer IDs in the Individual QHP tab (denominator for the issuers_reported counts),02_parse_cms.R,kff
+att_issuers_na_issuer_level,26,issuers,Issuers whose issuer-level claims are N/A (new to the Exchange); they contribute nothing to the att_ totals,02_parse_cms.R,kff
+model_primary_or,0.955782152031948,odds ratio per doubling,"Primary model odds ratio per doubling of orthopaedic surgeon density (log2), 95% z interval",06_models.R,models
+model_primary_lo,0.847928603497362,odds ratio,Primary model 95% CI lower limit (z),06_models.R,models
+model_primary_hi,1.07735429418812,odds ratio,Primary model 95% CI upper limit (z),06_models.R,models
+model_primary_p,0.459112265309268,P value,"Primary model two-sided Wald z P value, clustered HC1 covariance",06_models.R,models
+model_primary_logodds,-0.0452252663416305,log odds,Primary model coefficient of log2 density,06_models.R,models
+model_primary_se,0.0610896808954243,log odds,"Primary model cluster-robust (HC1, issuer) standard error",06_models.R,models
+model_primary_n_plans,1681,plans,Plans in the primary model,06_models.R,models
+model_primary_n_issuers,135,issuers,Issuers in the primary model,06_models.R,models
+model_primary_n_clusters,135,clusters,Clusters (issuers) in the primary model,06_models.R,models
+model_primary_converged,1,indicator,1 if the primary glm converged with an unaliased exposure coefficient,06_models.R,models
+model_primary_excludes_one,0,indicator,1 if the primary 95% CI excludes 1,06_models.R,models
+model_primary_model,issuer_fe,text,Model type used for the primary estimate (issuer_fe unless a SAP 7.5 fallback was needed),06_models.R,models
+model_primary_k,33,issuers,Informative issuers (recomputed in WP6b; equals design_informative_issuer_k),06_models.R,models
+model_primary_rel_change,-0.0442178479680517,proportion,Relative change in the odds of denial per doubling of density (OR minus 1),06_models.R,models
+sens_a_or,0.969440807016539,odds ratio per doubling,Density without adjustment for plan size: odds ratio per doubling,06_models.R,models
+sens_a_lo,0.926092062774901,odds ratio,Density without adjustment for plan size: 95% CI lower limit,06_models.R,models
+sens_a_hi,1.01481862990258,odds ratio,Density without adjustment for plan size: 95% CI upper limit,06_models.R,models
+sens_a_p,0.183609766948759,P value,Density without adjustment for plan size: two-sided P value,06_models.R,models
+sens_a_n_plans,1681,plans,Density without adjustment for plan size: plans,06_models.R,models
+sens_a_n_issuers,135,issuers,Density without adjustment for plan size: issuers,06_models.R,models
+sens_a_converged,1,indicator,Density without adjustment for plan size: 1 if converged,06_models.R,models
+sens_b_or,0.964450107759432,odds ratio per doubling,State fixed effects instead of issuer fixed effects: odds ratio per doubling,06_models.R,models
+sens_b_lo,0.92104336344404,odds ratio,State fixed effects instead of issuer fixed effects: 95% CI lower limit,06_models.R,models
+sens_b_hi,1.00990251629308,odds ratio,State fixed effects instead of issuer fixed effects: 95% CI upper limit,06_models.R,models
+sens_b_p,0.123419371155901,P value,State fixed effects instead of issuer fixed effects: two-sided P value,06_models.R,models
+sens_b_n_plans,1681,plans,State fixed effects instead of issuer fixed effects: plans,06_models.R,models
+sens_b_n_issuers,135,issuers,State fixed effects instead of issuer fixed effects: issuers,06_models.R,models
+sens_b_converged,1,indicator,State fixed effects instead of issuer fixed effects: 1 if converged,06_models.R,models
+sens_c_or,0.967561920558914,odds ratio per doubling,"Mixed model: odds ratio per doubling; the first attempt (Laplace, nAGQ 1) ended with a convergence message (Model failed to converge with max|grad| = 0.00320746 (tol = 0.002, component 1)) and gave OR 0.9675 (0.941 to 0.995); the reported fit is attempt pirls_nagq0_bobyqa (nAGQ 0, bobyqa) per SAP 8.1, clean, not singular; standard errors are model-based, not clustered; the model also uses between-issuer contrasts; it is outside the Holm family",06_models.R,models
+sens_c_lo,0.941045816530349,odds ratio,"Mixed model: 95% CI lower limit; the first attempt (Laplace, nAGQ 1) ended with a convergence message (Model failed to converge with max|grad| = 0.00320746 (tol = 0.002, component 1)) and gave OR 0.9675 (0.941 to 0.995); the reported fit is attempt pirls_nagq0_bobyqa (nAGQ 0, bobyqa) per SAP 8.1, clean, not singular; standard errors are model-based, not clustered; the model also uses between-issuer contrasts; it is outside the Holm family",06_models.R,models
+sens_c_hi,0.994825176065656,odds ratio,"Mixed model: 95% CI upper limit; the first attempt (Laplace, nAGQ 1) ended with a convergence message (Model failed to converge with max|grad| = 0.00320746 (tol = 0.002, component 1)) and gave OR 0.9675 (0.941 to 0.995); the reported fit is attempt pirls_nagq0_bobyqa (nAGQ 0, bobyqa) per SAP 8.1, clean, not singular; standard errors are model-based, not clustered; the model also uses between-issuer contrasts; it is outside the Holm family",06_models.R,models
+sens_c_p,0.0200232714350232,P value,"Mixed model: two-sided P value; the first attempt (Laplace, nAGQ 1) ended with a convergence message (Model failed to converge with max|grad| = 0.00320746 (tol = 0.002, component 1)) and gave OR 0.9675 (0.941 to 0.995); the reported fit is attempt pirls_nagq0_bobyqa (nAGQ 0, bobyqa) per SAP 8.1, clean, not singular; standard errors are model-based, not clustered; the model also uses between-issuer contrasts; it is outside the Holm family",06_models.R,models
+sens_c_n_plans,1681,plans,Mixed model: plans,06_models.R,models
+sens_c_n_issuers,135,issuers,Mixed model: issuers,06_models.R,models
+sens_c_converged,1,indicator,Mixed model: 1 if converged,06_models.R,models
+sens_d_or,0.900999635801698,odds ratio per doubling,Issuer with the largest share of identifying variation left out: odds ratio per doubling,06_models.R,models
+sens_d_lo,0.661404977343372,odds ratio,Issuer with the largest share of identifying variation left out: 95% CI lower limit,06_models.R,models
+sens_d_hi,1.22738771482414,odds ratio,Issuer with the largest share of identifying variation left out: 95% CI upper limit,06_models.R,models
+sens_d_p,0.508640292758112,P value,Issuer with the largest share of identifying variation left out: two-sided P value,06_models.R,models
+sens_d_n_plans,1669,plans,Issuer with the largest share of identifying variation left out: plans,06_models.R,models
+sens_d_n_issuers,134,issuers,Issuer with the largest share of identifying variation left out: issuers,06_models.R,models
+sens_d_converged,1,indicator,Issuer with the largest share of identifying variation left out: 1 if converged,06_models.R,models
+sens_e_or,0.84191518362673,odds ratio per doubling,"Surgeon share of listed clinicians, all exposure-ok plans: odds ratio per doubling",06_models.R,models
+sens_e_lo,0.577235312697052,odds ratio,"Surgeon share of listed clinicians, all exposure-ok plans: 95% CI lower limit",06_models.R,models
+sens_e_hi,1.22795879051363,odds ratio,"Surgeon share of listed clinicians, all exposure-ok plans: 95% CI upper limit",06_models.R,models
+sens_e_p,0.371547336602942,P value,"Surgeon share of listed clinicians, all exposure-ok plans: two-sided P value",06_models.R,models
+sens_e_n_plans,2175,plans,"Surgeon share of listed clinicians, all exposure-ok plans: plans",06_models.R,models
+sens_e_n_issuers,136,issuers,"Surgeon share of listed clinicians, all exposure-ok plans: issuers",06_models.R,models
+sens_e_converged,1,indicator,"Surgeon share of listed clinicians, all exposure-ok plans: 1 if converged",06_models.R,models
+sens_f_or,0.959300998256572,odds ratio per doubling,APC-inclusive density: odds ratio per doubling,06_models.R,models
+sens_f_lo,0.853827700248267,odds ratio,APC-inclusive density: 95% CI lower limit,06_models.R,models
+sens_f_hi,1.077803408098,odds ratio,APC-inclusive density: 95% CI upper limit,06_models.R,models
+sens_f_p,0.484439877957798,P value,APC-inclusive density: two-sided P value,06_models.R,models
+sens_f_n_plans,1681,plans,APC-inclusive density: plans,06_models.R,models
+sens_f_n_issuers,135,issuers,APC-inclusive density: issuers,06_models.R,models
+sens_f_converged,1,indicator,APC-inclusive density: 1 if converged,06_models.R,models
+sens_g_or,0.977044023953846,odds ratio per doubling,Negative control: dermatology density: odds ratio per doubling,06_models.R,models
+sens_g_lo,0.853512067664589,odds ratio,Negative control: dermatology density: 95% CI lower limit,06_models.R,models
+sens_g_hi,1.11845521687347,odds ratio,Negative control: dermatology density: 95% CI upper limit,06_models.R,models
+sens_g_p,0.736315546925143,P value,Negative control: dermatology density: two-sided P value,06_models.R,models
+sens_g_n_plans,1681,plans,Negative control: dermatology density: plans,06_models.R,models
+sens_g_n_issuers,135,issuers,Negative control: dermatology density: issuers,06_models.R,models
+sens_g_converged,1,indicator,Negative control: dermatology density: 1 if converged,06_models.R,models
+sens_h_or,0.999385607333893,odds ratio per doubling,Negative control: ophthalmology density: odds ratio per doubling,06_models.R,models
+sens_h_lo,0.874463908105183,odds ratio,Negative control: ophthalmology density: 95% CI lower limit,06_models.R,models
+sens_h_hi,1.14215301842509,odds ratio,Negative control: ophthalmology density: 95% CI upper limit,06_models.R,models
+sens_h_p,0.992802462438747,P value,Negative control: ophthalmology density: two-sided P value,06_models.R,models
+sens_h_n_plans,1681,plans,Negative control: ophthalmology density: plans,06_models.R,models
+sens_h_n_issuers,135,issuers,Negative control: ophthalmology density: issuers,06_models.R,models
+sens_h_converged,1,indicator,Negative control: ophthalmology density: 1 if converged,06_models.R,models
+sens_i_or,0.955782195293406,odds ratio per doubling,Suppressed outcome counts set to 0: odds ratio per doubling,06_models.R,models
+sens_i_lo,0.847942449126606,odds ratio,Suppressed outcome counts set to 0: 95% CI lower limit,06_models.R,models
+sens_i_hi,1.07733680013405,odds ratio,Suppressed outcome counts set to 0: 95% CI upper limit,06_models.R,models
+sens_i_p,0.459051632521522,P value,Suppressed outcome counts set to 0: two-sided P value,06_models.R,models
+sens_i_n_plans,1686,plans,Suppressed outcome counts set to 0: plans,06_models.R,models
+sens_i_n_issuers,135,issuers,Suppressed outcome counts set to 0: issuers,06_models.R,models
+sens_i_converged,1,indicator,Suppressed outcome counts set to 0: 1 if converged,06_models.R,models
+sens_i_n_added,5,plans,Suppressed outcome counts set to 0: plans added back to the analytic sample (1 qualifying plan with received suppressed cannot be added at bound 0: the denominator would be 0),06_models.R,models
+sens_j_or,0.95578197811338,odds ratio per doubling,Suppressed outcome counts set to 10: odds ratio per doubling,06_models.R,models
+sens_j_lo,0.847944968440908,odds ratio,Suppressed outcome counts set to 10: 95% CI lower limit,06_models.R,models
+sens_j_hi,1.07733310967808,odds ratio,Suppressed outcome counts set to 10: 95% CI upper limit,06_models.R,models
+sens_j_p,0.45903737696752,P value,Suppressed outcome counts set to 10: two-sided P value,06_models.R,models
+sens_j_n_plans,1687,plans,Suppressed outcome counts set to 10: plans,06_models.R,models
+sens_j_n_issuers,135,issuers,Suppressed outcome counts set to 10: issuers,06_models.R,models
+sens_j_converged,1,indicator,Suppressed outcome counts set to 10: 1 if converged,06_models.R,models
+sens_j_n_added,6,plans,Suppressed outcome counts set to 10: plans added back to the analytic sample,06_models.R,models
+sens_k_or,0.953907468559183,odds ratio per doubling,Suppressed enrollment set to 1: odds ratio per doubling,06_models.R,models
+sens_k_lo,0.844617078495327,odds ratio,Suppressed enrollment set to 1: 95% CI lower limit,06_models.R,models
+sens_k_hi,1.07733963915818,odds ratio,Suppressed enrollment set to 1: 95% CI upper limit,06_models.R,models
+sens_k_p,0.447212089725468,P value,Suppressed enrollment set to 1: two-sided P value,06_models.R,models
+sens_k_n_plans,2175,plans,Suppressed enrollment set to 1: plans,06_models.R,models
+sens_k_n_issuers,136,issuers,Suppressed enrollment set to 1: issuers,06_models.R,models
+sens_k_converged,1,indicator,Suppressed enrollment set to 1: 1 if converged,06_models.R,models
+sens_k_n_added,494,plans,Suppressed enrollment set to 1: plans added back to the analytic sample,06_models.R,models
+sens_l_or,0.955095085028335,odds ratio per doubling,Suppressed enrollment set to 10: odds ratio per doubling,06_models.R,models
+sens_l_lo,0.847528853949428,odds ratio,Suppressed enrollment set to 10: 95% CI lower limit,06_models.R,models
+sens_l_hi,1.07631335168645,odds ratio,Suppressed enrollment set to 10: 95% CI upper limit,06_models.R,models
+sens_l_p,0.451065998082106,P value,Suppressed enrollment set to 10: two-sided P value,06_models.R,models
+sens_l_n_plans,2175,plans,Suppressed enrollment set to 10: plans,06_models.R,models
+sens_l_n_issuers,136,issuers,Suppressed enrollment set to 10: issuers,06_models.R,models
+sens_l_converged,1,indicator,Suppressed enrollment set to 10: 1 if converged,06_models.R,models
+sens_l_n_added,494,plans,Suppressed enrollment set to 10: plans added back to the analytic sample,06_models.R,models
+sens_m_or,1.00095510784969,odds ratio per doubling,Issuer-level analysis: odds ratio per doubling,06_models.R,models
+sens_m_lo,0.979742553930554,odds ratio,Issuer-level analysis: 95% CI lower limit,06_models.R,models
+sens_m_hi,1.02262693797559,odds ratio,Issuer-level analysis: 95% CI upper limit,06_models.R,models
+sens_m_p,0.930391887379658,P value,Issuer-level analysis: two-sided P value,06_models.R,models
+sens_m_n_plans,1681,plans,Issuer-level analysis: plans,06_models.R,models
+sens_m_n_issuers,135,issuers,Issuer-level analysis: issuers,06_models.R,models
+sens_m_converged,1,indicator,Issuer-level analysis: 1 if converged,06_models.R,models
+sens_n_or,0.955782075840048,odds ratio per doubling,Suppressed outcome counts set to 5.5: odds ratio per doubling,06_models.R,models
+sens_n_lo,0.847945071814418,odds ratio,Suppressed outcome counts set to 5.5: 95% CI lower limit,06_models.R,models
+sens_n_hi,1.07733319864974,odds ratio,Suppressed outcome counts set to 5.5: 95% CI upper limit,06_models.R,models
+sens_n_p,0.459038318624459,P value,Suppressed outcome counts set to 5.5: two-sided P value,06_models.R,models
+sens_n_n_plans,1687,plans,Suppressed outcome counts set to 5.5: plans,06_models.R,models
+sens_n_n_issuers,135,issuers,Suppressed outcome counts set to 5.5: issuers,06_models.R,models
+sens_n_converged,1,indicator,Suppressed outcome counts set to 5.5: 1 if converged,06_models.R,models
+sens_n_n_added,6,plans,Suppressed outcome counts set to 5.5: plans added back to the analytic sample,06_models.R,models
+sens_o_or,0.954837242319331,odds ratio per doubling,Suppressed enrollment set to 5.5: odds ratio per doubling,06_models.R,models
+sens_o_lo,0.846900928129571,odds ratio,Suppressed enrollment set to 5.5: 95% CI lower limit,06_models.R,models
+sens_o_hi,1.07652988565446,odds ratio,Suppressed enrollment set to 5.5: 95% CI upper limit,06_models.R,models
+sens_o_p,0.450194714078686,P value,Suppressed enrollment set to 5.5: two-sided P value,06_models.R,models
+sens_o_n_plans,2175,plans,Suppressed enrollment set to 5.5: plans,06_models.R,models
+sens_o_n_issuers,136,issuers,Suppressed enrollment set to 5.5: issuers,06_models.R,models
+sens_o_converged,1,indicator,Suppressed enrollment set to 5.5: 1 if converged,06_models.R,models
+sens_o_n_added,494,plans,Suppressed enrollment set to 5.5: plans added back to the analytic sample,06_models.R,models
+sens_p_or,0.95578189467555,odds ratio per doubling,"Issuers with fewer than 10,000 in-network claim lines excluded: odds ratio per doubling",06_models.R,models
+sens_p_lo,0.848057121699173,odds ratio,"Issuers with fewer than 10,000 in-network claim lines excluded: 95% CI lower limit",06_models.R,models
+sens_p_hi,1.07719044721805,odds ratio,"Issuers with fewer than 10,000 in-network claim lines excluded: 95% CI upper limit",06_models.R,models
+sens_p_p,0.458539594530042,P value,"Issuers with fewer than 10,000 in-network claim lines excluded: two-sided P value",06_models.R,models
+sens_p_n_plans,1673,plans,"Issuers with fewer than 10,000 in-network claim lines excluded: plans",06_models.R,models
+sens_p_n_issuers,130,issuers,"Issuers with fewer than 10,000 in-network claim lines excluded: issuers",06_models.R,models
+sens_p_converged,1,indicator,"Issuers with fewer than 10,000 in-network claim lines excluded: 1 if converged",06_models.R,models
+sens_q_or,0.95414939367061,odds ratio per doubling,Catastrophic plans excluded: odds ratio per doubling,06_models.R,models
+sens_q_lo,0.845941210107245,odds ratio,Catastrophic plans excluded: 95% CI lower limit,06_models.R,models
+sens_q_hi,1.07619897761758,odds ratio,Catastrophic plans excluded: 95% CI upper limit,06_models.R,models
+sens_q_p,0.444728754756833,P value,Catastrophic plans excluded: two-sided P value,06_models.R,models
+sens_q_n_plans,1667,plans,Catastrophic plans excluded: plans,06_models.R,models
+sens_q_n_issuers,135,issuers,Catastrophic plans excluded: issuers,06_models.R,models
+sens_q_converged,1,indicator,Catastrophic plans excluded: 1 if converged,06_models.R,models
+sens_r_or,1.00825204639743,odds ratio per doubling,Issuer with the most plans left out: odds ratio per doubling,06_models.R,models
+sens_r_lo,0.9235428543942,odds ratio,Issuer with the most plans left out: 95% CI lower limit,06_models.R,models
+sens_r_hi,1.10073093438791,odds ratio,Issuer with the most plans left out: 95% CI upper limit,06_models.R,models
+sens_r_p,0.854369317046538,P value,Issuer with the most plans left out: two-sided P value,06_models.R,models
+sens_r_n_plans,1301,plans,Issuer with the most plans left out: plans,06_models.R,models
+sens_r_n_issuers,134,issuers,Issuer with the most plans left out: issuers,06_models.R,models
+sens_r_converged,1,indicator,Issuer with the most plans left out: 1 if converged,06_models.R,models
+sens_s_or,0.955782152031948,odds ratio per doubling,"sens_s row, FULL-SAMPLE primary odds ratio per doubling repeated for table alignment, not a leave-out estimate and not to be cited; the leave-out range is in sens_s_or_min, sens_s_or_max (with their _lo, _hi and issuer keys), sens_s_n_leaveouts and sens_s_n_excl1",06_models.R,models
+sens_s_lo,0.847928603497362,odds ratio,"sens_s row, FULL-SAMPLE primary 95% CI lower limit repeated for table alignment, not a leave-out estimate and not to be cited; the leave-out range is in sens_s_or_min, sens_s_or_max (with their _lo, _hi and issuer keys), sens_s_n_leaveouts and sens_s_n_excl1",06_models.R,models
+sens_s_hi,1.07735429418812,odds ratio,"sens_s row, FULL-SAMPLE primary 95% CI upper limit repeated for table alignment, not a leave-out estimate and not to be cited; the leave-out range is in sens_s_or_min, sens_s_or_max (with their _lo, _hi and issuer keys), sens_s_n_leaveouts and sens_s_n_excl1",06_models.R,models
+sens_s_p,0.459112265309268,P value,"sens_s row, FULL-SAMPLE primary two-sided P value repeated for table alignment, not a leave-out estimate and not to be cited; the leave-out range is in sens_s_or_min, sens_s_or_max (with their _lo, _hi and issuer keys), sens_s_n_leaveouts and sens_s_n_excl1",06_models.R,models
+sens_s_n_plans,1681,plans,"sens_s row, FULL-SAMPLE primary plans repeated for table alignment, not a leave-out estimate and not to be cited; the leave-out range is in sens_s_or_min, sens_s_or_max (with their _lo, _hi and issuer keys), sens_s_n_leaveouts and sens_s_n_excl1",06_models.R,models
+sens_s_n_issuers,135,issuers,"sens_s row, FULL-SAMPLE primary issuers repeated for table alignment, not a leave-out estimate and not to be cited; the leave-out range is in sens_s_or_min, sens_s_or_max (with their _lo, _hi and issuer keys), sens_s_n_leaveouts and sens_s_n_excl1",06_models.R,models
+sens_s_converged,1,indicator,"sens_s row, FULL-SAMPLE primary 1 if converged repeated for table alignment, not a leave-out estimate and not to be cited; the leave-out range is in sens_s_or_min, sens_s_or_max (with their _lo, _hi and issuer keys), sens_s_n_leaveouts and sens_s_n_excl1",06_models.R,models
+sens_t_or,0.955782152031948,odds ratio per doubling,Conservative t interval: odds ratio per doubling,06_models.R,models
+sens_t_lo,0.843950973537685,odds ratio,Conservative t interval: 95% CI lower limit,06_models.R,models
+sens_t_hi,1.08243197861781,odds ratio,Conservative t interval: 95% CI upper limit,06_models.R,models
+sens_t_p,0.464509735511875,P value,Conservative t interval: two-sided P value,06_models.R,models
+sens_t_n_plans,1681,plans,Conservative t interval: plans,06_models.R,models
+sens_t_n_issuers,135,issuers,Conservative t interval: issuers,06_models.R,models
+sens_t_converged,1,indicator,Conservative t interval: 1 if converged,06_models.R,models
+sens_e_p_holm,0.743094673205885,P value,"Surgeon share of listed clinicians, all exposure-ok plans: Holm-adjusted P value (family of 2)",06_models.R,models
+sens_f_p_holm,0.743094673205885,P value,APC-inclusive density: Holm-adjusted P value (family of 2),06_models.R,models
+sens_m_n_clusters,30,clusters,Issuer-level analysis: state clusters,06_models.R,models
+sens_p_n_small_issuers,5,issuers,"Issuers left out in sens_p (fewer than 10,000 in-network claim lines)",06_models.R,models
+sens_p_n_small_plans,8,plans,Plans of the issuers left out in sens_p,06_models.R,models
+sens_t_z_lo,0.847928603497362,odds ratio,"Primary z interval lower limit, shown beside the t interval",06_models.R,models
+sens_t_z_hi,1.07735429418812,odds ratio,"Primary z interval upper limit, shown beside the t interval",06_models.R,models
+sens_t_df,32,degrees of freedom,Degrees of freedom of the conservative t interval,06_models.R,models
+sens_s_n_leaveouts,33,refits,Leave-one-issuer-out refits (informative issuers),06_models.R,models
+sens_s_n_converged,33,refits,Leave-out refits that converged,06_models.R,models
+sens_s_n_excl1,0,refits,Leave-outs whose 95% z interval excludes 1,06_models.R,models
+sens_s_or_min,0.900999635801698,odds ratio per doubling,Smallest leave-one-issuer-out odds ratio per doubling,06_models.R,models
+sens_s_or_min_lo,0.661404977343372,odds ratio,Interval lower limit of the leave-out with the smallest odds ratio,06_models.R,models
+sens_s_or_min_hi,1.22738771482414,odds ratio,Interval upper limit of the leave-out with the smallest odds ratio,06_models.R,models
+sens_s_issuer_min,46944,issuer id,Issuer whose removal gives the smallest odds ratio,06_models.R,models
+sens_s_state_min,AL,state,State of the issuer whose removal gives the smallest odds ratio,06_models.R,models
+sens_s_or_max,1.00825204639743,odds ratio per doubling,Largest leave-one-issuer-out odds ratio per doubling,06_models.R,models
+sens_s_or_max_lo,0.9235428543942,odds ratio,Interval lower limit of the leave-out with the largest odds ratio,06_models.R,models
+sens_s_or_max_hi,1.10073093438791,odds ratio,Interval upper limit of the leave-out with the largest odds ratio,06_models.R,models
+sens_s_issuer_max,33602,issuer id,Issuer whose removal gives the largest odds ratio,06_models.R,models
+sens_s_state_max,TX,state,State of the issuer whose removal gives the largest odds ratio,06_models.R,models
+sens_suppout_total_suppressed,21,plans,Outcome suppression (SAP 9.4): total suppressed,06_models.R,models
+sens_suppout_both_suppressed,2,plans,Outcome suppression (SAP 9.4): both suppressed,06_models.R,models
+sens_suppout_single_suppressed,19,plans,Outcome suppression (SAP 9.4): single suppressed,06_models.R,models
+sens_suppout_single_with_donor,16,plans,Outcome suppression (SAP 9.4): single with donor,06_models.R,models
+sens_suppout_single_with_numeric_enrollment,6,plans,Outcome suppression (SAP 9.4): single with numeric enrollment,06_models.R,models
+sens_suppout_single_with_donor_and_enrollment,6,plans,Outcome suppression (SAP 9.4): single with donor and enrollment,06_models.R,models
+sens_suppout_qualifying_plans,6,plans,Outcome suppression (SAP 9.4): plans that pass the donor and numeric-enrollment rules and enter at least one bound row,06_models.R,models
+sens_suppout_issuers_with_added_plans,2,issuers,Outcome suppression (SAP 9.4): issuers that contribute the qualifying plans,06_models.R,models
+sens_suppout_plans_largest_issuer,5,plans,Outcome suppression (SAP 9.4): qualifying plans from the issuer with the most of them (issuer 71287),06_models.R,models
+sens_suppout_largest_issuer_id,71287,issuer id,Outcome suppression (SAP 9.4): issuer contributing the most qualifying plans,06_models.R,models
+sens_suppout_denied_suppressed_plans,5,plans,Outcome suppression (SAP 9.4): qualifying plans with the denied count suppressed (added in every bound row),06_models.R,models
+sens_suppout_received_suppressed_plans,1,plans,"Outcome suppression (SAP 9.4): qualifying plans with the received count suppressed; at bound 0 the denominator would be 0, so they are not added in sens_i",06_models.R,models
+model_control_derm_ratio,0.513508697492358,ratio,Control log-odds divided by the orthopaedic log-odds (derm); not to be quoted; SAP 6.2 rule not applied because the primary CI includes 1; SAP 6.4 forbids a specificity statement,06_models.R,models
+model_control_derm_same_sign,1,indicator,1 if the derm control has the same sign as the orthopaedic estimate; not to be quoted; SAP 6.2 rule not applied because the primary CI includes 1; SAP 6.4 forbids a specificity statement,06_models.R,models
+model_control_derm_at_least_half,1,indicator,1 if the derm control is at least half as large (design_control_reading_ratio); not to be quoted; SAP 6.2 rule not applied because the primary CI includes 1; SAP 6.4 forbids a specificity statement,06_models.R,models
+model_control_derm_reading,rule not applied,text,SAP 6.2 reading of the derm control (applied only when the primary CI excludes 1),06_models.R,models
+model_control_ophth_ratio,0.0135893391534982,ratio,Control log-odds divided by the orthopaedic log-odds (ophth); not to be quoted; SAP 6.2 rule not applied because the primary CI includes 1; SAP 6.4 forbids a specificity statement,06_models.R,models
+model_control_ophth_same_sign,1,indicator,1 if the ophth control has the same sign as the orthopaedic estimate; not to be quoted; SAP 6.2 rule not applied because the primary CI includes 1; SAP 6.4 forbids a specificity statement,06_models.R,models
+model_control_ophth_at_least_half,0,indicator,1 if the ophth control is at least half as large (design_control_reading_ratio); not to be quoted; SAP 6.2 rule not applied because the primary CI includes 1; SAP 6.4 forbids a specificity statement,06_models.R,models
+model_control_ophth_reading,rule not applied,text,SAP 6.2 reading of the ophth control (applied only when the primary CI excludes 1),06_models.R,models
+model_glmm_or,0.967561920558914,odds ratio per doubling,"Mixed model odds ratio per doubling (Wald z); the first attempt (Laplace, nAGQ 1) ended with a convergence message (Model failed to converge with max|grad| = 0.00320746 (tol = 0.002, component 1)) and gave OR 0.9675 (0.941 to 0.995); the reported fit is attempt pirls_nagq0_bobyqa (nAGQ 0, bobyqa) per SAP 8.1, clean, not singular; standard errors are model-based, not clustered; the model also uses between-issuer contrasts; it is outside the Holm family",06_models.R,models
+model_glmm_lo,0.941045816530349,odds ratio,"Mixed model 95% CI lower limit; the first attempt (Laplace, nAGQ 1) ended with a convergence message (Model failed to converge with max|grad| = 0.00320746 (tol = 0.002, component 1)) and gave OR 0.9675 (0.941 to 0.995); the reported fit is attempt pirls_nagq0_bobyqa (nAGQ 0, bobyqa) per SAP 8.1, clean, not singular; standard errors are model-based, not clustered; the model also uses between-issuer contrasts; it is outside the Holm family",06_models.R,models
+model_glmm_hi,0.994825176065656,odds ratio,"Mixed model 95% CI upper limit; the first attempt (Laplace, nAGQ 1) ended with a convergence message (Model failed to converge with max|grad| = 0.00320746 (tol = 0.002, component 1)) and gave OR 0.9675 (0.941 to 0.995); the reported fit is attempt pirls_nagq0_bobyqa (nAGQ 0, bobyqa) per SAP 8.1, clean, not singular; standard errors are model-based, not clustered; the model also uses between-issuer contrasts; it is outside the Holm family",06_models.R,models
+model_glmm_p,0.0200232714350232,P value,"Mixed model two-sided Wald P value, model-based SE; the first attempt (Laplace, nAGQ 1) ended with a convergence message (Model failed to converge with max|grad| = 0.00320746 (tol = 0.002, component 1)) and gave OR 0.9675 (0.941 to 0.995); the reported fit is attempt pirls_nagq0_bobyqa (nAGQ 0, bobyqa) per SAP 8.1, clean, not singular; standard errors are model-based, not clustered; the model also uses between-issuer contrasts; it is outside the Holm family",06_models.R,models
+model_glmm_converged,1,indicator,"1 if the reported mixed model fit ended without a convergence message; the first attempt (Laplace, nAGQ 1) ended with a convergence message (Model failed to converge with max|grad| = 0.00320746 (tol = 0.002, component 1)) and gave OR 0.9675 (0.941 to 0.995); the reported fit is attempt pirls_nagq0_bobyqa (nAGQ 0, bobyqa) per SAP 8.1, clean, not singular; standard errors are model-based, not clustered; the model also uses between-issuer contrasts; it is outside the Holm family",06_models.R,models
+model_glmm_singular,0,indicator,1 if the mixed model fit is singular,06_models.R,models
+model_glmm_nagq,0,integer,nAGQ of the reported mixed model fit,06_models.R,models
+model_glmm_optimizer,bobyqa,text,Optimizer of the reported mixed model fit,06_models.R,models
+model_glmm_attempt,2,integer,Index of the attempt in the predeclared ladder that gave the reported fit,06_models.R,models
+model_glmm_opt_code,0,integer,Optimizer return code (0 = success),06_models.R,models
+model_glmm_var_state,0.130677405442557,variance,"Random-intercept variance, state",06_models.R,models
+model_glmm_var_issuer,0.143219763240156,variance,"Random-intercept variance, issuer within state",06_models.R,models
+model_glmm_var_plan,0.0903781124345139,variance,"Observation-level random-effect variance, plan",06_models.R,models
+model_glmm_n_plans,1681,plans,Plans in the mixed model,06_models.R,models
+model_glmm_laplace_or,0.967536291141551,odds ratio per doubling,"Mixed model, first attempt (Laplace, nAGQ 1), which ended with a convergence message: odds ratio per doubling",06_models.R,models
+model_glmm_laplace_lo,0.940819139688123,odds ratio,Mixed model first attempt: 95% CI lower limit,06_models.R,models
+model_glmm_laplace_hi,0.99501214971697,odds ratio,Mixed model first attempt: 95% CI upper limit,06_models.R,models
+model_glmm_laplace_clean,0,indicator,1 if the Laplace attempt ended without a convergence message,06_models.R,models
+model_pred_p05,0.19883538770772,probability,Predicted in-network denial probability (average marginal) at the p05 percentile of log2 density,06_models.R,models
+model_pred_p05_lo,0.125521724487925,probability,Lower 95% limit at the p05 percentile,06_models.R,models
+model_pred_p05_hi,0.272149050927515,probability,Upper 95% limit at the p05 percentile,06_models.R,models
+model_density_p05,2544.52926208651,"surgeons per 10,000 reported enrollees","Primary density at the p05 percentile, analytic sample",06_models.R,models
+model_pred_p25,0.181594744406788,probability,Predicted in-network denial probability (average marginal) at the p25 percentile of log2 density,06_models.R,models
+model_pred_p25_lo,0.156415251111693,probability,Lower 95% limit at the p25 percentile,06_models.R,models
+model_pred_p25_hi,0.206774237701884,probability,Upper 95% limit at the p25 percentile,06_models.R,models
+model_density_p25,14662.9213483146,"surgeons per 10,000 reported enrollees","Primary density at the p25 percentile, analytic sample",06_models.R,models
+model_pred_p50,0.170821055708176,probability,Predicted in-network denial probability (average marginal) at the p50 percentile of log2 density,06_models.R,models
+model_pred_p50_lo,0.16236431484157,probability,Lower 95% limit at the p50 percentile,06_models.R,models
+model_pred_p50_hi,0.179277796574783,probability,Upper 95% limit at the p50 percentile,06_models.R,models
+model_density_p50,46751.5923566879,"surgeons per 10,000 reported enrollees","Primary density at the p50 percentile, analytic sample",06_models.R,models
+model_pred_p75,0.160082752810907,probability,Predicted in-network denial probability (average marginal) at the p75 percentile of log2 density,06_models.R,models
+model_pred_p75_lo,0.127184036933182,probability,Lower 95% limit at the p75 percentile,06_models.R,models
+model_pred_p75_hi,0.192981468688631,probability,Upper 95% limit at the p75 percentile,06_models.R,models
+model_density_p75,157380.952380952,"surgeons per 10,000 reported enrollees","Primary density at the p75 percentile, analytic sample",06_models.R,models
+model_pred_p95,0.145947787004428,probability,Predicted in-network denial probability (average marginal) at the p95 percentile of log2 density,06_models.R,models
+model_pred_p95_lo,0.0797681577236521,probability,Lower 95% limit at the p95 percentile,06_models.R,models
+model_pred_p95_hi,0.212127416285204,probability,Upper 95% limit at the p95 percentile,06_models.R,models
+model_density_p95,862173.913043479,"surgeons per 10,000 reported enrollees","Primary density at the p95 percentile, analytic sample",06_models.R,models
+model_pred_diff_p95_p05,-0.0528876007032921,probability,Predicted probability at the 95th minus the 5th percentile of density (absolute difference),06_models.R,models
+model_pred_diff_p95_p05_lo,-0.191689733301047,probability,Lower 95% limit of that difference (delta method),06_models.R,models
+model_pred_diff_p95_p05_hi,0.0859145318944624,probability,Upper 95% limit of that difference (delta method),06_models.R,models
+model_fig3_bins,8,bins,Equal-count bins of log2 density in Fig 3,06_models.R,models
+model_fig3_bin_size,210,plans,Plans in each of the first bins of Fig 3,06_models.R,models
+model_fig3_bin_last,211,plans,Plans in the last bin of Fig 3 (receives the remainder),06_models.R,models
+model_fig3_grid_points,101,points,Grid points of each Fig 3 curve,06_models.R,models
+cohort_flow_cohort_plans,2527,plans,Cohort: plans with a computable in-network denial proportion: plans,06_models.R,models
+cohort_flow_cohort_issuers,149,issuers,Cohort: plans with a computable in-network denial proportion: issuers,06_models.R,models
+cohort_flow_cohort_states,30,states,Cohort: plans with a computable in-network denial proportion: states,06_models.R,models
+cohort_flow_cohort_claims,344345114,claim lines,Cohort: plans with a computable in-network denial proportion: in-network claim lines received,06_models.R,models
+cohort_flow_cohort_claims_share,1,proportion,Cohort: plans with a computable in-network denial proportion: share of the cohort's in-network claim lines received,06_models.R,models
+cohort_flow_cohort_plans_share,1,proportion,Cohort: plans with a computable in-network denial proportion: share of the cohort's plans,06_models.R,models
+cohort_flow_cohort_denial,0.190443468874078,proportion,Cohort: plans with a computable in-network denial proportion: claim-weighted in-network denial proportion,06_models.R,models
+cohort_flow_cohort_denial_median,0.17578004883784,proportion,Cohort: plans with a computable in-network denial proportion: median plan-level in-network denial proportion,06_models.R,models
+cohort_flow_cohort_claims_median,24033,claim lines,Cohort: plans with a computable in-network denial proportion: median in-network claim lines received per plan,06_models.R,models
+cohort_flow_excluded_exposure_status_plans,352,plans,Excluded for exposure status: plans,06_models.R,models
+cohort_flow_excluded_exposure_status_issuers,17,issuers,Excluded for exposure status: issuers,06_models.R,models
+cohort_flow_excluded_exposure_status_states,11,states,Excluded for exposure status: states,06_models.R,models
+cohort_flow_excluded_exposure_status_claims,72872216,claim lines,Excluded for exposure status: in-network claim lines received,06_models.R,models
+cohort_flow_excluded_exposure_status_claims_share,0.211625526360743,proportion,Excluded for exposure status: share of the cohort's in-network claim lines received,06_models.R,models
+cohort_flow_excluded_exposure_status_plans_share,0.139295607439652,proportion,Excluded for exposure status: share of the cohort's plans,06_models.R,models
+cohort_flow_excluded_exposure_status_denial,0.215868569167706,proportion,Excluded for exposure status: claim-weighted in-network denial proportion,06_models.R,models
+cohort_flow_excluded_exposure_status_denial_median,0.189596353863233,proportion,Excluded for exposure status: median plan-level in-network denial proportion,06_models.R,models
+cohort_flow_excluded_exposure_status_claims_median,19062,claim lines,Excluded for exposure status: median in-network claim lines received per plan,06_models.R,models
+cohort_flow_issuer_unreachable_plans,263,plans,Issuer provider files not retrievable: plans,06_models.R,models
+cohort_flow_issuer_unreachable_issuers,11,issuers,Issuer provider files not retrievable: issuers,06_models.R,models
+cohort_flow_issuer_unreachable_states,8,states,Issuer provider files not retrievable: states,06_models.R,models
+cohort_flow_issuer_unreachable_claims,18350577,claim lines,Issuer provider files not retrievable: in-network claim lines received,06_models.R,models
+cohort_flow_issuer_unreachable_claims_share,0.0532912367677736,proportion,Issuer provider files not retrievable: share of the cohort's in-network claim lines received,06_models.R,models
+cohort_flow_issuer_unreachable_plans_share,0.10407597942224,proportion,Issuer provider files not retrievable: share of the cohort's plans,06_models.R,models
+cohort_flow_issuer_unreachable_denial,0.18839309521439,proportion,Issuer provider files not retrievable: claim-weighted in-network denial proportion,06_models.R,models
+cohort_flow_issuer_unreachable_denial_median,0.190750839425619,proportion,Issuer provider files not retrievable: median plan-level in-network denial proportion,06_models.R,models
+cohort_flow_issuer_unreachable_claims_median,12440,claim lines,Issuer provider files not retrievable: median in-network claim lines received per plan,06_models.R,models
+cohort_flow_issuer_incomplete_plans,77,plans,Issuer provider files incomplete: plans,06_models.R,models
+cohort_flow_issuer_incomplete_issuers,2,issuers,Issuer provider files incomplete: issuers,06_models.R,models
+cohort_flow_issuer_incomplete_states,1,states,Issuer provider files incomplete: states,06_models.R,models
+cohort_flow_issuer_incomplete_claims,54132302,claim lines,Issuer provider files incomplete: in-network claim lines received,06_models.R,models
+cohort_flow_issuer_incomplete_claims_share,0.157203630309097,proportion,"Share of the cohort's in-network claim lines held by the 77 incomplete-directory plans (BCBS Florida), 15.7 percent; not a denial rate",06_models.R,models
+cohort_flow_issuer_incomplete_plans_share,0.0304709141274238,proportion,Issuer provider files incomplete: share of the cohort's plans,06_models.R,models
+cohort_flow_issuer_incomplete_denial,0.225387218891966,proportion,Claim-weighted in-network denial proportion of the 77 incomplete-directory plans (BCBS Florida),06_models.R,models
+cohort_flow_issuer_incomplete_denial_median,0.19101456330372,proportion,Issuer provider files incomplete: median plan-level in-network denial proportion,06_models.R,models
+cohort_flow_issuer_incomplete_claims_median,120026,claim lines,Issuer provider files incomplete: median in-network claim lines received per plan,06_models.R,models
+cohort_flow_plan_not_in_directory_plans,8,plans,Plan not found in the directory: plans,06_models.R,models
+cohort_flow_plan_not_in_directory_issuers,2,issuers,Plan not found in the directory: issuers,06_models.R,models
+cohort_flow_plan_not_in_directory_states,2,states,Plan not found in the directory: states,06_models.R,models
+cohort_flow_plan_not_in_directory_claims,384956,claim lines,Plan not found in the directory: in-network claim lines received,06_models.R,models
+cohort_flow_plan_not_in_directory_claims_share,0.0011179365826576,proportion,Plan not found in the directory: share of the cohort's in-network claim lines received,06_models.R,models
+cohort_flow_plan_not_in_directory_plans_share,0.00316580925999209,proportion,Plan not found in the directory: share of the cohort's plans,06_models.R,models
+cohort_flow_plan_not_in_directory_denial,0.189086544955787,proportion,Plan not found in the directory: claim-weighted in-network denial proportion,06_models.R,models
+cohort_flow_plan_not_in_directory_denial_median,0.191968027338063,proportion,Plan not found in the directory: median plan-level in-network denial proportion,06_models.R,models
+cohort_flow_plan_not_in_directory_claims_median,25378.5,claim lines,Plan not found in the directory: median in-network claim lines received per plan,06_models.R,models
+cohort_flow_no_individuals_plans,4,plans,Plan listed without individual clinicians: plans,06_models.R,models
+cohort_flow_no_individuals_issuers,2,issuers,Plan listed without individual clinicians: issuers,06_models.R,models
+cohort_flow_no_individuals_states,2,states,Plan listed without individual clinicians: states,06_models.R,models
+cohort_flow_no_individuals_claims,4381,claim lines,Plan listed without individual clinicians: in-network claim lines received,06_models.R,models
+cohort_flow_no_individuals_claims_share,1.27227012142243e-05,proportion,Plan listed without individual clinicians: share of the cohort's in-network claim lines received,06_models.R,models
+cohort_flow_no_individuals_plans_share,0.00158290462999604,proportion,Plan listed without individual clinicians: share of the cohort's plans,06_models.R,models
+cohort_flow_no_individuals_denial,0.0410865099292399,proportion,Plan listed without individual clinicians: claim-weighted in-network denial proportion,06_models.R,models
+cohort_flow_no_individuals_denial_median,0.0444704761979512,proportion,Plan listed without individual clinicians: median plan-level in-network denial proportion,06_models.R,models
+cohort_flow_no_individuals_claims_median,1120.5,claim lines,Plan listed without individual clinicians: median in-network claim lines received per plan,06_models.R,models
+cohort_flow_exposure_ok_plans,2175,plans,Exposure available (exposure status ok): plans,06_models.R,models
+cohort_flow_exposure_ok_issuers,136,issuers,Exposure available (exposure status ok): issuers,06_models.R,models
+cohort_flow_exposure_ok_states,30,states,Exposure available (exposure status ok): states,06_models.R,models
+cohort_flow_exposure_ok_claims,271472898,claim lines,Exposure available (exposure status ok): in-network claim lines received,06_models.R,models
+cohort_flow_exposure_ok_claims_share,0.788374473639257,proportion,Exposure available (exposure status ok): share of the cohort's in-network claim lines received,06_models.R,models
+cohort_flow_exposure_ok_plans_share,0.860704392560348,proportion,Exposure available (exposure status ok): share of the cohort's plans,06_models.R,models
+cohort_flow_exposure_ok_denial,0.183618539335739,proportion,Exposure available (exposure status ok): claim-weighted in-network denial proportion,06_models.R,models
+cohort_flow_exposure_ok_denial_median,0.173669942392409,proportion,Exposure available (exposure status ok): median plan-level in-network denial proportion,06_models.R,models
+cohort_flow_exposure_ok_claims_median,25097,claim lines,Exposure available (exposure status ok): median in-network claim lines received per plan,06_models.R,models
+cohort_flow_lost_complete_case_plans,494,plans,Lost to the complete-case rule (enrollment suppressed): plans,06_models.R,models
+cohort_flow_lost_complete_case_issuers,81,issuers,Lost to the complete-case rule (enrollment suppressed): issuers,06_models.R,models
+cohort_flow_lost_complete_case_states,27,states,Lost to the complete-case rule (enrollment suppressed): states,06_models.R,models
+cohort_flow_lost_complete_case_claims,5693160,claim lines,Lost to the complete-case rule (enrollment suppressed): in-network claim lines received,06_models.R,models
+cohort_flow_lost_complete_case_claims_share,0.0165332968830799,proportion,Lost to the complete-case rule (enrollment suppressed): share of the cohort's in-network claim lines received,06_models.R,models
+cohort_flow_lost_complete_case_plans_share,0.195488721804511,proportion,Lost to the complete-case rule (enrollment suppressed): share of the cohort's plans,06_models.R,models
+cohort_flow_lost_complete_case_denial,0.162634108298379,proportion,Lost to the complete-case rule (enrollment suppressed): claim-weighted in-network denial proportion,06_models.R,models
+cohort_flow_lost_complete_case_denial_median,0.171127403784932,proportion,Lost to the complete-case rule (enrollment suppressed): median plan-level in-network denial proportion,06_models.R,models
+cohort_flow_lost_complete_case_claims_median,2366.5,claim lines,Lost to the complete-case rule (enrollment suppressed): median in-network claim lines received per plan,06_models.R,models
+cohort_flow_analytic_plans,1681,plans,Analytic sample (exposure available and reported enrollment): plans,06_models.R,models
+cohort_flow_analytic_issuers,135,issuers,Analytic sample (exposure available and reported enrollment): issuers,06_models.R,models
+cohort_flow_analytic_states,30,states,Analytic sample (exposure available and reported enrollment): states,06_models.R,models
+cohort_flow_analytic_claims,265779738,claim lines,Analytic sample (exposure available and reported enrollment): in-network claim lines received,06_models.R,models
+cohort_flow_analytic_claims_share,0.771841176756177,proportion,Analytic sample (exposure available and reported enrollment): share of the cohort's in-network claim lines received,06_models.R,models
+cohort_flow_analytic_plans_share,0.665215670755837,proportion,Analytic sample (exposure available and reported enrollment): share of the cohort's plans,06_models.R,models
+cohort_flow_analytic_denial,0.184068038324276,proportion,Analytic sample (exposure available and reported enrollment): claim-weighted in-network denial proportion,06_models.R,models
+cohort_flow_analytic_denial_median,0.174460208042658,proportion,Analytic sample (exposure available and reported enrollment): median plan-level in-network denial proportion,06_models.R,models
+cohort_flow_analytic_claims_median,41192,claim lines,Analytic sample (exposure available and reported enrollment): median in-network claim lines received per plan,06_models.R,models
+cohort_flow_excluded_not_analytic_plans,846,plans,"All excluded cohort plans (comparison group, not a ladder step): plans",06_models.R,models
+cohort_flow_excluded_not_analytic_issuers,96,issuers,"All excluded cohort plans (comparison group, not a ladder step): issuers",06_models.R,models
+cohort_flow_excluded_not_analytic_states,27,states,"All excluded cohort plans (comparison group, not a ladder step): states",06_models.R,models
+cohort_flow_excluded_not_analytic_claims,78565376,claim lines,"All excluded cohort plans (comparison group, not a ladder step): in-network claim lines received",06_models.R,models
+cohort_flow_excluded_not_analytic_claims_share,0.228158823243823,proportion,"All excluded cohort plans (comparison group, not a ladder step): share of the cohort's in-network claim lines received",06_models.R,models
+cohort_flow_excluded_not_analytic_plans_share,0.334784329244163,proportion,"All excluded cohort plans (comparison group, not a ladder step): share of the cohort's plans",06_models.R,models
+cohort_flow_excluded_not_analytic_denial,0.212010988148265,proportion,"All excluded cohort plans (comparison group, not a ladder step): claim-weighted in-network denial proportion",06_models.R,models
+cohort_flow_excluded_not_analytic_denial_median,0.180192536224787,proportion,"All excluded cohort plans (comparison group, not a ladder step): median plan-level in-network denial proportion",06_models.R,models
+cohort_flow_excluded_not_analytic_claims_median,3803,claim lines,"All excluded cohort plans (comparison group, not a ladder step): median in-network claim lines received per plan",06_models.R,models
+cohort_flow_issuer_incomplete_share_of_excluded_claims,0.689009647201332,proportion,"Share of the in-network claim lines of all 846 excluded cohort plans (the selection-check comparison group) held by the 77 incomplete-directory plans (BCBS Florida), 68.9 percent; not a denial rate",06_models.R,models
+cohort_flow_sel_analytic_minus_excluded_denial,-0.0279429498239893,proportion,Selection check (descriptive): analytic minus excluded denial,06_models.R,models
+cohort_flow_sel_analytic_minus_excluded_denial_median,-0.00573232818212896,proportion,Selection check (descriptive): analytic minus excluded denial median,06_models.R,models
+cohort_flow_sel_ok_minus_unreachable_denial,-0.0047745558786515,proportion,Selection check (descriptive): ok minus unreachable denial,06_models.R,models
+cohort_flow_sel_ok_minus_unreachable_denial_median,-0.0170808970332092,proportion,Selection check (descriptive): ok minus unreachable denial median,06_models.R,models
+cohort_flow_sel_analytic_to_excluded_claims_median_ratio,10.8314488561662,ratio,Selection check (descriptive): analytic to excluded claims median ratio,06_models.R,models
+cohort_flow_sel_analytic_to_excluded_claims_total_ratio,3.38291180583162,ratio,Selection check (descriptive): analytic to excluded claims total ratio,06_models.R,models
+cohort_flow_sel_ok_to_unreachable_claims_median_ratio,2.01744372990354,ratio,Selection check (descriptive): ok to unreachable claims median ratio,06_models.R,models
+cohort_flow_type_hmo_plans_cohort,1195,plans,"Table 1, plan_type HMO: plans cohort",06_models.R,models
+cohort_flow_type_hmo_plans_exposure_ok,1115,plans,"Table 1, plan_type HMO: plans exposure ok",06_models.R,models
+cohort_flow_type_hmo_plans_analytic,872,plans,"Table 1, plan_type HMO: plans analytic",06_models.R,models
+cohort_flow_type_hmo_issuers_cohort,78,issuers,"Table 1, plan_type HMO: issuers cohort",06_models.R,models
+cohort_flow_type_hmo_issuers_analytic,73,issuers,"Table 1, plan_type HMO: issuers analytic",06_models.R,models
+cohort_flow_type_hmo_claim_lines_cohort,177297240,claim lines,"Table 1, plan_type HMO: claim lines cohort",06_models.R,models
+cohort_flow_type_hmo_claim_lines_analytic,146938452,claim lines,"Table 1, plan_type HMO: claim lines analytic",06_models.R,models
+cohort_flow_type_hmo_share_of_analytic_plans,0.518738845925045,proportion,"Table 1, plan_type HMO: share of analytic plans",06_models.R,models
+cohort_flow_type_hmo_density_q25,14321.5273259597,density,"Table 1, plan_type HMO: density q25",06_models.R,models
+cohort_flow_type_hmo_density_median,48357.7533577533,density,"Table 1, plan_type HMO: density median",06_models.R,models
+cohort_flow_type_hmo_density_q75,159344.618055556,density,"Table 1, plan_type HMO: density q75",06_models.R,models
+cohort_flow_type_hmo_surgeon_count_median,624,surgeons,"Table 1, plan_type HMO: surgeon count median",06_models.R,models
+cohort_flow_type_hmo_enrollment_q25,41.75,enrollees,"Table 1, plan_type HMO: enrollment q25",06_models.R,models
+cohort_flow_type_hmo_enrollment_median,106.5,enrollees,"Table 1, plan_type HMO: enrollment median",06_models.R,models
+cohort_flow_type_hmo_enrollment_q75,339.5,enrollees,"Table 1, plan_type HMO: enrollment q75",06_models.R,models
+cohort_flow_type_epo_plans_cohort,661,plans,"Table 1, plan_type EPO: plans cohort",06_models.R,models
+cohort_flow_type_epo_plans_exposure_ok,468,plans,"Table 1, plan_type EPO: plans exposure ok",06_models.R,models
+cohort_flow_type_epo_plans_analytic,387,plans,"Table 1, plan_type EPO: plans analytic",06_models.R,models
+cohort_flow_type_epo_issuers_cohort,52,issuers,"Table 1, plan_type EPO: issuers cohort",06_models.R,models
+cohort_flow_type_epo_issuers_analytic,43,issuers,"Table 1, plan_type EPO: issuers analytic",06_models.R,models
+cohort_flow_type_epo_claim_lines_cohort,95591122,claim lines,"Table 1, plan_type EPO: claim lines cohort",06_models.R,models
+cohort_flow_type_epo_claim_lines_analytic,68960586,claim lines,"Table 1, plan_type EPO: claim lines analytic",06_models.R,models
+cohort_flow_type_epo_share_of_analytic_plans,0.23022010707912,proportion,"Table 1, plan_type EPO: share of analytic plans",06_models.R,models
+cohort_flow_type_epo_density_q25,12224.7837493831,density,"Table 1, plan_type EPO: density q25",06_models.R,models
+cohort_flow_type_epo_density_median,33571.4285714286,density,"Table 1, plan_type EPO: density median",06_models.R,models
+cohort_flow_type_epo_density_q75,83751.6101331044,density,"Table 1, plan_type EPO: density q75",06_models.R,models
+cohort_flow_type_epo_surgeon_count_median,386,surgeons,"Table 1, plan_type EPO: surgeon count median",06_models.R,models
+cohort_flow_type_epo_enrollment_q25,45,enrollees,"Table 1, plan_type EPO: enrollment q25",06_models.R,models
+cohort_flow_type_epo_enrollment_median,117,enrollees,"Table 1, plan_type EPO: enrollment median",06_models.R,models
+cohort_flow_type_epo_enrollment_q75,292,enrollees,"Table 1, plan_type EPO: enrollment q75",06_models.R,models
+cohort_flow_type_pos_plans_cohort,347,plans,"Table 1, plan_type POS: plans cohort",06_models.R,models
+cohort_flow_type_pos_plans_exposure_ok,307,plans,"Table 1, plan_type POS: plans exposure ok",06_models.R,models
+cohort_flow_type_pos_plans_analytic,188,plans,"Table 1, plan_type POS: plans analytic",06_models.R,models
+cohort_flow_type_pos_issuers_cohort,10,issuers,"Table 1, plan_type POS: issuers cohort",06_models.R,models
+cohort_flow_type_pos_issuers_analytic,8,issuers,"Table 1, plan_type POS: issuers analytic",06_models.R,models
+cohort_flow_type_pos_claim_lines_cohort,21253823,claim lines,"Table 1, plan_type POS: claim lines cohort",06_models.R,models
+cohort_flow_type_pos_claim_lines_analytic,12761415,claim lines,"Table 1, plan_type POS: claim lines analytic",06_models.R,models
+cohort_flow_type_pos_share_of_analytic_plans,0.111838191552647,proportion,"Table 1, plan_type POS: share of analytic plans",06_models.R,models
+cohort_flow_type_pos_density_q25,57631.5359477124,density,"Table 1, plan_type POS: density q25",06_models.R,models
+cohort_flow_type_pos_density_median,317462.858606558,density,"Table 1, plan_type POS: density median",06_models.R,models
+cohort_flow_type_pos_density_q75,944285.714285715,density,"Table 1, plan_type POS: density q75",06_models.R,models
+cohort_flow_type_pos_surgeon_count_median,1983,surgeons,"Table 1, plan_type POS: surgeon count median",06_models.R,models
+cohort_flow_type_pos_enrollment_q25,19,enrollees,"Table 1, plan_type POS: enrollment q25",06_models.R,models
+cohort_flow_type_pos_enrollment_median,38,enrollees,"Table 1, plan_type POS: enrollment median",06_models.R,models
+cohort_flow_type_pos_enrollment_q75,141,enrollees,"Table 1, plan_type POS: enrollment q75",06_models.R,models
+cohort_flow_type_ppo_plans_cohort,324,plans,"Table 1, plan_type PPO: plans cohort",06_models.R,models
+cohort_flow_type_ppo_plans_exposure_ok,285,plans,"Table 1, plan_type PPO: plans exposure ok",06_models.R,models
+cohort_flow_type_ppo_plans_analytic,234,plans,"Table 1, plan_type PPO: plans analytic",06_models.R,models
+cohort_flow_type_ppo_issuers_cohort,25,issuers,"Table 1, plan_type PPO: issuers cohort",06_models.R,models
+cohort_flow_type_ppo_issuers_analytic,22,issuers,"Table 1, plan_type PPO: issuers analytic",06_models.R,models
+cohort_flow_type_ppo_claim_lines_cohort,50202929,claim lines,"Table 1, plan_type PPO: claim lines cohort",06_models.R,models
+cohort_flow_type_ppo_claim_lines_analytic,37119285,claim lines,"Table 1, plan_type PPO: claim lines analytic",06_models.R,models
+cohort_flow_type_ppo_share_of_analytic_plans,0.139202855443189,proportion,"Table 1, plan_type PPO: share of analytic plans",06_models.R,models
+cohort_flow_type_ppo_density_q25,10943.5483870968,density,"Table 1, plan_type PPO: density q25",06_models.R,models
+cohort_flow_type_ppo_density_median,27242.951907131,density,"Table 1, plan_type PPO: density median",06_models.R,models
+cohort_flow_type_ppo_density_q75,79984.8484848485,density,"Table 1, plan_type PPO: density q75",06_models.R,models
+cohort_flow_type_ppo_surgeon_count_median,396,surgeons,"Table 1, plan_type PPO: surgeon count median",06_models.R,models
+cohort_flow_type_ppo_enrollment_q25,40.25,enrollees,"Table 1, plan_type PPO: enrollment q25",06_models.R,models
+cohort_flow_type_ppo_enrollment_median,101,enrollees,"Table 1, plan_type PPO: enrollment median",06_models.R,models
+cohort_flow_type_ppo_enrollment_q75,245,enrollees,"Table 1, plan_type PPO: enrollment q75",06_models.R,models
+cohort_flow_metal_bronze_plans_cohort,822,plans,"Table 1, metal_level Bronze: plans cohort",06_models.R,models
+cohort_flow_metal_bronze_plans_exposure_ok,699,plans,"Table 1, metal_level Bronze: plans exposure ok",06_models.R,models
+cohort_flow_metal_bronze_plans_analytic,611,plans,"Table 1, metal_level Bronze: plans analytic",06_models.R,models
+cohort_flow_metal_bronze_issuers_cohort,137,issuers,"Table 1, metal_level Bronze: issuers cohort",06_models.R,models
+cohort_flow_metal_bronze_issuers_analytic,123,issuers,"Table 1, metal_level Bronze: issuers analytic",06_models.R,models
+cohort_flow_metal_bronze_claim_lines_cohort,85250992,claim lines,"Table 1, metal_level Bronze: claim lines cohort",06_models.R,models
+cohort_flow_metal_bronze_claim_lines_analytic,60859987,claim lines,"Table 1, metal_level Bronze: claim lines analytic",06_models.R,models
+cohort_flow_metal_bronze_share_of_analytic_plans,0.363474122546104,proportion,"Table 1, metal_level Bronze: share of analytic plans",06_models.R,models
+cohort_flow_metal_bronze_density_q25,13055.4984583762,density,"Table 1, metal_level Bronze: density q25",06_models.R,models
+cohort_flow_metal_bronze_density_median,36056.338028169,density,"Table 1, metal_level Bronze: density median",06_models.R,models
+cohort_flow_metal_bronze_density_q75,147035.353535353,density,"Table 1, metal_level Bronze: density q75",06_models.R,models
+cohort_flow_metal_bronze_surgeon_count_median,518,surgeons,"Table 1, metal_level Bronze: surgeon count median",06_models.R,models
+cohort_flow_metal_bronze_enrollment_q25,45,enrollees,"Table 1, metal_level Bronze: enrollment q25",06_models.R,models
+cohort_flow_metal_bronze_enrollment_median,108,enrollees,"Table 1, metal_level Bronze: enrollment median",06_models.R,models
+cohort_flow_metal_bronze_enrollment_q75,287.5,enrollees,"Table 1, metal_level Bronze: enrollment q75",06_models.R,models
+cohort_flow_metal_catastrophic_plans_cohort,76,plans,"Table 1, metal_level Catastrophic: plans cohort",06_models.R,models
+cohort_flow_metal_catastrophic_plans_exposure_ok,62,plans,"Table 1, metal_level Catastrophic: plans exposure ok",06_models.R,models
+cohort_flow_metal_catastrophic_plans_analytic,14,plans,"Table 1, metal_level Catastrophic: plans analytic",06_models.R,models
+cohort_flow_metal_catastrophic_issuers_cohort,35,issuers,"Table 1, metal_level Catastrophic: issuers cohort",06_models.R,models
+cohort_flow_metal_catastrophic_issuers_analytic,13,issuers,"Table 1, metal_level Catastrophic: issuers analytic",06_models.R,models
+cohort_flow_metal_catastrophic_claim_lines_cohort,201814,claim lines,"Table 1, metal_level Catastrophic: claim lines cohort",06_models.R,models
+cohort_flow_metal_catastrophic_claim_lines_analytic,146373,claim lines,"Table 1, metal_level Catastrophic: claim lines analytic",06_models.R,models
+cohort_flow_metal_catastrophic_share_of_analytic_plans,0.0083283759666865,proportion,"Table 1, metal_level Catastrophic: share of analytic plans",06_models.R,models
+cohort_flow_metal_catastrophic_density_q25,60661.7647058823,density,"Table 1, metal_level Catastrophic: density q25",06_models.R,models
+cohort_flow_metal_catastrophic_density_median,73603.6036036035,density,"Table 1, metal_level Catastrophic: density median",06_models.R,models
+cohort_flow_metal_catastrophic_density_q75,170106.382978724,density,"Table 1, metal_level Catastrophic: density q75",06_models.R,models
+cohort_flow_metal_catastrophic_surgeon_count_median,303,surgeons,"Table 1, metal_level Catastrophic: surgeon count median",06_models.R,models
+cohort_flow_metal_catastrophic_enrollment_q25,16.25,enrollees,"Table 1, metal_level Catastrophic: enrollment q25",06_models.R,models
+cohort_flow_metal_catastrophic_enrollment_median,20,enrollees,"Table 1, metal_level Catastrophic: enrollment median",06_models.R,models
+cohort_flow_metal_catastrophic_enrollment_q75,47.75,enrollees,"Table 1, metal_level Catastrophic: enrollment q75",06_models.R,models
+cohort_flow_metal_gold_plans_cohort,759,plans,"Table 1, metal_level Gold: plans cohort",06_models.R,models
+cohort_flow_metal_gold_plans_exposure_ok,662,plans,"Table 1, metal_level Gold: plans exposure ok",06_models.R,models
+cohort_flow_metal_gold_plans_analytic,473,plans,"Table 1, metal_level Gold: plans analytic",06_models.R,models
+cohort_flow_metal_gold_issuers_cohort,146,issuers,"Table 1, metal_level Gold: issuers cohort",06_models.R,models
+cohort_flow_metal_gold_issuers_analytic,108,issuers,"Table 1, metal_level Gold: issuers analytic",06_models.R,models
+cohort_flow_metal_gold_claim_lines_cohort,54291010,claim lines,"Table 1, metal_level Gold: claim lines cohort",06_models.R,models
+cohort_flow_metal_gold_claim_lines_analytic,48339822,claim lines,"Table 1, metal_level Gold: claim lines analytic",06_models.R,models
+cohort_flow_metal_gold_share_of_analytic_plans,0.281380130874479,proportion,"Table 1, metal_level Gold: share of analytic plans",06_models.R,models
+cohort_flow_metal_gold_density_q25,31666.6666666666,density,"Table 1, metal_level Gold: density q25",06_models.R,models
+cohort_flow_metal_gold_density_median,91176.4705882352,density,"Table 1, metal_level Gold: density median",06_models.R,models
+cohort_flow_metal_gold_density_q75,257532.467532467,density,"Table 1, metal_level Gold: density q75",06_models.R,models
+cohort_flow_metal_gold_surgeon_count_median,701,surgeons,"Table 1, metal_level Gold: surgeon count median",06_models.R,models
+cohort_flow_metal_gold_enrollment_q25,26,enrollees,"Table 1, metal_level Gold: enrollment q25",06_models.R,models
+cohort_flow_metal_gold_enrollment_median,66,enrollees,"Table 1, metal_level Gold: enrollment median",06_models.R,models
+cohort_flow_metal_gold_enrollment_q75,199,enrollees,"Table 1, metal_level Gold: enrollment q75",06_models.R,models
+cohort_flow_metal_platinum_plans_cohort,27,plans,"Table 1, metal_level Platinum: plans cohort",06_models.R,models
+cohort_flow_metal_platinum_plans_exposure_ok,12,plans,"Table 1, metal_level Platinum: plans exposure ok",06_models.R,models
+cohort_flow_metal_platinum_plans_analytic,9,plans,"Table 1, metal_level Platinum: plans analytic",06_models.R,models
+cohort_flow_metal_platinum_issuers_cohort,8,issuers,"Table 1, metal_level Platinum: issuers cohort",06_models.R,models
+cohort_flow_metal_platinum_issuers_analytic,5,issuers,"Table 1, metal_level Platinum: issuers analytic",06_models.R,models
+cohort_flow_metal_platinum_claim_lines_cohort,2078443,claim lines,"Table 1, metal_level Platinum: claim lines cohort",06_models.R,models
+cohort_flow_metal_platinum_claim_lines_analytic,298866,claim lines,"Table 1, metal_level Platinum: claim lines analytic",06_models.R,models
+cohort_flow_metal_platinum_share_of_analytic_plans,0.00535395597858418,proportion,"Table 1, metal_level Platinum: share of analytic plans",06_models.R,models
+cohort_flow_metal_platinum_density_q25,13043.4782608696,density,"Table 1, metal_level Platinum: density q25",06_models.R,models
+cohort_flow_metal_platinum_density_median,29090.9090909091,density,"Table 1, metal_level Platinum: density median",06_models.R,models
+cohort_flow_metal_platinum_density_q75,128695.652173913,density,"Table 1, metal_level Platinum: density q75",06_models.R,models
+cohort_flow_metal_platinum_surgeon_count_median,63,surgeons,"Table 1, metal_level Platinum: surgeon count median",06_models.R,models
+cohort_flow_metal_platinum_enrollment_q25,11,enrollees,"Table 1, metal_level Platinum: enrollment q25",06_models.R,models
+cohort_flow_metal_platinum_enrollment_median,23,enrollees,"Table 1, metal_level Platinum: enrollment median",06_models.R,models
+cohort_flow_metal_platinum_enrollment_q75,39,enrollees,"Table 1, metal_level Platinum: enrollment q75",06_models.R,models
+cohort_flow_metal_silver_plans_cohort,843,plans,"Table 1, metal_level Silver: plans cohort",06_models.R,models
+cohort_flow_metal_silver_plans_exposure_ok,740,plans,"Table 1, metal_level Silver: plans exposure ok",06_models.R,models
+cohort_flow_metal_silver_plans_analytic,574,plans,"Table 1, metal_level Silver: plans analytic",06_models.R,models
+cohort_flow_metal_silver_issuers_cohort,146,issuers,"Table 1, metal_level Silver: issuers cohort",06_models.R,models
+cohort_flow_metal_silver_issuers_analytic,125,issuers,"Table 1, metal_level Silver: issuers analytic",06_models.R,models
+cohort_flow_metal_silver_claim_lines_cohort,202522855,claim lines,"Table 1, metal_level Silver: claim lines cohort",06_models.R,models
+cohort_flow_metal_silver_claim_lines_analytic,156134690,claim lines,"Table 1, metal_level Silver: claim lines analytic",06_models.R,models
+cohort_flow_metal_silver_share_of_analytic_plans,0.341463414634146,proportion,"Table 1, metal_level Silver: share of analytic plans",06_models.R,models
+cohort_flow_metal_silver_density_q25,8485.84485726156,density,"Table 1, metal_level Silver: density q25",06_models.R,models
+cohort_flow_metal_silver_density_median,31801.6727102585,density,"Table 1, metal_level Silver: density median",06_models.R,models
+cohort_flow_metal_silver_density_q75,96142.8571428571,density,"Table 1, metal_level Silver: density q75",06_models.R,models
+cohort_flow_metal_silver_surgeon_count_median,383,surgeons,"Table 1, metal_level Silver: surgeon count median",06_models.R,models
+cohort_flow_metal_silver_enrollment_q25,44.25,enrollees,"Table 1, metal_level Silver: enrollment q25",06_models.R,models
+cohort_flow_metal_silver_enrollment_median,123.5,enrollees,"Table 1, metal_level Silver: enrollment median",06_models.R,models
+cohort_flow_metal_silver_enrollment_q75,397.5,enrollees,"Table 1, metal_level Silver: enrollment q75",06_models.R,models
+cohort_flow_analytic_density_q25,14662.9213483146,value,Analytic sample: density q25,06_models.R,models
+cohort_flow_analytic_density_median,46751.5923566879,value,Analytic sample: density median,06_models.R,models
+cohort_flow_analytic_density_q75,157380.952380952,value,Analytic sample: density q75,06_models.R,models
+cohort_flow_analytic_surgeon_count_median,508,value,Analytic sample: surgeon count median,06_models.R,models
+cohort_flow_analytic_enrollment_q25,37,value,Analytic sample: enrollment q25,06_models.R,models
+cohort_flow_analytic_enrollment_median,97,value,Analytic sample: enrollment median,06_models.R,models
+cohort_flow_analytic_enrollment_q75,276,value,Analytic sample: enrollment q75,06_models.R,models
+ortho_files_total,828,files,Distinct provider file URLs in the inventory,04_ortho_harvest.R,ortho
+ortho_files_ok,755,files,Provider files harvested successfully,04_ortho_harvest.R,ortho
+ortho_files_failed,0,files,"Provider files that failed after retries (excluded, never partially counted)",04_ortho_harvest.R,ortho
+ortho_files_skipped,29,files,Files skipped because no issuer sharing the index has a computable cohort plan,04_ortho_harvest.R,ortho
+ortho_files_not_run,44,files,Files not run (transfer or disk guard),04_ortho_harvest.R,ortho
+ortho_wire_gb,62.667623831,GB,Cumulative wire bytes of all attempts including calibration (decimal GB),04_ortho_harvest.R,ortho
+ortho_decoded_gb,112.518752262,GB,Cumulative decoded bytes streamed through the filter (decimal GB),04_ortho_harvest.R,ortho
+ortho_wall_clock_hours,3.88888888888889,hours,Elapsed time from first to last stream attempt,04_ortho_harvest.R,ortho
+ortho_issuers_harvested,136,issuers,Cohort issuers whose provider files were all harvested,04_ortho_harvest.R,ortho
+ortho_cohort_plans_listed,2256,plans,Cohort plans with a directory listing in any harvested file,04_ortho_harvest.R,ortho
+ortho_cohort_plans_listed_share,0.892758211317768,proportion,"Share of the 2,527 cohort plans with a directory listing",04_ortho_harvest.R,ortho
+ortho_cohort_plans_ok,2175,plans,Cohort plans with exposure status ok,04_ortho_harvest.R,ortho
+ortho_cohort_plans_ok_share,0.860704392560348,proportion,Share of cohort plans with exposure status ok,04_ortho_harvest.R,ortho
+ortho_issuer_states_ok,136,issuer-states,Issuer-states with at least one plan with exposure status ok,04_ortho_harvest.R,ortho
+ortho_yield_meets_g1,yes,text,Yield at least 60 issuer-states and 500 plans with exposure status ok,04_ortho_harvest.R,ortho
+ortho_individual_npis,1855094,NPIs,Distinct individual NPIs in harvested files (cohort or not),04_ortho_harvest.R,ortho
+ortho_individual_npis_cohort,1456452,NPIs,Distinct individual NPIs listed in at least one cohort plan,04_ortho_harvest.R,ortho
+ortho_surgeon_npis,22997,NPIs,Distinct NPIs flagged ortho_surgeon by the frozen text crosswalk,04_ortho_harvest.R,ortho
+ortho_apc_npis,2301,NPIs,"Distinct NPIs flagged ortho_apc (orthopaedic text with a PA, NP, APRN, nurse or assistant co-label)",04_ortho_harvest.R,ortho
+ortho_derm_npis,11651,NPIs,Distinct NPIs flagged dermatology by text,04_ortho_harvest.R,ortho
+ortho_ophth_npis,15703,NPIs,Distinct NPIs flagged ophthalmology by text,04_ortho_harvest.R,ortho
+ortho_surgeon_npis_cohort,19720,NPIs,ortho_surgeon NPIs listed in at least one cohort plan,04_ortho_harvest.R,ortho
+ortho_apc_npis_cohort,2185,NPIs,ortho_apc NPIs listed in at least one cohort plan,04_ortho_harvest.R,ortho
+ortho_derm_npis_cohort,9594,NPIs,Dermatology-text NPIs listed in at least one cohort plan,04_ortho_harvest.R,ortho
+ortho_ophth_npis_cohort,14031,NPIs,Ophthalmology-text NPIs listed in at least one cohort plan,04_ortho_harvest.R,ortho
+ortho_surgeon_per_plan_median,518,NPIs per plan,Median ortho_surgeon NPIs per plan with exposure status ok,04_ortho_harvest.R,ortho
+ortho_surgeon_per_plan_min,7,NPIs per plan,Minimum ortho_surgeon NPIs per plan with exposure status ok,04_ortho_harvest.R,ortho
+ortho_surgeon_per_plan_max,2407,NPIs per plan,Maximum ortho_surgeon NPIs per plan with exposure status ok,04_ortho_harvest.R,ortho
+ortho_nppes_reachable_start,no,text,NPPES monthly zip reachable at the start of the harvest,04_ortho_harvest.R,ortho
+ortho_nppes_reachable_end,no,text,NPPES monthly zip reachable after the harvest,04_ortho_harvest.R,ortho
+ortho_validation_route,NPI Registry API sample,text,G3 route used (b),04_ortho_harvest.R,ortho
+ortho_g3_verdict,PASS,text,G3 verdict under the WP4 operationalisation,04_ortho_harvest.R,ortho
+ortho_npi_found_share,0.994,proportion,Sampled unflagged individual NPIs (C1 and C2) found as active individuals in the NPI Registry,04_ortho_harvest.R,ortho
+ortho_npi_found_share_lo,0.9825,proportion,Wilson 95 percent lower limit,04_ortho_harvest.R,ortho
+ortho_npi_found_share_hi,0.998,proportion,Wilson 95 percent upper limit,04_ortho_harvest.R,ortho
+ortho_ppv_surgeon,0.85,proportion,Share of surgeon-text NPIs holding any 207X code,04_ortho_harvest.R,ortho
+ortho_ppv_surgeon_lo,0.8052,proportion,Wilson 95 percent lower limit,04_ortho_harvest.R,ortho
+ortho_ppv_surgeon_hi,0.886,proportion,Wilson 95 percent upper limit,04_ortho_harvest.R,ortho
+ortho_ppv_apc,0.06,proportion,Share of APC-text NPIs holding any 207X code,04_ortho_harvest.R,ortho
+ortho_sensitivity_surgeon,0.9295,proportion,Estimated sensitivity of the surgeon-text flag for any 207X,04_ortho_harvest.R,ortho
+ortho_sensitivity_surgeon_lo,0.6467,proportion,Monte Carlo (Jeffreys) 95 percent lower limit,04_ortho_harvest.R,ortho
+ortho_sensitivity_surgeon_hi,0.9907,proportion,Monte Carlo (Jeffreys) 95 percent upper limit,04_ortho_harvest.R,ortho
+ortho_ppv_apc_lo,0.0278,proportion,Wilson 95 percent lower limit,04_ortho_harvest.R,ortho
+ortho_ppv_apc_hi,0.1248,proportion,Wilson 95 percent upper limit,04_ortho_harvest.R,ortho
+ortho_ppv_derm,0.92,proportion,Share of derm-text NPIs holding any 207N code (PPV),04_ortho_harvest.R,ortho
+ortho_ppv_derm_lo,0.8116,proportion,Wilson 95 percent lower limit,04_ortho_harvest.R,ortho
+ortho_ppv_derm_hi,0.9685,proportion,Wilson 95 percent upper limit,04_ortho_harvest.R,ortho
+ortho_ppv_ophth,0.98,proportion,Share of ophth-text NPIs holding any 207W code (PPV),04_ortho_harvest.R,ortho
+ortho_ppv_ophth_lo,0.895,proportion,Wilson 95 percent lower limit,04_ortho_harvest.R,ortho
+ortho_ppv_ophth_hi,0.9965,proportion,Wilson 95 percent upper limit,04_ortho_harvest.R,ortho
+ortho_apc_physician_share,0.09,proportion,Share of APC-text NPIs holding a physician taxonomy code (20xxxxxxx),04_ortho_harvest.R,ortho
+ortho_apc_physician_share_lo,0.0481,proportion,Wilson 95 percent lower limit,04_ortho_harvest.R,ortho
+ortho_apc_physician_share_hi,0.1623,proportion,Wilson 95 percent upper limit,04_ortho_harvest.R,ortho
+ortho_apc_pa_share,0.79,proportion,Share of APC-text NPIs holding a physician assistant code (363A),04_ortho_harvest.R,ortho
+ortho_apc_pa_share_lo,0.7002,proportion,Wilson 95 percent lower limit,04_ortho_harvest.R,ortho
+ortho_apc_pa_share_hi,0.8583,proportion,Wilson 95 percent upper limit,04_ortho_harvest.R,ortho
+ortho_apc_np_share,0.18,proportion,Share of APC-text NPIs holding a nurse practitioner code (363L),04_ortho_harvest.R,ortho
+ortho_apc_np_share_lo,0.117,proportion,Wilson 95 percent lower limit,04_ortho_harvest.R,ortho
+ortho_apc_np_share_hi,0.2667,proportion,Wilson 95 percent upper limit,04_ortho_harvest.R,ortho
+ortho_sensitivity_surgeon_or_apc,0.9373,proportion,Estimated sensitivity of the surgeon or APC text flag for any 207X,04_ortho_harvest.R,ortho
+ortho_sensitivity_surgeon_or_apc_lo,0.6512,proportion,Monte Carlo (Jeffreys) 95 percent lower limit,04_ortho_harvest.R,ortho
+ortho_sensitivity_surgeon_or_apc_hi,0.9981,proportion,Monte Carlo (Jeffreys) 95 percent upper limit,04_ortho_harvest.R,ortho
+ortho_g3_sampled,1000,NPIs,NPIs sampled and queried in the NPI Registry validation,04_ortho_harvest.R,ortho
+ortho_g3_found_active,997,NPIs,Sampled NPIs found as active individuals (all strata),04_ortho_harvest.R,ortho
+ortho_g3_unflagged_sampled,500,NPIs,Unflagged sampled NPIs (strata C1 and C2),04_ortho_harvest.R,ortho
+ortho_g3_unflagged_found_active,497,NPIs,Unflagged sampled NPIs found as active individuals,04_ortho_harvest.R,ortho
+ortho_g3_unflagged_with_207x,0,NPIs,Unflagged sampled NPIs holding a 207X code (sensitivity events),04_ortho_harvest.R,ortho
+ortho_g3_surgeon_n,300,NPIs,Surgeon-text NPIs sampled and found active,04_ortho_harvest.R,ortho
+ortho_g3_surgeon_with_207x,255,NPIs,Surgeon-text NPIs holding a 207X code,04_ortho_harvest.R,ortho
+ortho_g3_apc_n,100,NPIs,APC-text NPIs sampled and found active,04_ortho_harvest.R,ortho
+ortho_g3_apc_with_207x,6,NPIs,APC-text NPIs holding a 207X code,04_ortho_harvest.R,ortho
+ortho_g3_surgeon_no207x_n,45,NPIs,Surgeon-text NPIs without a 207X code,04_ortho_harvest.R,ortho
+ortho_g3_surgeon_no207x_pa,18,NPIs,"Of those, holding a PA code (363A)",04_ortho_harvest.R,ortho
+ortho_g3_surgeon_no207x_np,8,NPIs,"Of those, holding an NP code (363L)",04_ortho_harvest.R,ortho
+ortho_g3_surgeon_no207x_other_physician,14,NPIs,"Of those, holding another physician code",04_ortho_harvest.R,ortho
+ortho_g3_surgeon_no207x_none,5,NPIs,"Of those, holding none of these",04_ortho_harvest.R,ortho
+ortho_cohort_plans,2527,plans,Cohort plans (computable in-network proportion),04_ortho_harvest.R,ortho
+ortho_cohort_issuers,149,issuers,Cohort issuers,04_ortho_harvest.R,ortho
+ortho_issuers_not_retrievable_universe,12,issuers,Issuers of the 185 whose index could not be fetched (12; one of them has no computable plan),04_ortho_harvest.R,ortho
+ortho_issuers_unreachable,11,issuers,Cohort issuers with status issuer_unreachable,04_ortho_harvest.R,ortho
+ortho_issuers_incomplete,2,issuers,Cohort issuers with status issuer_incomplete (some provider files not harvested),04_ortho_harvest.R,ortho
+ortho_plans_issuer_unreachable,263,plans,Cohort plans with status issuer_unreachable,04_ortho_harvest.R,ortho
+ortho_plans_issuer_incomplete,77,plans,Cohort plans with status issuer_incomplete,04_ortho_harvest.R,ortho
+ortho_plans_not_in_directory,8,plans,Cohort plans absent from every harvested file of a fully harvested issuer,04_ortho_harvest.R,ortho
+ortho_plans_no_individuals,4,plans,Cohort plans listed only in facility or group records,04_ortho_harvest.R,ortho
+ortho_states_ok,30,states,States with at least one plan with exposure status ok,04_ortho_harvest.R,ortho
+ortho_surgeon_per_plan_p05,90.4,NPIs per plan,5th percentile of ortho_surgeon NPIs per ok plan,04_ortho_harvest.R,ortho
+ortho_surgeon_per_plan_p95,1983,NPIs per plan,95th percentile of ortho_surgeon NPIs per ok plan,04_ortho_harvest.R,ortho
+ortho_surgeon_share_median,0.0133962264150943,proportion,"Median share of listed clinicians that are ortho_surgeon, ok plans",04_ortho_harvest.R,ortho
+ortho_surgeon_share_min,0.00147922558190124,proportion,"Minimum surgeon share, ok plans",04_ortho_harvest.R,ortho
+ortho_surgeon_share_max,0.0485214834177422,proportion,"Maximum surgeon share, ok plans",04_ortho_harvest.R,ortho
+ortho_apc_per_plan_median,70,NPIs per plan,Median ortho_apc NPIs per ok plan,04_ortho_harvest.R,ortho
+ortho_derm_per_plan_median,240,NPIs per plan,Median dermatology-text NPIs per ok plan,04_ortho_harvest.R,ortho
+ortho_ophth_per_plan_median,568,NPIs per plan,Median ophthalmology-text NPIs per ok plan,04_ortho_harvest.R,ortho
+ortho_individual_records,11800905,records,Individual records read in harvested files,04_ortho_harvest.R,ortho
+ortho_facility_records_ignored,5394448,records,FACILITY records ignored,04_ortho_harvest.R,ortho
+ortho_group_records_ignored,631031,records,GROUP records ignored (type not in the published schema),04_ortho_harvest.R,ortho
+ortho_not_run_listed_gb,12.7957927,GB,Listed (decoded) size of the files not run,04_ortho_harvest.R,ortho
+ortho_manifest_wire_gb,62.666298074,GB,Wire bytes of all attempts summed from the manifest (excludes the calibration downloads),04_ortho_harvest.R,ortho
+ortho_share_npis_mapped_ortho,0.0136370448074329,proportion,Share of individual NPIs mapped to an orthopaedic family (surgeon or APC),04_ortho_harvest.R,ortho
+ortho_share_npis_mapped_derm,0.00628054427430632,proportion,Share of individual NPIs mapped to dermatology,04_ortho_harvest.R,ortho
+ortho_share_npis_mapped_ophth,0.00846480016646057,proportion,Share of individual NPIs mapped to ophthalmology,04_ortho_harvest.R,ortho
+ortho_share_records_nucc_exact,0.706224988676716,proportion,"Share of individual records with at least one label exactly equal to a NUCC name (WP3 metric, 0.55 in the WP3 samples)",04_ortho_harvest.R,ortho
+ortho_share_npis_nucc_exact_any_record,0.809558976526257,proportion,Share of individual NPIs with at least one NUCC-exact record,04_ortho_harvest.R,ortho
+ortho_share_npis_nucc_exact_all_records,0.38165720982333,proportion,Share of individual NPIs whose every label of every record equals a NUCC name,04_ortho_harvest.R,ortho
+text_g2_rows_total,48,rows,"Rows in the reconciliation with the KFF benchmarks (reproduced, differs explained, differs unexplained, not testable)",09_build_docx.R,text
+text_g2_rows_other,2,rows,KFF reconciliation rows that neither reproduced nor differed for a documented reason (differs unexplained plus not testable),09_build_docx.R,text
+text_files_serving_cohort,799,files,Provider files that could serve a cohort plan: distinct files in the inventory (ortho_files_total) minus files skipped because no issuer sharing the index has a computable cohort plan (ortho_files_skipped); equals files harvested plus files not run,09_build_docx.R,text
+text_models_rows_total,21,rows,"Estimates reported across Table 3 and Supplementary Table 2: the primary row, the Table 3 rows and the Supplement rows",09_build_docx.R,text
+text_fig3_doublings,8.40443631865572,doublings,Doublings of orthopaedic surgeon density between the 5th and 95th percentile (log2 of the density ratio),09_build_docx.R,text
+text_fig3_diff_points,-5.28876007032921,percentage points,"Predicted in-network denial probability at the 95th minus the 5th percentile of density, in percentage points",09_build_docx.R,text
+text_fig3_diff_points_lo,-19.1689733301047,percentage points,"Lower 95 percent limit of the Fig 3 difference, in percentage points",09_build_docx.R,text
+text_fig3_diff_points_hi,8.59145318944624,percentage points,"Upper 95 percent limit of the Fig 3 difference, in percentage points",09_build_docx.R,text
+text_residual_exposure_sd,0.437507346592697,doublings,"SD of the primary exposure (log2 density) after removing log2 reported enrollment, plan type, metal group and issuer effects, in doublings (read from results/sap_check_identifying_summary.csv, metric sd_of_residual_exposure_doublings; 05b_sap_checks.R)",09_build_docx.R,text
+text_software_r,4.6.0,version,R version used by 06_models.R (read from logs/wp6b_models.log),09_build_docx.R,text
+text_software_sandwich,3.1.1,version,sandwich package version used by 06_models.R (read from logs/wp6b_models.log),09_build_docx.R,text
+text_software_lme4,2.0.1,version,lme4 package version used by 06_models.R (read from logs/wp6b_models.log),09_build_docx.R,text
+design_alpha,0.05,probability,Two-sided significance level for the single primary hypothesis,05b_sap_checks.R,design
+design_ci_level,0.95,proportion,Confidence level for every interval,05b_sap_checks.R,design
+design_seed,20261028,integer,Random seed (study_config.yaml),05b_sap_checks.R,design
+design_holm_family_size,2,count,Holm family: surgeon share of listed clinicians and APC-inclusive density; primary not adjusted,05b_sap_checks.R,design
+design_informative_issuer_k,33,count,Informative issuers in the analytic sample (at least 2 plans and at least 2 distinct surgeon counts),05b_sap_checks.R,design
+design_informative_issuer_threshold,30,count,K at or above this selects issuer fixed effects as the primary model,05b_sap_checks.R,design
+design_primary_model,issuer_fe,text,Primary model selected by the decision rule: issuer_fe or state_fe,05b_sap_checks.R,design
+design_density_per,10000,enrollees,"Density denominator: surgeons per 10,000 reported average monthly enrollees",05b_sap_checks.R,design
+design_zero_offset_needed,0,indicator,1 if the primary exposure has an exact zero in the analytic sample,05b_sap_checks.R,design
+design_zero_offset,0,density units,Offset added before log2 for the primary exposure (0 when no exact zero exists),05b_sap_checks.R,design
+design_zero_offset_needed_controls,1,indicator,1 if a negative-control exposure has an exact zero in the analytic sample,05b_sap_checks.R,design
+design_zero_offset_derm,0,density units,Offset for the dermatology control density (0 when no exact zero exists),05b_sap_checks.R,design
+design_zero_offset_ophth,49.1096016155682,density units,Offset for the ophthalmology control density: half the smallest positive density in the analytic sample (5 exact zeros),05b_sap_checks.R,design
+design_zero_count_ophth_analytic,5,plans,Analytic plans with an exact zero ophthalmology count,05b_sap_checks.R,design
+design_primary_adjusts_enrollment,1,indicator,1 if the primary model adjusts for log2 reported enrollment (decided from the exposure diagnostics),05b_sap_checks.R,design
+design_metal_pool_min_plans,20,plans,Metal levels with fewer analytic plans are pooled with the adjacent level,05b_sap_checks.R,design
+design_metal_pooled_levels,Catastrophic;Platinum,text,"Metal levels pooled (Catastrophic into Bronze, Platinum into Gold)",05b_sap_checks.R,design
+design_suppression_lower,1,claim lines or enrollees,Lower bound for a ** cell,05b_sap_checks.R,design
+design_suppression_mid,5.5,claim lines or enrollees,Midpoint bound for a ** cell (Supplement),05b_sap_checks.R,design
+design_suppression_upper,10,claim lines or enrollees,Upper bound for a ** cell,05b_sap_checks.R,design
+design_control_reading_ratio,0.5,ratio,Negative-control reading rule: same sign and at least this fraction of the orthopaedic estimate,05b_sap_checks.R,design
+design_fig3_bins,8,count,Equal-count bins of plans for the raw data in Fig 3,05b_sap_checks.R,design
+design_fig3_lower_quantile,0.05,probability,Lower quantile of log2 density for the Fig 3 curve,05b_sap_checks.R,design
+design_fig3_upper_quantile,0.95,probability,Upper quantile of log2 density for the Fig 3 curve,05b_sap_checks.R,design
+design_min_claims_exclusion,10000,claim lines,Sensitivity: exclude issuers with fewer in-network claim lines than this,05b_sap_checks.R,design
+design_n_sensitivity_rows,12,count,Sensitivity rows in Table 3 (plus the primary row),05b_sap_checks.R,design
+design_n_supplement_rows,8,count,Pre-specified rows reported in the Supplement only,05b_sap_checks.R,design
+design_sens_row_codes,sens_a;sens_b;sens_c;sens_d;sens_e;sens_f;sens_g;sens_h;sens_i;sens_j;sens_k;sens_l,text,Table 3 row codes in display order,05b_sap_checks.R,design
+design_supplement_row_codes,sens_m;sens_n;sens_o;sens_p;sens_q;sens_r;sens_s;sens_t,text,Supplement-only row codes in display order,05b_sap_checks.R,design
+design_ok_plans_enrollment_star2,494,plans,Exposure-ok plans whose enrollment is the ** marker (added back in the enrollment-bound rows),05b_sap_checks.R,design
+design_density_median_analytic,46751.5923566879,"surgeons per 10,000 reported enrollees","Median primary density, analytic sample",05b_sap_checks.R,design
+design_reported_enrollment_median,97,enrollees,"Median reported average monthly enrollment, analytic sample",05b_sap_checks.R,design
+design_largest_issuer_share,0.226055919095776,proportion,Largest issuer's share of analytic plans,05b_sap_checks.R,design
+design_largest_issuer_id,33602,issuer id,Issuer with the most analytic plans (sens_r leaves it out),05b_sap_checks.R,design
+design_leverage_top1_issuer,46944,issuer id,Issuer with the largest share of the identifying variation (sens_d leaves it out),05b_sap_checks.R,design
+design_leverage_top1_share,0.310272406946944,proportion,Top-1 issuer's share of the residual sum of squares of the primary exposure,05b_sap_checks.R,design
+design_leverage_top2_issuer,33602,issuer id,Issuer with the second largest share,05b_sap_checks.R,design
+design_leverage_top2_share,0.206145959590468,proportion,Top-2 share,05b_sap_checks.R,design
+design_leverage_top3_issuer,38166,issuer id,Issuer with the third largest share,05b_sap_checks.R,design
+design_leverage_top3_share,0.103244628142621,proportion,Top-3 share,05b_sap_checks.R,design
+design_effective_issuers,6.23221923618611,issuers,"Effective number of issuers, inverse Herfindahl of the shares (unweighted by claims)",05b_sap_checks.R,design
+design_t_interval_df,32,degrees of freedom,Degrees of freedom of the conservative t interval (K - 1),05b_sap_checks.R,design
+design_partial_corr_derm,0.960616388470179,correlation,"Partial correlation of orthopaedic and dermatology log2 density after log2 enrollment, plan type, metal group and issuer effects",05b_sap_checks.R,design
+design_partial_corr_ophth,0.78395846872836,correlation,"Partial correlation with ophthalmology log2 density (frozen offset definition, all analytic plans)",05b_sap_checks.R,design
+design_partial_corr_ophth_positive,0.753479796011878,correlation,"Same, restricted to plans with a positive ophthalmology count",05b_sap_checks.R,design
+design_spearman_ortho_derm,0.982743782883377,correlation,Raw Spearman correlation of orthopaedic and dermatology log2 density,05b_sap_checks.R,design
+design_spearman_ortho_ophth,0.838798273628226,correlation,Raw Spearman correlation with ophthalmology log2 density (plans with a positive count),05b_sap_checks.R,design
+design_noncohort_plans,1632,plans,Plans in the plan table outside the cohort (exposure-side count only),05b_sap_checks.R,design
+design_noncohort_with_donor,723,plans,Outside-cohort plans with an agreeing donor network (upper bound for 9.4),05b_sap_checks.R,design
+design_noncohort_with_donor_numeric_enrollment,7,plans,"Same, with numeric enrollment (upper bound for 9.4)",05b_sap_checks.R,design
+design_largest_informative_issuer_share,0.41896361631753,proportion,Largest informative issuer's share of plans in informative issuers,05b_sap_checks.R,design
+design_spearman_density_enrollment,-0.76713489810932,correlation,"Spearman correlation of log2 density with log2 reported enrollment, analytic sample",05b_sap_checks.R,design
+design_cohort_plans,2527,plans,"Cohort plans (computable outcome), rows of plan_exposure.csv",05b_sap_checks.R,design
+design_exposure_ok_plans,2175,plans,Plans with exposure_status ok,05b_sap_checks.R,design
+design_exposure_ok_issuers,136,issuers,Issuers with at least one exposure-ok plan,05b_sap_checks.R,design
+design_exposure_ok_states,30,states,States with at least one exposure-ok plan,05b_sap_checks.R,design
+design_enrollment_free_plans,2175,plans,Plans in the enrollment-free exposure set (exposure ok),05b_sap_checks.R,design
+design_analytic_plans,1681,plans,Analytic sample: exposure ok and numeric reported enrollment,05b_sap_checks.R,design
+design_analytic_issuers,135,issuers,Issuers in the analytic sample,05b_sap_checks.R,design
+design_analytic_states,30,states,States in the analytic sample,05b_sap_checks.R,design
+design_analytic_issuer_states,135,issuer-states,Issuer-states in the analytic sample,05b_sap_checks.R,design
+design_issuers_ge2_plans,129,issuers,Analytic issuers with at least 2 plans,05b_sap_checks.R,design
+design_informative_issuer_plans,907,plans,Analytic plans in informative issuers,05b_sap_checks.R,design
+design_k_enrollment_free,34,count,Informative issuers in the enrollment-free set (diagnostic only),05b_sap_checks.R,design
+design_within_issuer_share_count,0.0683259856966345,proportion,Share of within-issuer variance of log2 density carried by log2 surgeon count,05b_sap_checks.R,design
+design_within_issuer_share_enrollment,0.908688384237133,proportion,Share carried by log2 reported enrollment,05b_sap_checks.R,design
+design_within_issuer_share_covariance,0.0229856300662326,proportion,Share carried by the covariance term,05b_sap_checks.R,design
+design_nppes_http_status,404,HTTP code,Highest status of the NPPES monthly zip HEAD requests at the freeze,05b_sap_checks.R,design
+design_crosswalk_sha256,1a68c6dda9eda57ceb9870a7fd24b4fa940e3cbc08bcf523942cb810b96e8cb1,text,SHA-256 of config/specialty_text_crosswalk.csv,05b_sap_checks.R,design
+design_taxonomy_sha256,80797db7189b74309d524255cc09a9144985a9ec0356ba979429660aa00dc492,text,SHA-256 of config/ortho_taxonomy.csv,05b_sap_checks.R,design
+design_ppv_surgeon_text,0.85,proportion,PPV of the surgeon-text flag for any 207X code (ledger_ortho),05b_sap_checks.R,design
+design_ppv_surgeon_text_lo,0.8052,proportion,Wilson lower limit,05b_sap_checks.R,design
+design_ppv_surgeon_text_hi,0.886,proportion,Wilson upper limit,05b_sap_checks.R,design
+design_ppv_derm,0.92,proportion,PPV of the dermatology-text flag for any 207N code,05b_sap_checks.R,design
+design_ppv_derm_lo,0.8116,proportion,Wilson lower limit,05b_sap_checks.R,design
+design_ppv_derm_hi,0.9685,proportion,Wilson upper limit,05b_sap_checks.R,design
+design_ppv_ophth,0.98,proportion,PPV of the ophthalmology-text flag for any 207W code,05b_sap_checks.R,design
+design_ppv_ophth_lo,0.895,proportion,Wilson lower limit,05b_sap_checks.R,design
+design_ppv_ophth_hi,0.9965,proportion,Wilson upper limit,05b_sap_checks.R,design

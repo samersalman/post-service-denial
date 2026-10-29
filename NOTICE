@@ -1,0 +1,33 @@
+Third-party notices
+
+This file lists material that this repository uses or refers to and that is not
+covered by the MIT license in the LICENSE file.
+
+1. CMS public data
+The files in v1/data_clean/cms are parsed from the Marketplace public use files
+published by the Centers for Medicare and Medicaid Services (Transparency in
+Coverage, Plan Attributes and Machine-readable URL files, plan year 2026). These
+are U.S. federal public data. The raw files are not redistributed; retrieval
+times and SHA-256 hashes are in v1/data_raw/provenance/manifest.csv.
+
+2. Issuer provider files
+v1/data_clean/ortho holds counts derived from the machine-readable provider files
+that issuers publish for CMS. Only NPI-level tabulations (distinct counts per plan)
+and a vocabulary of specialty labels were kept. No clinician names, addresses or
+other personal details are stored in this repository, and the individual provider
+files are not redistributed.
+
+3. NPI Registry
+A stratified sample of NPIs was checked against the public NPI Registry API
+(https://npiregistry.cms.hhs.gov/api/). Only taxonomy-code tabulations are kept.
+
+4. NUCC Health Care Provider Taxonomy
+v1/config/ortho_taxonomy.csv lists the 22 taxonomy codes (orthopaedic, dermatology
+and ophthalmology families) and their display names used for identification. The
+code set is maintained by the National Uniform Claim Committee (https://nucc.org,
+version 26.1). Obtain the full code set from the NUCC.
+
+5. KFF
+The KFF brief on claims denials and appeals in ACA Marketplace plans in 2024 was
+used as the replication benchmark. No KFF data file is redistributed; the
+comparison is in v1/qa/g2_reconciliation.md.

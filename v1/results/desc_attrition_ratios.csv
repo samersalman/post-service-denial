@@ -1,0 +1,17 @@
+ratio_id,network,numerator,denominator,scale_label,scale,n_issuers_matched,n_issuers_excluded_anomalous,numerator_sum,denominator_sum,ratio
+resubmitted_per1000_denied_in_network,in_network,Claim lines resubmitted (in-network),Claim lines denied (in-network),"per 1,000 denied claim lines",1000,157,0,32111793,84502662,380.00924751932666
+internal_appeals_filed_per1000_denied_in_network,in_network,Internal appeals filed,Claim lines denied (in-network),"per 1,000 denied claim lines",1000,147,0,262982,83274409,3.1580170085626187
+internal_appeals_overturned_per1000_denied_in_network,in_network,Internal appeals overturned,Claim lines denied (in-network),"per 1,000 denied claim lines",1000,138,0,85807,77840910,1.1023380893157595
+external_appeals_filed_per1000_denied_in_network,in_network,External appeals filed,Claim lines denied (in-network),"per 1,000 denied claim lines",1000,100,0,5881,65083331,0.09036107878375187
+external_appeals_overturned_per1000_denied_in_network,in_network,External appeals overturned,Claim lines denied (in-network),"per 1,000 denied claim lines",1000,107,0,1929,69452306,0.027774455753852147
+resubmitted_per1000_denied_combined,combined,Claim lines resubmitted (in-network plus out-of-network),Claim lines denied (in-network plus out-of-network),"per 1,000 denied claim lines",1000,153,2,35062086,100733640,348.06729906712394
+internal_appeals_filed_per1000_denied_combined,combined,Internal appeals filed,Claim lines denied (in-network plus out-of-network),"per 1,000 denied claim lines",1000,145,2,262770,99385128,2.643956950983652
+internal_appeals_overturned_per1000_denied_combined,combined,Internal appeals overturned,Claim lines denied (in-network plus out-of-network),"per 1,000 denied claim lines",1000,136,2,85711,93045186,0.9211760831989739
+external_appeals_filed_per1000_denied_combined,combined,External appeals filed,Claim lines denied (in-network plus out-of-network),"per 1,000 denied claim lines",1000,98,2,5881,75402073,0.07799520312922961
+external_appeals_overturned_per1000_denied_combined,combined,External appeals overturned,Claim lines denied (in-network plus out-of-network),"per 1,000 denied claim lines",1000,105,2,1929,80849958,0.02385901053900362
+resubmitted_per1000_denied_out_of_network,out_of_network,Claim lines resubmitted (out-of-network),Claim lines denied (out-of-network),"per 1,000 denied claim lines",1000,153,2,2974832,16392221,181.47827557961793
+denial_rate_in_network,in_network,Claim lines denied (in-network),Claim lines received (in-network),proportion,1,158,0,84502749,451249751,0.18726381302756664
+denial_rate_out_of_network,out_of_network,Claim lines denied (out-of-network),Claim lines received (out-of-network),proportion,1,157,2,16392620,44354433,0.3695824496279774
+denial_rate_combined,combined,Claim lines denied (in-network plus out-of-network),Claim lines received (in-network plus out-of-network),proportion,1,156,2,100769125,494717817,0.20369010683922872
+internal_overturned_per1000_internal_filed,not_split,Internal appeals overturned,Internal appeals filed,"per 1,000 internal appeals filed",1000,135,0,85807,255373,336.006547285735
+external_overturned_per1000_external_filed,not_split,External appeals overturned,External appeals filed,"per 1,000 external appeals filed",1000,83,0,1929,5406,356.82574916759154

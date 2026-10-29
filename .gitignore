@@ -1,0 +1,13 @@
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+CACHE/
+v1/data_raw/*
+!v1/data_raw/provenance/
+v1/manuscript/
+*.docx
+v1/figures/captions/*.txt
+v1/tables/captions/*.txt
+v1/logs/*.log

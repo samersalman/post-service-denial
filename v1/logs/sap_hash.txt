@@ -1,0 +1,6 @@
+177c37ba611698584809b71c80b1d78d7c15caf65096d55a7dd831472509b6dd  config/sap_frozen.md
+2b70acf87c2e1e6929b0fd1aa949250ec1ab6378ed027a50a5ff5421cf815543  config/design_constants.csv
+1a68c6dda9eda57ceb9870a7fd24b4fa940e3cbc08bcf523942cb810b96e8cb1  config/specialty_text_crosswalk.csv
+80797db7189b74309d524255cc09a9144985a9ec0356ba979429660aa00dc492  config/ortho_taxonomy.csv
+frozen_at: 2026-10-28T18:26:36-05:00
+frozen_by: WP5-F5

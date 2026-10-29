@@ -1,0 +1,80 @@
+key,value,unit,description,source_script
+design_alpha,0.05,probability,Two-sided significance level for the single primary hypothesis,05b_sap_checks.R
+design_ci_level,0.95,proportion,Confidence level for every interval,05b_sap_checks.R
+design_seed,20261028,integer,Random seed (study_config.yaml),05b_sap_checks.R
+design_holm_family_size,2,count,Holm family: surgeon share of listed clinicians and APC-inclusive density; primary not adjusted,05b_sap_checks.R
+design_informative_issuer_k,33,count,Informative issuers in the analytic sample (at least 2 plans and at least 2 distinct surgeon counts),05b_sap_checks.R
+design_informative_issuer_threshold,30,count,K at or above this selects issuer fixed effects as the primary model,05b_sap_checks.R
+design_primary_model,issuer_fe,text,Primary model selected by the decision rule: issuer_fe or state_fe,05b_sap_checks.R
+design_density_per,10000,enrollees,"Density denominator: surgeons per 10,000 reported average monthly enrollees",05b_sap_checks.R
+design_zero_offset_needed,0,indicator,1 if the primary exposure has an exact zero in the analytic sample,05b_sap_checks.R
+design_zero_offset,0,density units,Offset added before log2 for the primary exposure (0 when no exact zero exists),05b_sap_checks.R
+design_zero_offset_needed_controls,1,indicator,1 if a negative-control exposure has an exact zero in the analytic sample,05b_sap_checks.R
+design_zero_offset_derm,0,density units,Offset for the dermatology control density (0 when no exact zero exists),05b_sap_checks.R
+design_zero_offset_ophth,49.1096016155682,density units,Offset for the ophthalmology control density: half the smallest positive density in the analytic sample (5 exact zeros),05b_sap_checks.R
+design_zero_count_ophth_analytic,5,plans,Analytic plans with an exact zero ophthalmology count,05b_sap_checks.R
+design_primary_adjusts_enrollment,1,indicator,1 if the primary model adjusts for log2 reported enrollment (decided from the exposure diagnostics),05b_sap_checks.R
+design_metal_pool_min_plans,20,plans,Metal levels with fewer analytic plans are pooled with the adjacent level,05b_sap_checks.R
+design_metal_pooled_levels,Catastrophic;Platinum,text,"Metal levels pooled (Catastrophic into Bronze, Platinum into Gold)",05b_sap_checks.R
+design_suppression_lower,1,claim lines or enrollees,Lower bound for a ** cell,05b_sap_checks.R
+design_suppression_mid,5.5,claim lines or enrollees,Midpoint bound for a ** cell (Supplement),05b_sap_checks.R
+design_suppression_upper,10,claim lines or enrollees,Upper bound for a ** cell,05b_sap_checks.R
+design_control_reading_ratio,0.5,ratio,Negative-control reading rule: same sign and at least this fraction of the orthopaedic estimate,05b_sap_checks.R
+design_fig3_bins,8,count,Equal-count bins of plans for the raw data in Fig 3,05b_sap_checks.R
+design_fig3_lower_quantile,0.05,probability,Lower quantile of log2 density for the Fig 3 curve,05b_sap_checks.R
+design_fig3_upper_quantile,0.95,probability,Upper quantile of log2 density for the Fig 3 curve,05b_sap_checks.R
+design_min_claims_exclusion,10000,claim lines,Sensitivity: exclude issuers with fewer in-network claim lines than this,05b_sap_checks.R
+design_n_sensitivity_rows,12,count,Sensitivity rows in Table 3 (plus the primary row),05b_sap_checks.R
+design_n_supplement_rows,8,count,Pre-specified rows reported in the Supplement only,05b_sap_checks.R
+design_sens_row_codes,sens_a;sens_b;sens_c;sens_d;sens_e;sens_f;sens_g;sens_h;sens_i;sens_j;sens_k;sens_l,text,Table 3 row codes in display order,05b_sap_checks.R
+design_supplement_row_codes,sens_m;sens_n;sens_o;sens_p;sens_q;sens_r;sens_s;sens_t,text,Supplement-only row codes in display order,05b_sap_checks.R
+design_ok_plans_enrollment_star2,494,plans,Exposure-ok plans whose enrollment is the ** marker (added back in the enrollment-bound rows),05b_sap_checks.R
+design_density_median_analytic,46751.5923566879,"surgeons per 10,000 reported enrollees","Median primary density, analytic sample",05b_sap_checks.R
+design_reported_enrollment_median,97,enrollees,"Median reported average monthly enrollment, analytic sample",05b_sap_checks.R
+design_largest_issuer_share,0.226055919095776,proportion,Largest issuer's share of analytic plans,05b_sap_checks.R
+design_largest_issuer_id,33602,issuer id,Issuer with the most analytic plans (sens_r leaves it out),05b_sap_checks.R
+design_leverage_top1_issuer,46944,issuer id,Issuer with the largest share of the identifying variation (sens_d leaves it out),05b_sap_checks.R
+design_leverage_top1_share,0.310272406946944,proportion,Top-1 issuer's share of the residual sum of squares of the primary exposure,05b_sap_checks.R
+design_leverage_top2_issuer,33602,issuer id,Issuer with the second largest share,05b_sap_checks.R
+design_leverage_top2_share,0.206145959590468,proportion,Top-2 share,05b_sap_checks.R
+design_leverage_top3_issuer,38166,issuer id,Issuer with the third largest share,05b_sap_checks.R
+design_leverage_top3_share,0.103244628142621,proportion,Top-3 share,05b_sap_checks.R
+design_effective_issuers,6.23221923618611,issuers,"Effective number of issuers, inverse Herfindahl of the shares (unweighted by claims)",05b_sap_checks.R
+design_t_interval_df,32,degrees of freedom,Degrees of freedom of the conservative t interval (K - 1),05b_sap_checks.R
+design_partial_corr_derm,0.960616388470179,correlation,"Partial correlation of orthopaedic and dermatology log2 density after log2 enrollment, plan type, metal group and issuer effects",05b_sap_checks.R
+design_partial_corr_ophth,0.78395846872836,correlation,"Partial correlation with ophthalmology log2 density (frozen offset definition, all analytic plans)",05b_sap_checks.R
+design_partial_corr_ophth_positive,0.753479796011878,correlation,"Same, restricted to plans with a positive ophthalmology count",05b_sap_checks.R
+design_spearman_ortho_derm,0.982743782883377,correlation,Raw Spearman correlation of orthopaedic and dermatology log2 density,05b_sap_checks.R
+design_spearman_ortho_ophth,0.838798273628226,correlation,Raw Spearman correlation with ophthalmology log2 density (plans with a positive count),05b_sap_checks.R
+design_noncohort_plans,1632,plans,Plans in the plan table outside the cohort (exposure-side count only),05b_sap_checks.R
+design_noncohort_with_donor,723,plans,Outside-cohort plans with an agreeing donor network (upper bound for 9.4),05b_sap_checks.R
+design_noncohort_with_donor_numeric_enrollment,7,plans,"Same, with numeric enrollment (upper bound for 9.4)",05b_sap_checks.R
+design_largest_informative_issuer_share,0.41896361631753,proportion,Largest informative issuer's share of plans in informative issuers,05b_sap_checks.R
+design_spearman_density_enrollment,-0.76713489810932,correlation,"Spearman correlation of log2 density with log2 reported enrollment, analytic sample",05b_sap_checks.R
+design_cohort_plans,2527,plans,"Cohort plans (computable outcome), rows of plan_exposure.csv",05b_sap_checks.R
+design_exposure_ok_plans,2175,plans,Plans with exposure_status ok,05b_sap_checks.R
+design_exposure_ok_issuers,136,issuers,Issuers with at least one exposure-ok plan,05b_sap_checks.R
+design_exposure_ok_states,30,states,States with at least one exposure-ok plan,05b_sap_checks.R
+design_enrollment_free_plans,2175,plans,Plans in the enrollment-free exposure set (exposure ok),05b_sap_checks.R
+design_analytic_plans,1681,plans,Analytic sample: exposure ok and numeric reported enrollment,05b_sap_checks.R
+design_analytic_issuers,135,issuers,Issuers in the analytic sample,05b_sap_checks.R
+design_analytic_states,30,states,States in the analytic sample,05b_sap_checks.R
+design_analytic_issuer_states,135,issuer-states,Issuer-states in the analytic sample,05b_sap_checks.R
+design_issuers_ge2_plans,129,issuers,Analytic issuers with at least 2 plans,05b_sap_checks.R
+design_informative_issuer_plans,907,plans,Analytic plans in informative issuers,05b_sap_checks.R
+design_k_enrollment_free,34,count,Informative issuers in the enrollment-free set (diagnostic only),05b_sap_checks.R
+design_within_issuer_share_count,0.0683259856966345,proportion,Share of within-issuer variance of log2 density carried by log2 surgeon count,05b_sap_checks.R
+design_within_issuer_share_enrollment,0.908688384237133,proportion,Share carried by log2 reported enrollment,05b_sap_checks.R
+design_within_issuer_share_covariance,0.0229856300662326,proportion,Share carried by the covariance term,05b_sap_checks.R
+design_nppes_http_status,404,HTTP code,Highest status of the NPPES monthly zip HEAD requests at the freeze,05b_sap_checks.R
+design_crosswalk_sha256,1a68c6dda9eda57ceb9870a7fd24b4fa940e3cbc08bcf523942cb810b96e8cb1,text,SHA-256 of config/specialty_text_crosswalk.csv,05b_sap_checks.R
+design_taxonomy_sha256,80797db7189b74309d524255cc09a9144985a9ec0356ba979429660aa00dc492,text,SHA-256 of config/ortho_taxonomy.csv,05b_sap_checks.R
+design_ppv_surgeon_text,0.85,proportion,PPV of the surgeon-text flag for any 207X code (ledger_ortho),05b_sap_checks.R
+design_ppv_surgeon_text_lo,0.8052,proportion,Wilson lower limit,05b_sap_checks.R
+design_ppv_surgeon_text_hi,0.886,proportion,Wilson upper limit,05b_sap_checks.R
+design_ppv_derm,0.92,proportion,PPV of the dermatology-text flag for any 207N code,05b_sap_checks.R
+design_ppv_derm_lo,0.8116,proportion,Wilson lower limit,05b_sap_checks.R
+design_ppv_derm_hi,0.9685,proportion,Wilson upper limit,05b_sap_checks.R
+design_ppv_ophth,0.98,proportion,PPV of the ophthalmology-text flag for any 207W code,05b_sap_checks.R
+design_ppv_ophth_lo,0.895,proportion,Wilson lower limit,05b_sap_checks.R
+design_ppv_ophth_hi,0.9965,proportion,Wilson upper limit,05b_sap_checks.R

@@ -1,0 +1,33 @@
+FUNNEL PLOT METHOD (written by 05_descriptives.R; numbers are from this run)
+
+Population: Individual QHP issuers (2024 claims, PY2026 Transparency PUF) with a reported numeric in-network claims received count AND a reported numeric in-network claims denied count.
+Issuers in file 185; excluded: 26 with N/A issuer-level claims (new to the Exchange) and 1 with a suppressed (**) in-network denied count; plotted: 158 (157 of them with more than 1,000 in-network claims).
+No imputation: an excluded issuer has no value. Each issuer is in exactly one state, so issuer-state equals issuer.
+
+Notation: n_i = in-network claim lines received, y_i = denied, p_i = y_i / n_i, I = number of issuers.
+  p0   = sum(y) / sum(n)                       pooled rate (target and centre line)
+  se_i = sqrt(p0 (1 - p0) / n_i)               column se_binomial
+  z_i  = (p_i - p0) / se_i                     column z
+  zw_i = min(max(z_i, q10), q90)               column z_winsorised; q10 and q90 are the 10th and 90th percentiles of z (stats::quantile type 7)
+  w_i  = 1 / se_i^2 ;  Q = sum(zw_i^2) ;  phi = Q / I                        multiplicative factor
+  tau2 = max(0, (Q - (I - 1)) / (sum(w) - sum(w^2) / sum(w)))                 additive overdispersion (DerSimonian-Laird form)
+Limits at level L with zc = qnorm(1 - (1 - L) / 2):
+  without overdispersion term: p0 +/- zc * se_i
+  with additive term:          p0 +/- zc * sqrt(se_i^2 + tau2)
+  zc = 1.9600 (95 percent) and 3.0902 (99.8 percent). Outside means strictly below the lower or above the upper limit. Limits are unclipped.
+
+Provenance: a Spiegelhalter-style funnel plot (candidate references spiegelhalter2005 and spiegelhalter2005qshc, both verified at abstract level only).
+The 95 and 99.8 percent levels, the 10 percent Winsorisation and the exact formulas above are analyst choices and must not be attributed to those papers.
+
+RESULTS
+  pooled rate p0 = 0.18726 ; issuer rates range 0.0270 to 0.3565 (median 0.1900)
+  Winsorising bounds on z: -228.06 to 148.67 ; Q = 2175800.3 ; phi (multiplicative factor) = 13770.9
+  tau2 (additive) = 0.000763493, tau = 0.0276 on the proportion scale (2.76 percentage points)
+  outside the 95 percent limits: 157 without, 56 with the additive term (multiplicative: 19)
+  outside the 99.8 percent limits: 156 without, 34 with the additive term (15 above, 19 below; multiplicative: 8)
+
+SENSITIVITY (not the primary result)
+  Without Winsorising, tau2 = 0.00172546 (tau = 0.0415) and phi = 31120.3; outside the additive limits: 39 at 95 percent, 8 at 99.8 percent.
+  Winsorising clips the largest z (the biggest issuers) but the weights are not clipped, so the Winsorised tau2 is the smaller one and flags more issuers.
+  The additive term is on the proportion scale and is one common value for all issuers; issuers with very large volumes dominate the weights.
+

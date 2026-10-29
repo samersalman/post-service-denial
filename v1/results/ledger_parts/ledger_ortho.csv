@@ -1,0 +1,106 @@
+key,value,unit,description,source_script
+ortho_files_total,828,files,Distinct provider file URLs in the inventory,04_ortho_harvest.R
+ortho_files_ok,755,files,Provider files harvested successfully,04_ortho_harvest.R
+ortho_files_failed,0,files,"Provider files that failed after retries (excluded, never partially counted)",04_ortho_harvest.R
+ortho_files_skipped,29,files,Files skipped because no issuer sharing the index has a computable cohort plan,04_ortho_harvest.R
+ortho_files_not_run,44,files,Files not run (transfer or disk guard),04_ortho_harvest.R
+ortho_wire_gb,62.667623831,GB,Cumulative wire bytes of all attempts including calibration (decimal GB),04_ortho_harvest.R
+ortho_decoded_gb,112.518752262,GB,Cumulative decoded bytes streamed through the filter (decimal GB),04_ortho_harvest.R
+ortho_wall_clock_hours,3.88888888888889,hours,Elapsed time from first to last stream attempt,04_ortho_harvest.R
+ortho_issuers_harvested,136,issuers,Cohort issuers whose provider files were all harvested,04_ortho_harvest.R
+ortho_cohort_plans_listed,2256,plans,Cohort plans with a directory listing in any harvested file,04_ortho_harvest.R
+ortho_cohort_plans_listed_share,0.892758211317768,proportion,"Share of the 2,527 cohort plans with a directory listing",04_ortho_harvest.R
+ortho_cohort_plans_ok,2175,plans,Cohort plans with exposure status ok,04_ortho_harvest.R
+ortho_cohort_plans_ok_share,0.860704392560348,proportion,Share of cohort plans with exposure status ok,04_ortho_harvest.R
+ortho_issuer_states_ok,136,issuer-states,Issuer-states with at least one plan with exposure status ok,04_ortho_harvest.R
+ortho_yield_meets_g1,yes,text,Yield at least 60 issuer-states and 500 plans with exposure status ok,04_ortho_harvest.R
+ortho_individual_npis,1855094,NPIs,Distinct individual NPIs in harvested files (cohort or not),04_ortho_harvest.R
+ortho_individual_npis_cohort,1456452,NPIs,Distinct individual NPIs listed in at least one cohort plan,04_ortho_harvest.R
+ortho_surgeon_npis,22997,NPIs,Distinct NPIs flagged ortho_surgeon by the frozen text crosswalk,04_ortho_harvest.R
+ortho_apc_npis,2301,NPIs,"Distinct NPIs flagged ortho_apc (orthopaedic text with a PA, NP, APRN, nurse or assistant co-label)",04_ortho_harvest.R
+ortho_derm_npis,11651,NPIs,Distinct NPIs flagged dermatology by text,04_ortho_harvest.R
+ortho_ophth_npis,15703,NPIs,Distinct NPIs flagged ophthalmology by text,04_ortho_harvest.R
+ortho_surgeon_npis_cohort,19720,NPIs,ortho_surgeon NPIs listed in at least one cohort plan,04_ortho_harvest.R
+ortho_apc_npis_cohort,2185,NPIs,ortho_apc NPIs listed in at least one cohort plan,04_ortho_harvest.R
+ortho_derm_npis_cohort,9594,NPIs,Dermatology-text NPIs listed in at least one cohort plan,04_ortho_harvest.R
+ortho_ophth_npis_cohort,14031,NPIs,Ophthalmology-text NPIs listed in at least one cohort plan,04_ortho_harvest.R
+ortho_surgeon_per_plan_median,518,NPIs per plan,Median ortho_surgeon NPIs per plan with exposure status ok,04_ortho_harvest.R
+ortho_surgeon_per_plan_min,7,NPIs per plan,Minimum ortho_surgeon NPIs per plan with exposure status ok,04_ortho_harvest.R
+ortho_surgeon_per_plan_max,2407,NPIs per plan,Maximum ortho_surgeon NPIs per plan with exposure status ok,04_ortho_harvest.R
+ortho_nppes_reachable_start,no,text,NPPES monthly zip reachable at the start of the harvest,04_ortho_harvest.R
+ortho_nppes_reachable_end,no,text,NPPES monthly zip reachable after the harvest,04_ortho_harvest.R
+ortho_validation_route,NPI Registry API sample,text,G3 route used (b),04_ortho_harvest.R
+ortho_g3_verdict,PASS,text,G3 verdict under the WP4 operationalisation,04_ortho_harvest.R
+ortho_npi_found_share,0.994,proportion,Sampled unflagged individual NPIs (C1 and C2) found as active individuals in the NPI Registry,04_ortho_harvest.R
+ortho_npi_found_share_lo,0.9825,proportion,Wilson 95 percent lower limit,04_ortho_harvest.R
+ortho_npi_found_share_hi,0.998,proportion,Wilson 95 percent upper limit,04_ortho_harvest.R
+ortho_ppv_surgeon,0.85,proportion,Share of surgeon-text NPIs holding any 207X code,04_ortho_harvest.R
+ortho_ppv_surgeon_lo,0.8052,proportion,Wilson 95 percent lower limit,04_ortho_harvest.R
+ortho_ppv_surgeon_hi,0.886,proportion,Wilson 95 percent upper limit,04_ortho_harvest.R
+ortho_ppv_apc,0.06,proportion,Share of APC-text NPIs holding any 207X code,04_ortho_harvest.R
+ortho_sensitivity_surgeon,0.9295,proportion,Estimated sensitivity of the surgeon-text flag for any 207X,04_ortho_harvest.R
+ortho_sensitivity_surgeon_lo,0.6467,proportion,Monte Carlo (Jeffreys) 95 percent lower limit,04_ortho_harvest.R
+ortho_sensitivity_surgeon_hi,0.9907,proportion,Monte Carlo (Jeffreys) 95 percent upper limit,04_ortho_harvest.R
+ortho_ppv_apc_lo,0.0278,proportion,Wilson 95 percent lower limit,04_ortho_harvest.R
+ortho_ppv_apc_hi,0.1248,proportion,Wilson 95 percent upper limit,04_ortho_harvest.R
+ortho_ppv_derm,0.92,proportion,Share of derm-text NPIs holding any 207N code (PPV),04_ortho_harvest.R
+ortho_ppv_derm_lo,0.8116,proportion,Wilson 95 percent lower limit,04_ortho_harvest.R
+ortho_ppv_derm_hi,0.9685,proportion,Wilson 95 percent upper limit,04_ortho_harvest.R
+ortho_ppv_ophth,0.98,proportion,Share of ophth-text NPIs holding any 207W code (PPV),04_ortho_harvest.R
+ortho_ppv_ophth_lo,0.895,proportion,Wilson 95 percent lower limit,04_ortho_harvest.R
+ortho_ppv_ophth_hi,0.9965,proportion,Wilson 95 percent upper limit,04_ortho_harvest.R
+ortho_apc_physician_share,0.09,proportion,Share of APC-text NPIs holding a physician taxonomy code (20xxxxxxx),04_ortho_harvest.R
+ortho_apc_physician_share_lo,0.0481,proportion,Wilson 95 percent lower limit,04_ortho_harvest.R
+ortho_apc_physician_share_hi,0.1623,proportion,Wilson 95 percent upper limit,04_ortho_harvest.R
+ortho_apc_pa_share,0.79,proportion,Share of APC-text NPIs holding a physician assistant code (363A),04_ortho_harvest.R
+ortho_apc_pa_share_lo,0.7002,proportion,Wilson 95 percent lower limit,04_ortho_harvest.R
+ortho_apc_pa_share_hi,0.8583,proportion,Wilson 95 percent upper limit,04_ortho_harvest.R
+ortho_apc_np_share,0.18,proportion,Share of APC-text NPIs holding a nurse practitioner code (363L),04_ortho_harvest.R
+ortho_apc_np_share_lo,0.117,proportion,Wilson 95 percent lower limit,04_ortho_harvest.R
+ortho_apc_np_share_hi,0.2667,proportion,Wilson 95 percent upper limit,04_ortho_harvest.R
+ortho_sensitivity_surgeon_or_apc,0.9373,proportion,Estimated sensitivity of the surgeon or APC text flag for any 207X,04_ortho_harvest.R
+ortho_sensitivity_surgeon_or_apc_lo,0.6512,proportion,Monte Carlo (Jeffreys) 95 percent lower limit,04_ortho_harvest.R
+ortho_sensitivity_surgeon_or_apc_hi,0.9981,proportion,Monte Carlo (Jeffreys) 95 percent upper limit,04_ortho_harvest.R
+ortho_g3_sampled,1000,NPIs,NPIs sampled and queried in the NPI Registry validation,04_ortho_harvest.R
+ortho_g3_found_active,997,NPIs,Sampled NPIs found as active individuals (all strata),04_ortho_harvest.R
+ortho_g3_unflagged_sampled,500,NPIs,Unflagged sampled NPIs (strata C1 and C2),04_ortho_harvest.R
+ortho_g3_unflagged_found_active,497,NPIs,Unflagged sampled NPIs found as active individuals,04_ortho_harvest.R
+ortho_g3_unflagged_with_207x,0,NPIs,Unflagged sampled NPIs holding a 207X code (sensitivity events),04_ortho_harvest.R
+ortho_g3_surgeon_n,300,NPIs,Surgeon-text NPIs sampled and found active,04_ortho_harvest.R
+ortho_g3_surgeon_with_207x,255,NPIs,Surgeon-text NPIs holding a 207X code,04_ortho_harvest.R
+ortho_g3_apc_n,100,NPIs,APC-text NPIs sampled and found active,04_ortho_harvest.R
+ortho_g3_apc_with_207x,6,NPIs,APC-text NPIs holding a 207X code,04_ortho_harvest.R
+ortho_g3_surgeon_no207x_n,45,NPIs,Surgeon-text NPIs without a 207X code,04_ortho_harvest.R
+ortho_g3_surgeon_no207x_pa,18,NPIs,"Of those, holding a PA code (363A)",04_ortho_harvest.R
+ortho_g3_surgeon_no207x_np,8,NPIs,"Of those, holding an NP code (363L)",04_ortho_harvest.R
+ortho_g3_surgeon_no207x_other_physician,14,NPIs,"Of those, holding another physician code",04_ortho_harvest.R
+ortho_g3_surgeon_no207x_none,5,NPIs,"Of those, holding none of these",04_ortho_harvest.R
+ortho_cohort_plans,2527,plans,Cohort plans (computable in-network proportion),04_ortho_harvest.R
+ortho_cohort_issuers,149,issuers,Cohort issuers,04_ortho_harvest.R
+ortho_issuers_not_retrievable_universe,12,issuers,Issuers of the 185 whose index could not be fetched (12; one of them has no computable plan),04_ortho_harvest.R
+ortho_issuers_unreachable,11,issuers,Cohort issuers with status issuer_unreachable,04_ortho_harvest.R
+ortho_issuers_incomplete,2,issuers,Cohort issuers with status issuer_incomplete (some provider files not harvested),04_ortho_harvest.R
+ortho_plans_issuer_unreachable,263,plans,Cohort plans with status issuer_unreachable,04_ortho_harvest.R
+ortho_plans_issuer_incomplete,77,plans,Cohort plans with status issuer_incomplete,04_ortho_harvest.R
+ortho_plans_not_in_directory,8,plans,Cohort plans absent from every harvested file of a fully harvested issuer,04_ortho_harvest.R
+ortho_plans_no_individuals,4,plans,Cohort plans listed only in facility or group records,04_ortho_harvest.R
+ortho_states_ok,30,states,States with at least one plan with exposure status ok,04_ortho_harvest.R
+ortho_surgeon_per_plan_p05,90.4,NPIs per plan,5th percentile of ortho_surgeon NPIs per ok plan,04_ortho_harvest.R
+ortho_surgeon_per_plan_p95,1983,NPIs per plan,95th percentile of ortho_surgeon NPIs per ok plan,04_ortho_harvest.R
+ortho_surgeon_share_median,0.0133962264150943,proportion,"Median share of listed clinicians that are ortho_surgeon, ok plans",04_ortho_harvest.R
+ortho_surgeon_share_min,0.00147922558190124,proportion,"Minimum surgeon share, ok plans",04_ortho_harvest.R
+ortho_surgeon_share_max,0.0485214834177422,proportion,"Maximum surgeon share, ok plans",04_ortho_harvest.R
+ortho_apc_per_plan_median,70,NPIs per plan,Median ortho_apc NPIs per ok plan,04_ortho_harvest.R
+ortho_derm_per_plan_median,240,NPIs per plan,Median dermatology-text NPIs per ok plan,04_ortho_harvest.R
+ortho_ophth_per_plan_median,568,NPIs per plan,Median ophthalmology-text NPIs per ok plan,04_ortho_harvest.R
+ortho_individual_records,11800905,records,Individual records read in harvested files,04_ortho_harvest.R
+ortho_facility_records_ignored,5394448,records,FACILITY records ignored,04_ortho_harvest.R
+ortho_group_records_ignored,631031,records,GROUP records ignored (type not in the published schema),04_ortho_harvest.R
+ortho_not_run_listed_gb,12.7957927,GB,Listed (decoded) size of the files not run,04_ortho_harvest.R
+ortho_manifest_wire_gb,62.666298074,GB,Wire bytes of all attempts summed from the manifest (excludes the calibration downloads),04_ortho_harvest.R
+ortho_share_npis_mapped_ortho,0.0136370448074329,proportion,Share of individual NPIs mapped to an orthopaedic family (surgeon or APC),04_ortho_harvest.R
+ortho_share_npis_mapped_derm,0.00628054427430632,proportion,Share of individual NPIs mapped to dermatology,04_ortho_harvest.R
+ortho_share_npis_mapped_ophth,0.00846480016646057,proportion,Share of individual NPIs mapped to ophthalmology,04_ortho_harvest.R
+ortho_share_records_nucc_exact,0.706224988676716,proportion,"Share of individual records with at least one label exactly equal to a NUCC name (WP3 metric, 0.55 in the WP3 samples)",04_ortho_harvest.R
+ortho_share_npis_nucc_exact_any_record,0.809558976526257,proportion,Share of individual NPIs with at least one NUCC-exact record,04_ortho_harvest.R
+ortho_share_npis_nucc_exact_all_records,0.38165720982333,proportion,Share of individual NPIs whose every label of every record equals a NUCC name,04_ortho_harvest.R

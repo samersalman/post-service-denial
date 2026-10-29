@@ -1,0 +1,549 @@
+business_year,state,issuer_id,source_name,import_date,network_name,network_id,network_url,market_coverage,dental_only_plan,in_individual_qhp_tab
+2026,AK,21989,HIOS,2025-10-15,Delta Dental Premier,AKN001,,SHOP (Small Group),Yes,FALSE
+2026,AK,21989,HIOS,2025-10-15,Delta Dental PPO,AKN002,,SHOP (Small Group),Yes,FALSE
+2026,AK,21989,HIOS,2025-10-15,Delta Dental Premier - Individual,AKN003,https://www.deltadentalak.com/member/online-tools/find-a-provider,Individual,Yes,FALSE
+2026,AK,21989,HIOS,2025-10-15,Delta Dental PPO - Individual,AKN004,https://www.deltadentalak.com/member/online-tools/find-a-provider,Individual,Yes,FALSE
+2026,AK,38344,HIOS,2026-07-23,Legacy and Dental Select,AKN002,https://premera.sapphirecareselect.com/?ci=premeraak&network_id=46,Individual,No,TRUE
+2026,AK,38344,HIOS,2026-07-23,Dental Select,AKN003,https://premera.sapphirecareselect.com/?ci=premeraak&network_id=48,Individual,Yes,TRUE
+2026,AK,73836,HIOS,2025-10-15,Moda Select - individual,AKN002,https://www.modahealth.com/shop/provider-search/2026/medical/ak/ModaSelect,Individual,No,TRUE
+2026,AK,74819,HIOS,2025-11-10,BEST Life and Health National Network,AKN001,https://www.bestlife.com/Provider_Search/,Individual,Yes,FALSE
+2026,AL,12538,HIOS,2025-11-10,BEST Life and Health Network,ALN001,https://www.bestlife.com/Provider_Search/,Individual,Yes,FALSE
+2026,AL,17091,HIOS,2025-10-28,Individual Alabama,ALN001,https://www.hioscar.com/search/?networkId=067&year=2026,Individual,No,TRUE
+2026,AL,17540,HIOS,2025-12-16,DentalGuard Preferred - Individual,ALN001,https://dentalexchange.guardiandirect.com/find-a-dentist,Individual,Yes,FALSE
+2026,AL,28725,HIOS,2025-10-15,Renaissance Dental,ALN001,https://www.myrenproviders.com/,Individual,Yes,FALSE
+2026,AL,44580,HIOS,2025-10-15,HumanaDental PPO/Traditional Preferred,ALN001,https://www.humana.com/finder/search?customerId=1085&pfpkey=317,Individual,Yes,FALSE
+2026,AL,46363,HIOS,2025-10-15,Premier,ALN001,https://emihealth.com/ProviderSearch,Individual,Yes,FALSE
+2026,AL,46363,HIOS,2025-10-15,Advantage,ALN002,https://emihealth.com/ProviderSearch,Individual,Yes,FALSE
+2026,AL,46944,HIOS,2025-11-04,BCBSAL - Individual,ALN001,https://www.bcbsal.org/web/provider-finder,Individual,No,TRUE
+2026,AL,46944,HIOS,2025-11-04,Preferred Dental,ALN002,https://www.bcbsal.org/web/provider-finder,Individual,Yes,TRUE
+2026,AL,46944,HIOS,2025-11-04,HPN,ALN003,https://www.bcbsal.org/web/provider-finder,Individual,No,TRUE
+2026,AL,46944,HIOS,2025-11-04,BCBSAL - Small Group,ALN004,https://www.bcbsal.org/web/provider-finder,SHOP (Small Group),No,TRUE
+2026,AL,53932,HIOS,2025-10-15,Premier,ALN001,https://www.ambetterhealth.com/en/al/findadoc,Individual,No,TRUE
+2026,AL,60075,HIOS,2025-10-15,DenteMax,ALN001,https://www.truassure.com/find-a-provider,Individual,Yes,FALSE
+2026,AL,69461,HIOS,2025-10-15,Individual Exchange Benefit Plan Network,ALN011,https://www.uhc.com/xaldocfindoa2026,Individual,No,TRUE
+2026,AL,82285,HIOS,2026-07-28,Delta Dental PPO Pediatric Basic Plan,ALN001,https://www.deltadentalins.com/find-a-dentist/,Individual,Yes,FALSE
+2026,AL,82285,HIOS,2026-07-28,Delta Dental PPO Pediatric Basic Plan for Small Businesses,ALN002,https://www.deltadentalins.com/find-a-dentist/,SHOP (Small Group),Yes,FALSE
+2026,AR,13262,SERFF,2025-10-15,True Blue PPO,ARN001,https://www.healthadvantage-hmo.com/members/network-selection,Individual,No,TRUE
+2026,AR,26904,SERFF,2025-11-10,BEST Life and Health Network,ARN001,https://www.bestlife.com/Provider_Search/,Individual,Yes,FALSE
+2026,AR,28348,SERFF,2025-10-15,Delta Dental Premier + Delta Dental PPO,ARN001,https://www.deltadental.com/us/en/member/find-a-dentist.html,Individual,Yes,FALSE
+2026,AR,37903,SERFF,2025-10-15,Premier,ARN001,https://www.ambetterhealth.com/en/ar/findadoc,Individual,No,TRUE
+2026,AR,48772,SERFF,2025-10-15,True Blue PPO,ARN001,https://www.arkansasoctave.com/members/network-selection/,Individual,No,TRUE
+2026,AR,62141,SERFF,2025-10-15,Premier,ARN001,https://www.ambetterhealth.com/en/ar/findadoc,Individual,No,TRUE
+2026,AR,70525,SERFF,2025-10-15,Premier,ARN001,https://www.ambetterhealth.com/en/ar/findadoc,Individual,No,TRUE
+2026,AR,75293,SERFF,2025-10-15,True Blue PPO-Ind,ARN001,https://www.arkansasbluecross.com/members/network-selection,Individual,No,TRUE
+2026,AR,75293,SERFF,2025-10-15,True Blue Dental-Ind,ARN003,https://www.arkansasbluecross.com/providerdirectory/dentalselectppo,Individual,Yes,TRUE
+2026,AZ,12303,HIOS,2025-10-15,AZ Marketplace Network,AZN001,https://www.dentaquest.com/en/find-a-dentist,Individual,Yes,FALSE
+2026,AZ,13877,HIOS,2025-10-28,Individual Arizona,AZN001,https://www.hioscar.com/search/?networkId=018&year=2026,Individual,No,TRUE
+2026,AZ,17454,HIOS,2025-10-15,DentalGuard Preferred - Individual,AZN001,https://dentalexchange.guardiandirect.com/find-a-dentist,Individual,Yes,FALSE
+2026,AZ,24106,HIOS,2025-10-15,DenteMax,AZN001,https://www.truassure.com/find-a-provider,Individual,Yes,FALSE
+2026,AZ,30045,HIOS,2025-10-15,PPO Plus Premier,AZN001,https://www.deltadentalaz.com/forms/find-dentist/?plan=25&lockplan=1,Individual,Yes,FALSE
+2026,AZ,30045,HIOS,2025-10-15,PPO,AZN002,https://www.deltadentalaz.com/forms/find-dentist/?plan=20&lockplan=1,Individual,Yes,FALSE
+2026,AZ,34095,HIOS,2025-10-15,EssentialSmile Arizona - Total Care,AZN001,https://www.solsticecare.com/provider-search.aspx,Individual,Yes,FALSE
+2026,AZ,40702,HIOS,2025-10-15,Individual Exchange Benefit Plan Network,AZN011,https://www.uhc.com/xazdocfindg2026,Individual,No,TRUE
+2026,AZ,53613,HIOS,2025-10-15,Premier,AZN001,https://emihealth.com/ProviderSearch,Individual,Yes,FALSE
+2026,AZ,53613,HIOS,2025-10-15,Advantage,AZN002,https://emihealth.com/ProviderSearch,Individual,Yes,FALSE
+2026,AZ,53901,HIOS,2025-10-15,Focus,AZN001,https://www.azblue.com/focus,Individual,No,TRUE
+2026,AZ,53901,HIOS,2025-10-15,Neighborhood,AZN002,https://www.azblue.com/neighborhood,Individual,No,TRUE
+2026,AZ,53901,HIOS,2025-10-15,Focus + Prosano,AZN007,https://www.azblue.com/focus-prosano,Individual,No,TRUE
+2026,AZ,53901,HIOS,2025-10-15,ACA Health Choice,AZN008,https://www.azblue.com/acahealthchoice,Individual,No,TRUE
+2026,AZ,66105,HIOS,2025-10-15,HumanaDental PPO/Traditional Preferred,AZN001,https://www.humana.com/finder/search?customerId=1085&pfpkey=317,Individual,Yes,FALSE
+2026,AZ,68445,HIOS,2025-11-25,Antidote Arizona Network One,AZN001,http://antidotehealth.com/insurance/find-provider/az-2026,Individual,No,TRUE
+2026,AZ,77352,HIOS,2025-11-10,BEST Life and Health National Network,AZN001,https://www.bestlife.com/Provider_Search/,Individual,Yes,FALSE
+2026,AZ,82011,HIOS,2025-10-15,Smile Now Arizona - PPO,AZN012,https://www.solsticecare.com/provider-search.aspx,Individual,Yes,FALSE
+2026,AZ,85533,HIOS,2025-11-04,Imperial Value,AZN001,https://exchange.imperialhealthplan.com/arizona/hmo-exchange/online-provider-directory/,Individual,No,TRUE
+2026,AZ,86830,HIOS,2025-10-15,Arizona PPO Dental Network,AZN001,https://www.cigna.com/ifp-providers,Individual,Yes,FALSE
+2026,AZ,91450,HIOS,2025-10-15,Premier,AZN001,https://www.ambetterhealth.com/en/az/findadoc,Individual,No,TRUE
+2026,AZ,97667,HIOS,2025-10-15,Arizona Connect Network,AZN001,https://www.cigna.com/ifp-providers,Individual,No,TRUE
+2026,DE,26018,SERFF,2026-07-21,Delta Dental PPO Individual,DEN001,https://www.deltadentalins.com/find-a-dentist,Individual,Yes,FALSE
+2026,DE,64004,SERFF,2025-10-15,Premier,DEN001,https://www.ambetterhealth.com/en/de/findadoc,Individual,No,TRUE
+2026,DE,67775,SERFF,2025-10-15,DDS DHMO,DEN001,https://www.dominionnational.com/find-a-dentist,Individual,Yes,FALSE
+2026,DE,67775,SERFF,2025-10-15,ELITE PPO,DEN002,https://www.dominionnational.com/find-a-dentist,Individual,Yes,FALSE
+2026,DE,72760,SERFF,2025-11-10,ACNEXT DE HMO,DEN001,https://amerihealthcaritasnext.healthsparq.com/healthsparq/public/#/one/city=&state=&postalCode=&country=&insurerCode=ACNEXT_I&brandCode=ACNEXT&alphaPrefix=&bcbsaProductId=&productCode=DEEX,Individual,No,TRUE
+2026,DE,76168,SERFF,2025-10-15,Highmark DE PPO,DEN001,https://findcare.app/healthsparq/public/#/one/insurerCode=FINDCARE_I&brandCode=HMBCBS&productCode=5335,Individual,No,TRUE
+2026,FL,13887,HIOS,2025-10-28,22 Health,FLN001,https://22healthplan.com/findaprovider,Individual,No,TRUE
+2026,FL,15833,HIOS,2026-02-03,DentalGuard Preferred - Individual,FLN001,https://dentalexchange.guardiandirect.com/find-a-dentist,Individual,Yes,FALSE
+2026,FL,15833,HIOS,2026-02-03,Managed DentalGuard - Individual,FLN002,https://dentalexchange.guardiandirect.com/find-a-dentist,Individual,Yes,FALSE
+2026,FL,15980,HIOS,2025-10-15,HumanaDental PPO/Traditional Preferred,FLN001,https://www.humana.com/finder/search?customerId=1085&pfpkey=317,Individual,Yes,FALSE
+2026,FL,16842,HIOS,2025-10-15,Network Blue,FLN001,https://providersearch.floridablue.com/visitor/ffm/#/?ffmPlanCode=FFMBOPT,Individual,No,TRUE
+2026,FL,16842,HIOS,2025-10-15,BlueSelect,FLN002,https://providersearch.floridablue.com/visitor/ffm/#/?ffmPlanCode=FFMBSC,Individual,No,TRUE
+2026,FL,17121,HIOS,2025-11-10,BEST Life and Health National Network,FLN001,https://www.bestlife.com/Provider_Search/,Individual,Yes,FALSE
+2026,FL,19898,HIOS,2026-05-26,AvMed HIX Network,FLN001,https://avmed.healthsparq.com/healthsparq/public/#/one/insurerCode=AVMED_I&brandCode=AVMED,Individual,No,TRUE
+2026,FL,21525,HIOS,2025-10-28,Individual Florida HMO,FLN002,https://www.hioscar.com/search/?networkId=066&year=2026,Individual,No,TRUE
+2026,FL,21525,HIOS,2025-10-28,Individual Florida HMO Broad,FLN003,https://www.hioscar.com/search/?networkId=070&year=2026,Individual,No,TRUE
+2026,FL,30115,HIOS,2025-11-04,BlueDental Choice PPO,FLN001,https://floridabluedental.com/members/find-a-dentist,Individual,Yes,FALSE
+2026,FL,30115,HIOS,2025-11-04,BlueDental Copayment PPO,FLN002,https://floridabluedental.com/members/find-a-dentist,Individual,Yes,FALSE
+2026,FL,30252,HIOS,2025-10-15,BlueCare,FLN001,https://providersearch.floridablue.com/visitor/ffm/#/?ffmPlanCode=FFMBC,Individual,No,TRUE
+2026,FL,30252,HIOS,2025-10-15,myBlue,FLN002,https://providersearch.floridablue.com/visitor/ffm/#/?ffmPlanCode=FFMMBI,Individual,No,TRUE
+2026,FL,36194,HIOS,2026-02-03,Health First Individual,FLN001,https://hf.org/MP_directory_2026,Individual,No,TRUE
+2026,FL,36194,HIOS,2026-02-03,Health First Value,FLN002,https://hf.org/MP_directory_2026,Individual,No,TRUE
+2026,FL,43274,HIOS,2025-10-15,Smile Now Florida - Period PPO,FLN001,https://www.solsticecare.com/provider-search.aspx,Individual,Yes,FALSE
+2026,FL,43274,HIOS,2025-10-15,EssentialSmile Florida - Total Care,FLN002,https://www.solsticecare.com/provider-search.aspx,Individual,Yes,FALSE
+2026,FL,44228,HIOS,2025-10-28,Wellpoint Florida Essential and Pharmacy Base Network,FLN001,https://www.wellpoint.com/find-care/?alphaprefix=3322,Individual,No,TRUE
+2026,FL,44228,HIOS,2025-10-28,Wellpoint Florida Essential and RX Choice Tiered Network,FLN002,https://www.wellpoint.com/find-care/?alphaprefix=3322,Individual,No,TRUE
+2026,FL,44228,HIOS,2025-10-28,"Wellpoint Florida Essential, Dental Prime, and RX Choice Tiered Network",FLN003,https://www.wellpoint.com/find-care/?alphaprefix=3323,Individual,No,TRUE
+2026,FL,48121,HIOS,2025-11-04,Florida Connect Network,FLN001,https://www.cigna.com/ifp-providers,Individual,No,TRUE
+2026,FL,48121,HIOS,2025-11-04,Florida PPO Dental Network,FLN002,https://www.cigna.com/ifp-providers,Individual,Yes,TRUE
+2026,FL,48129,HIOS,2025-10-15,Renaissance Dental,FLN001,https://www.myrenproviders.com/,Individual,Yes,FALSE
+2026,FL,49004,HIOS,2025-10-15,Premier,FLN001,https://www.ambetterhealth.com/en/fl/findadoc,Individual,No,TRUE
+2026,FL,54172,HIOS,2025-11-10,Molina Marketplace,FLN001,https://molina.sapphirethreesixtyfive.com//?ci=fl-marketplace,Individual,No,TRUE
+2026,FL,54172,HIOS,2025-11-10,Molina Marketplace Tiered,FLN002,https://molina.sapphirethreesixtyfive.com//?ci=fl-marketplace,Individual,No,TRUE
+2026,FL,56503,HIOS,2025-10-15,FHCP HMO Individual Network,FLN001,http://www.fhcp.com/find-providers/physician,Individual,No,TRUE
+2026,FL,59667,HIOS,2025-10-15,FL Marketplace  Network,FLN001,https://www.dentaquest.com/en/find-a-dentist,Individual,Yes,FALSE
+2026,FL,66966,HIOS,2025-10-28,"Full Medical, CVS Limited",FLN002,https://capitalhealth.com/provider-directory/,Individual,No,TRUE
+2026,FL,67926,HIOS,2025-11-10,ACNEXT FL HMO,FLN001,https://amerihealthcaritasnext.healthsparq.com/healthsparq/public/#/one/city=&state=&postalCode=&country=&insurerCode=ACNEXT_I&brandCode=ACNEXT&alphaPrefix=&bcbsaProductId=&productCode=FLEX,Individual,No,TRUE
+2026,FL,68398,HIOS,2025-10-15,Individual Exchange Benefit Plan Network,FLN011,https://www.uhc.com/xfldocfindg2026,Individual,No,TRUE
+2026,FL,74243,HIOS,2025-10-21,Choice PPO,FLN001,https://www.dominionnational.com/find-a-dentist,Individual,Yes,FALSE
+2026,FL,79850,HIOS,2025-10-15,Florida Partnered Care Network,FLN001,https://www.cigna.com/ifp-providers,Individual,No,TRUE
+2026,FL,86382,HIOS,2025-10-15,Value,FLN001,https://www.ambetterhealth.com/en/fl/findadoc,Individual,No,TRUE
+2026,FL,97725,HIOS,2026-07-28,Delta Dental PPO Individual,FLN001,https://www.deltadental.com/us/en/member/find-a-dentist.html,Individual,Yes,FALSE
+2026,FL,97725,HIOS,2026-07-28,Delta Dental PPO SHOP,FLN002,https://www.deltadental.com/us/en/member/find-a-dentist.html,SHOP (Small Group),Yes,FALSE
+2026,FL,97725,HIOS,2026-07-28,DeltaCare Individual,FLN003,https://www.deltadental.com/us/en/member/find-a-dentist.html,Individual,Yes,FALSE
+2026,FL,97725,HIOS,2026-07-28,DeltaCare SHOP,FLN004,https://www.deltadental.com/us/en/member/find-a-dentist.html,SHOP (Small Group),Yes,FALSE
+2026,FL,98869,HIOS,2025-10-15,Premier,FLN001,https://emihealth.com/ProviderSearch,Individual,Yes,FALSE
+2026,FL,98869,HIOS,2025-10-15,Advantage,FLN002,https://emihealth.com/ProviderSearch,Individual,Yes,FALSE
+2026,HI,10046,SERFF,2025-11-10,BEST Life and Health National Network,HIN001,https://www.bestlife.com/Provider_Search/,Individual,Yes,FALSE
+2026,HI,18350,SERFF,2025-10-15,"HMSA Preferred Provider Plan with Vision, Individual",HIN001,https://hmsa.com/search/providers,Individual,No,TRUE
+2026,HI,18350,SERFF,2025-10-15,"HMSA Preferred Provider Plan with Vision, Complementary Care Rider, and Active&Fit, Individual",HIN002,https://hmsa.com/search/providers,Individual,No,TRUE
+2026,HI,18350,SERFF,2025-10-15,"HMSA Preferred Provider Plan with Vision and Active&Fit, Individual",HIN003,https://hmsa.com/search/providers,Individual,No,TRUE
+2026,HI,18350,SERFF,2025-10-15,"HMSA Dental PPO, Individual",HIN004,https://hmsa.com/search/providers,Individual,Yes,TRUE
+2026,HI,18350,SERFF,2025-10-15,"HMSA Dental HMO, Individual",HIN005,https://hmsa.com/search/providers,Individual,Yes,TRUE
+2026,HI,27409,SERFF,2025-12-16,DentalGuard Preferred - Individual,HIN001,https://dentalexchange.guardiandirect.com/find-a-dentist,Individual,Yes,FALSE
+2026,HI,31358,SERFF,2025-10-15,HumanaDental PPO/Traditional Preferred,HIN001,https://www.humana.com/finder/search?customerId=1085&pfpkey=317,Individual,Yes,FALSE
+2026,HI,46082,SERFF,2025-10-15,Hawaii Dental Service,HIN001,https://www.hawaiidentalservice.com/hds/provider-search,Individual,Yes,FALSE
+2026,HI,60612,SERFF,2025-10-15,Network 1,HIN001,https://healthy.kaiserpermanente.org/hawaii/doctors-locations#/simple-form,Individual,No,TRUE
+2026,IA,25896,SERFF,2025-11-04,Wellmark Health Plan of Iowa,IAN001,https://www.wellmark.com/finder-aca,Individual,No,TRUE
+2026,IA,25896,SERFF,2025-11-04,Welmark Health Plan of Iowa - UPH,IAN002,https://www.wellmark.com/finder-aca,Individual,No,TRUE
+2026,IA,45819,SERFF,2026-02-03,Individual Iowa,IAN001,https://www.hioscar.com/search/?networkId=041&year=2026,Individual,No,TRUE
+2026,IA,45819,SERFF,2026-02-03,Individual Iowa Broad,IAN002,https://www.hioscar.com/search/?networkId=072&year=2026,Individual,No,TRUE
+2026,IA,48286,SERFF,2025-10-15,Premier,IAN001,https://www.ambetterhealth.com/en/ia/findadoc,Individual,No,TRUE
+2026,IA,50730,SERFF,2025-10-15,DentalGuard Preferred - Individual,IAN001,https://dentalexchange.guardiandirect.com/find-a-dentist,Individual,Yes,FALSE
+2026,IA,56610,SERFF,2025-10-15,Individual Exchange Benefit Plan Network,IAN011,https://www.uhc.com/xiadocfindoa2026,Individual,No,TRUE
+2026,IA,63366,SERFF,2025-10-15,Delta Dental PPO Plus Premier Network Individual,IAN002,https://www.deltadentalia.com/find-a-provider/dental/,Individual,Yes,FALSE
+2026,IA,71051,SERFF,2025-11-10,BEST Life and Health National Network,IAN001,https://www.bestlife.com/Provider_Search/,Individual,Yes,FALSE
+2026,IA,74980,SERFF,2025-11-25,Avera Health Plans Iowa Network,IAN001,https://www.avera.org/marketplace/provider-directory/,Individual,No,TRUE
+2026,IA,93078,SERFF,2025-10-15,Medica Insure,IAN001,https://www.Medica.com/SearchInsureNetwork-2026,Individual,No,TRUE
+2026,IA,93078,SERFF,2025-10-15,Inspire by Medica,IAN003,https://www.Medica.com/SearchInspireNetwork-2026,Individual,No,TRUE
+2026,IA,93078,SERFF,2025-10-15,Medica with CHI Health,IAN004,https://www.Medica.com/SearchCHINetwork-2026,Individual,No,TRUE
+2026,IA,93078,SERFF,2025-10-15,Elevate by Medica,IAN005,https://www.Medica.com/SearchElevateNetwork-2026,Individual,No,TRUE
+2026,IN,16845,HIOS,2025-10-15,Choice PPO,INN001,https://www.dominionnational.com/find-a-dentist,Individual,Yes,FALSE
+2026,IN,17575,HIOS,2025-10-28,Anthem Essential and Pharmacy Base Network,INN004,https://www.anthem.com/find-care/?alphaprefix=EUM,Individual,No,TRUE
+2026,IN,17575,HIOS,2025-10-28,"Anthem Essential, Dental Prime, and Rx Choice Tiered Network",INN005,https://www.anthem.com/find-care/?alphaprefix=E7E,Individual,No,TRUE
+2026,IN,17575,HIOS,2025-10-28,Dental Prime,INN007,https://www.anthem.com/health-insurance/provider-directory/searchcriteria?planstate=IN&plantype=DENTAL&planname=Dental+Prime,Individual,Yes,TRUE
+2026,IN,17575,HIOS,2025-10-28,Anthem Essential and Rx Choice Tiered Network,INN010,https://www.anthem.com/find-care/?alphaprefix=EUM,Individual,No,TRUE
+2026,IN,28856,HIOS,2026-03-31,Delta Dental Individual,INN001,https://www.deltadental.com/member/find-a-dentist/,Individual,Yes,FALSE
+2026,IN,28856,HIOS,2026-03-31,Delta Dental Group,INN002,https://www.deltadental.com/member/find-a-dentist/,SHOP (Small Group),Yes,FALSE
+2026,IN,33086,HIOS,2026-05-12,Indiana HRI Network,INN001,https://portal.insuringsmiles.com/findadentist,Individual,Yes,FALSE
+2026,IN,35065,HIOS,2025-10-15,Premier,INN001,https://www.ambetterhealth.com/en/in/findadoc,Individual,No,TRUE
+2026,IN,43433,HIOS,2025-10-15,IN Marketplace  Network,INN001,https://www.dentaquest.com/en/find-a-dentist,Individual,Yes,FALSE
+2026,IN,54192,HIOS,2025-10-15,Indiana,INN001,https://findadoctor.caresource.com/doctors?programs=IN-exchange,Individual,No,TRUE
+2026,IN,57874,HIOS,2026-03-31,Delta Dental,INN001,https://www.deltadental.com/us/en/member/find-a-dentist.html,Individual,Yes,FALSE
+2026,IN,59560,HIOS,2025-10-28,DentalGuard Preferred,INN001,,SHOP (Small Group),Yes,FALSE
+2026,IN,59560,HIOS,2025-10-28,DentalGuard Preferred - Individual,INN002,https://dentalexchange.guardiandirect.com/find-a-dentist,Individual,Yes,FALSE
+2026,IN,72850,HIOS,2025-10-15,Individual Exchange Benefit Plan Network,INN011,https://www.uhc.com/xindocfindoa2026,Individual,No,TRUE
+2026,IN,83557,HIOS,2025-11-10,BEST Life and Health National Network,INN001,https://www.bestlife.com/Provider_Search/,Individual,Yes,FALSE
+2026,IN,87417,HIOS,2025-10-15,DenteMax,INN001,https://www.truassure.com/find-a-provider,Individual,Yes,FALSE
+2026,IN,94419,HIOS,2026-02-03,Indiana Connect Network,INN001,https://www.cigna.com/ifp-providers,Individual,No,TRUE
+2026,IN,99791,HIOS,2025-10-15,HumanaDental PPO/Traditional Preferred,INN001,https://www.humana.com/finder/search?customerId=1085&pfpkey=317,Individual,Yes,FALSE
+2026,KS,11339,SERFF,2025-10-15,Dentegra PPO Individual,KSN001,https://www.dentegra.com/find-a-dentist/,Individual,Yes,FALSE
+2026,KS,18558,SERFF,2025-11-04,SolutionsCAP,KSN001,https://www.bcbsks.com/ProviderDirectory/?prefix=XSN,Individual,No,TRUE
+2026,KS,25268,SERFF,2025-10-15,DenteMax,KSN001,https://www.truassure.com/find-a-provider,Individual,Yes,FALSE
+2026,KS,34368,SERFF,2025-10-15,Premier,KSN001,https://www.ambetterhealth.com/en/ks/findadoc,Individual,No,TRUE
+2026,KS,39520,SERFF,2025-10-15,Select by Medica,KSN004,https://www.Medica.com/SearchSelectNetwork-2026,Individual,No,TRUE
+2026,KS,43490,SERFF,2025-10-28,Individual Kansas,KSN001,https://www.hioscar.com/search/?networkId=028&year=2026,Individual,No,TRUE
+2026,KS,61779,SERFF,2025-10-15,DentalGuard Preferred - Individual,KSN001,https://dentalexchange.guardiandirect.com/find-a-dentist,Individual,Yes,FALSE
+2026,KS,63790,SERFF,2025-11-10,BEST Life and Health National Network,KSN001,https://www.bestlife.com/Provider_Search/,Individual,Yes,FALSE
+2026,KS,94248,SERFF,2025-10-15,BlueSelect,KSN001,http://www.BlueKC.com/qhp/bs,Individual,No,TRUE
+2026,KS,94248,SERFF,2025-10-15,BlueSelect w Spira Care,KSN002,http://www.BlueKC.com/qhp/bs/sc,Individual,No,TRUE
+2026,KS,94248,SERFF,2025-10-15,Blue Metro w Spira Care,KSN003,http://www.BlueKC.com/qhp/bm/sc,Individual,No,TRUE
+2026,KS,94968,SERFF,2025-10-15,Individual Exchange Benefit Plan Network,KSN011,https://www.uhc.com/xksdocfindoa2026,Individual,No,TRUE
+2026,KS,95038,SERFF,2025-10-15,Renaissance Dental,KSN001,https://www.myrenproviders.com/,Individual,Yes,FALSE
+2026,LA,11904,HIOS,2025-10-15,LA Marketplace PPO Network,LAN002,https://www.dentaquest.com/en/find-a-dentist,Individual,Yes,FALSE
+2026,LA,18802,HIOS,2026-07-29,Delta Dental PPO Individual,LAN001,https://www.deltadentalins.com/find-a-dentist/,Individual,Yes,FALSE
+2026,LA,19636,HIOS,2025-10-15,HMO Louisiana HMO/POS Statewide,LAN005,https://lablue.com/hmopos-medical-vision-dental,Individual,No,TRUE
+2026,LA,19636,HIOS,2025-10-15,Blue Connect HMO/POS,LAN006,https://lablue.com/blueconnect-medical-vision-dental,Individual,No,TRUE
+2026,LA,19636,HIOS,2025-10-15,Community Blue HMO/POS,LAN007,https://lablue.com/communityblue-medical-vision-dental,Individual,No,TRUE
+2026,LA,19636,HIOS,2025-10-15,Signature Blue HMO/POS,LAN008,https://lablue.com/signatureblue-medical-vision-dental,Individual,No,TRUE
+2026,LA,19636,HIOS,2025-10-15,Precision Blue HMO/POS,LAN009,https://lablue.com/precisionblue-medical-vision-dental,Individual,No,TRUE
+2026,LA,28419,HIOS,2025-10-15,Renaissance Dental,LAN001,https://www.myrenproviders.com/,Individual,Yes,FALSE
+2026,LA,38246,HIOS,2025-11-10,ACNEXT LA HMO,LAN001,https://amerihealthcaritasnext.healthsparq.com/healthsparq/public/#/one/city=&state=&postalCode=&country=&insurerCode=ACNEXT_I&brandCode=ACNEXT&alphaPrefix=&bcbsaProductId=&productCode=LAEX,Individual,No,TRUE
+2026,LA,44965,HIOS,2025-10-15,HumanaDental PPO/Traditional Preferred,LAN001,https://www.humana.com/finder/search?customerId=1085&pfpkey=317,Individual,Yes,FALSE
+2026,LA,69842,HIOS,2025-11-04,Individual Exchange Benefit Plan Network,LAN011,https://www.uhc.com/xladocfindoa2026,Individual,No,TRUE
+2026,LA,78461,HIOS,2025-11-10,Best Life and Health National Network,LAN001,https://www.bestlife.com/Provider_Search/,Individual,Yes,FALSE
+2026,LA,87390,HIOS,2025-10-15,DentalGuard Preferred - Individual,LAN001,https://dentalexchange.guardiandirect.com/find-a-dentist,Individual,Yes,FALSE
+2026,LA,90787,HIOS,2025-10-15,Premier,LAN001,https://www.ambetterhealth.com/en/la/findadoc,Individual,No,TRUE
+2026,LA,97176,HIOS,2025-10-15,PPO Vision Dental,LAN001,https://lablue.com/ppo-medical-vision-dental,Individual,No,TRUE
+2026,LA,97176,HIOS,2025-10-15,United Concordia Dental Individual SADP,LAN002,https://lablue.com/uc-dental,Individual,Yes,TRUE
+2026,LA,97176,HIOS,2025-10-15,United Concordia Dental Group SADP,LAN003,https://lablue.com/uc-dental,SHOP (Small Group),Yes,TRUE
+2026,LA,98780,HIOS,2025-10-15,CHRISTUS Health Plan Louisiana,LAN001,https://www.christushealthplan.org/find-a-provider,Individual,No,TRUE
+2026,MI,10516,SERFF,2026-06-23,Unum Dental Network,MIN001,,SHOP (Small Group),Yes,FALSE
+2026,MI,11083,SERFF,2025-10-15,PDP PLUS,MIN001,https://providers.online.metlife.com/findDentist,SHOP (Small Group),Yes,FALSE
+2026,MI,15560,SERFF,2025-10-15,Blue Dental PPO,MIN003,https://www.bcbsm.com/marketplace/dental/,SHOP (Small Group),Yes,TRUE
+2026,MI,15560,SERFF,2025-10-15,Blue Dental PPO,MIN004,https://www.bcbsm.com/marketplace/dental/,SHOP (Small Group),Yes,TRUE
+2026,MI,15560,SERFF,2025-10-15,Blue Cross Premier,MIN006,https://www.bcbsm.com/marketplace/ppo/,Individual,No,TRUE
+2026,MI,15560,SERFF,2025-10-15,Blue Dental PPO,MIN007,https://www.bcbsm.com/marketplace/dental/,Individual,Yes,TRUE
+2026,MI,15560,SERFF,2025-10-15,Blue Dental PPO,MIN008,https://www.bcbsm.com/marketplace/dental/,Individual,Yes,TRUE
+2026,MI,15676,SERFF,2025-10-15,Choice PPO,MIN001,https://www.dominionnational.com/find-a-dentist,Individual,Yes,FALSE
+2026,MI,29698,SERFF,2025-10-15,Priority Health HMO,MIN001,https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=PH_I&brandCode=PH,Individual,No,TRUE
+2026,MI,29698,SERFF,2025-10-15,Corewell Health West Michigan Network,MIN002,https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=PH_I&brandCode=PH,Individual,No,TRUE
+2026,MI,29698,SERFF,2025-10-15,Bronson Healthcare Partners,MIN003,https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=PH_I&brandCode=PH,Individual,No,TRUE
+2026,MI,29698,SERFF,2025-10-15,Southeast Michigan Network,MIN004,https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=PH_I&brandCode=PH,Individual,No,TRUE
+2026,MI,29698,SERFF,2025-10-15,Trinity Health East Network,MIN005,https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=PH_I&brandCode=PH,Individual,No,TRUE
+2026,MI,29698,SERFF,2025-10-15,Priority Health HMO Plus,MIN006,https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=PH_I&brandCode=PH,Individual,No,TRUE
+2026,MI,31256,SERFF,2026-02-03,DENCAP Individual Provider Network,MIN001,https://www.dencap.com/marketplace-providers/,Individual,Yes,FALSE
+2026,MI,31256,SERFF,2026-02-03,DenteMax Provider Network,MIN002,https://www.dencap.com/find-a-dentist/,SHOP (Small Group),Yes,FALSE
+2026,MI,31256,SERFF,2026-02-03,DENCAP Group Provider Network,MIN003,https://www.dencap.com/find-a-dentist/,SHOP (Small Group),Yes,FALSE
+2026,MI,34930,SERFF,2026-03-31,Delta Dental PPO and Delta Dental Premier,MIN001,https://www.deltadental.com/us/en/member/find-a-dentist.html,Individual,Yes,FALSE
+2026,MI,34930,SERFF,2026-03-31,Delta Dental PPO and Delta Dental Premier,MIN002,https://www.deltadental.com/us/en/member/find-a-dentist.html,SHOP (Small Group),Yes,FALSE
+2026,MI,35700,SERFF,2025-11-10,BEST Life and Health National Network,MIN001,https://www.bestlife.com/Provider_Search/,Individual,Yes,FALSE
+2026,MI,47638,SERFF,2025-10-15,Retailers Insurance Company Dental Network,MIN001,http://www.deltadental.com/DentistSearch/DentistSearchController.ccl,SHOP (Small Group),Yes,FALSE
+2026,MI,53678,SERFF,2025-10-15,Unum Dental Network,MIN001,,SHOP (Small Group),Yes,FALSE
+2026,MI,58594,SERFF,2025-10-15,Premier,MIN001,https://www.ambetterhealth.com/en/mi/findadoc,Individual,No,TRUE
+2026,MI,62294,SERFF,2025-10-15,HumanaDental PPO/Traditional Preferred,MIN001,https://www.humana.com/finder/search?customerId=1085&pfpkey=317,Individual,Yes,FALSE
+2026,MI,63631,SERFF,2025-10-15,EssentialSmile Michigan - Total Care,MIN011,https://www.solsticecare.com/provider-search.aspx,Individual,Yes,FALSE
+2026,MI,63631,SERFF,2025-10-15,Smile Now Michigan - PPO,MIN012,https://www.solsticecare.com/provider-search.aspx,Individual,Yes,FALSE
+2026,MI,66587,SERFF,2025-10-15,DentalGuard Preferred,MIN001,,SHOP (Small Group),Yes,FALSE
+2026,MI,66587,SERFF,2025-10-15,DentalGuard Preferred - Individual,MIN002,https://dentalexchange.guardiandirect.com/find-a-dentist,Individual,Yes,FALSE
+2026,MI,71667,SERFF,2025-10-15,Individual Exchange,MIN011,https://www.uhc.com/xmidocfindoa2026,Individual,No,TRUE
+2026,MI,74917,SERFF,2025-10-28,McLaren Health Plan Community,MIN001,https://www.mclarenhealthplan.org/mclaren-health-plan/provider-directory-mhp,Individual,No,TRUE
+2026,MI,75936,SERFF,2026-03-31,Delta Dental PPO and Delta Dental Premier,MIN001,https://www.deltadental.com/us/en/member/find-a-dentist.html,Individual,Yes,FALSE
+2026,MI,77739,SERFF,2025-10-28,Individual Michigan,MIN001,https://www.hioscar.com/search/?networkId=017&year=2026,Individual,No,TRUE
+2026,MI,88507,SERFF,2025-10-15,Premier,MIN001,https://emihealth.com/ProviderSearch,Individual,Yes,FALSE
+2026,MI,88507,SERFF,2025-10-15,Advantage,MIN002,https://emihealth.com/ProviderSearch,Individual,Yes,FALSE
+2026,MI,95233,SERFF,2026-05-12,Paramount Dental,MIN001,https://portal.insuringsmiles.com/findadentist,Individual,Yes,FALSE
+2026,MI,98185,SERFF,2025-10-28,Blue Cross Preferred,MIN005,https://www.bcbsm.com/marketplace/preferred-hmo/,Individual,No,TRUE
+2026,MI,98185,SERFF,2025-10-28,Blue Cross Select,MIN006,https://www.bcbsm.com/marketplace/select-hmo/,Individual,No,TRUE
+2026,MI,98185,SERFF,2025-10-28,Blue Cross Local HMO,MIN007,https://www.bcbsm.com/marketplace/local-hmo/,Individual,No,TRUE
+2026,MO,29416,HIOS,2025-11-10,BEST Life and Health National Network,MON001,https://www.bestlife.com/Provider_Search/,Individual,Yes,FALSE
+2026,MO,30613,HIOS,2025-10-15,HumanaDental PPO/Traditional Preferred,MON001,https://www.humana.com/finder/search?customerId=1085&pfpkey=317,Individual,Yes,FALSE
+2026,MO,32753,HIOS,2025-10-28,Pathway and Rx Choice Tiered Network,MON001,https://www.anthem.com/find-care/?alphaprefix=JXK,Individual,No,TRUE
+2026,MO,32753,HIOS,2025-10-28,Pathway and Pharmacy Base Network,MON002,https://www.anthem.com/find-care/?alphaprefix=JXK,Individual,No,TRUE
+2026,MO,32753,HIOS,2025-10-28,Dental Prime,MON003,https://www.anthem.com/health-insurance/provider-directory/searchcriteria?planstate=MO&plantype=DENTAL&planname=Dental+Prime,Individual,Yes,TRUE
+2026,MO,32753,HIOS,2025-10-28,"Pathway Essentials, Dental Prime, and RX Choice Tiered Network",MON004,https://www.anthem.com/find-care/?alphaprefix=AXA,Individual,No,TRUE
+2026,MO,32753,HIOS,2025-10-28,"Pathway Essentials, Dental Prime, and Pharmacy Base Network",MON005,https://www.anthem.com/find-care/?alphaprefix=AXA,Individual,No,TRUE
+2026,MO,34762,HIOS,2026-02-03,Preferred-Care Blue,MON001,http://www.BlueKC.com/qhp/pcb,Individual,No,TRUE
+2026,MO,34762,HIOS,2026-02-03,BlueSelect,MON002,http://www.BlueKC.com/qhp/bs,Individual,No,TRUE
+2026,MO,34762,HIOS,2026-02-03,BlueSelect w Spira Care,MON003,http://www.BlueKC.com/qhp/bs/sc,Individual,No,TRUE
+2026,MO,34762,HIOS,2026-02-03,Blue Metro w Spira Care,MON004,http://www.BlueKC.com/qhp/bm/sc,Individual,No,TRUE
+2026,MO,35853,HIOS,2025-10-15,Renaissance Dental,MON001,https://www.myrenproviders.com/,Individual,Yes,FALSE
+2026,MO,40519,HIOS,2025-10-15,Premier,MON001,https://emihealth.com/ProviderSearch,Individual,Yes,FALSE
+2026,MO,40519,HIOS,2025-10-15,Advantage,MON002,https://emihealth.com/ProviderSearch,Individual,Yes,FALSE
+2026,MO,43512,HIOS,2025-10-15,Choice PPO,MON001,https://www.dominionnational.com/find-a-dentist,Individual,Yes,FALSE
+2026,MO,47840,HIOS,2025-10-15,Medica with SSM Health,MON001,https://www.Medica.com/SearchSSMHealthNetwork-2026,Individual,No,TRUE
+2026,MO,48786,HIOS,2025-12-16,DentalGuard Preferred - Individual,MON001,https://dentalexchange.guardiandirect.com/find-a-dentist,Individual,Yes,FALSE
+2026,MO,53461,HIOS,2026-02-03,Select by Medica,MON001,https://www.Medica.com/SearchSelectNetwork-2026,Individual,No,TRUE
+2026,MO,53461,HIOS,2026-02-03,Medica with MU Health,MON007,https://www.Medica.com/SearchMUHealthNetwork-2026,Individual,No,TRUE
+2026,MO,53461,HIOS,2026-02-03,Balance by Medica,MON008,https://www.Medica.com/SearchBalanceNetwork-2026,Individual,No,TRUE
+2026,MO,58883,HIOS,2025-10-15,MO Marketplace Network,MON001,https://www.dentaquest.com/en/find-a-dentist,Individual,Yes,FALSE
+2026,MO,69512,HIOS,2025-10-28,Individual Missouri,MON001,https://www.hioscar.com/search/?networkId=029&year=2026,Individual,No,TRUE
+2026,MO,82905,HIOS,2025-10-15,DenteMax,MON001,https://www.truassure.com/find-a-provider,Individual,Yes,FALSE
+2026,MO,95426,HIOS,2025-10-15,Individual Exchange Benefit Plan Network,MON011,https://www.uhc.com/xmodocfindoa2026,Individual,No,TRUE
+2026,MO,96384,HIOS,2025-11-04,Cox HealthPlans Marketplace Individual,MON001,https://www.thinkinghealthforward.com/providers/,Individual,No,TRUE
+2026,MO,99723,HIOS,2025-10-15,Premier,MON001,https://www.ambetterhealth.com/en/mo/findadoc,Individual,No,TRUE
+2026,MS,11324,HIOS,2025-11-10,BEST Life and Health National Network,MSN001,http://www.bestlife.com/Provider_Search/,Individual,Yes,FALSE
+2026,MS,20635,HIOS,2026-02-03,Individual Mississippi,MSN001,https://www.hioscar.com/search/?networkId=068&year=2026,Individual,No,TRUE
+2026,MS,48963,HIOS,2025-10-15,HumanaDental PPO/Traditional Preferred,MSN001,https://www.humana.com/finder/search?customerId=1085&pfpkey=317,Individual,Yes,FALSE
+2026,MS,49327,HIOS,2025-10-15,DentalGuard Preferred - Individual,MSN001,https://dentalexchange.guardiandirect.com/find-a-dentist,Individual,Yes,FALSE
+2026,MS,49374,HIOS,2026-07-28,Delta Dental PPO Individual,MSN001,https://www.deltadentalins.com/find-a-dentist,Individual,Yes,FALSE
+2026,MS,56766,HIOS,2025-10-15,Mississippi Connect Network,MSN001,https://www.cigna.com/ifp-providers,Individual,No,TRUE
+2026,MS,79975,HIOS,2025-10-15,Molina Healthcare of MS Marketplace,MSN001,https://molina.sapphirethreesixtyfive.com//?ci=ms-marketplace,Individual,No,TRUE
+2026,MS,84254,HIOS,2025-10-15,Renaissance Dental,MSN001,https://www.myrenproviders.com/,Individual,Yes,FALSE
+2026,MS,90714,HIOS,2025-10-15,Premier,MSN001,https://www.ambetterhealth.com/en/ms/findadoc,Individual,No,TRUE
+2026,MS,97560,HIOS,2025-10-15,Individual Exchange Benefit Plan Network,MSN011,https://www.uhc.com/xmsdocfindoa2026,Individual,No,TRUE
+2026,MT,23603,SERFF,2025-10-15,Dental Indemnity,MTN002,https://providerdirectory.pacificsource.com/,SHOP (Small Group),Yes,TRUE
+2026,MT,23603,SERFF,2025-10-15,Core,MTN003,https://providerdirectory.pacificsource.com/,Individual,No,TRUE
+2026,MT,23603,SERFF,2025-10-15,Dental Indemnity,MTN004,https://providerdirectory.pacificsource.com/,Individual,Yes,TRUE
+2026,MT,30751,SERFF,2025-10-15,BlueCare Dental PPO,MTN001,https://c4.go2dental.com/member/dental_search/searchprov.cgi?brand=mt&product=ppo,Individual,Yes,TRUE
+2026,MT,30751,SERFF,2025-10-15,Blue Focus POS,MTN008,https://my.providerfinderonline.com/?ci=mt-bluefocuspos-retail&corp_code=MT,Individual,No,TRUE
+2026,MT,30751,SERFF,2025-10-15,Blue Preferred PPO,MTN009,https://my.providerfinderonline.com/?ci=mt-bluepreferredppo-retail&corp_code=MT,Individual,No,TRUE
+2026,MT,32225,SERFF,2026-07-23,Connect Care - Ind,MTN001,https://mountainhealth.coop/find-a-doctor/,Individual,No,TRUE
+2026,MT,32225,SERFF,2026-07-23,Plus - Ind,MTN002,https://mountainhealth.coop/find-a-doctor/,Individual,No,TRUE
+2026,MT,32225,SERFF,2026-07-23,Rocky Mountain - Ind,MTN003,https://mountainhealth.coop/find-a-doctor/,Individual,No,TRUE
+2026,MT,32225,SERFF,2026-07-23,Plus - SG,MTN004,https://mountainhealth.coop/find-a-doctor/,SHOP (Small Group),No,TRUE
+2026,MT,32225,SERFF,2026-07-23,Rocky Mountain - SG,MTN005,https://mountainhealth.coop/find-a-doctor/,SHOP (Small Group),No,TRUE
+2026,MT,32225,SERFF,2026-07-23,Access - SG,MTN006,https://mountainhealth.coop/find-a-doctor/,SHOP (Small Group),No,TRUE
+2026,MT,62818,SERFF,2025-12-16,DentalGuard Preferred,MTN001,,SHOP (Small Group),Yes,FALSE
+2026,MT,62818,SERFF,2025-12-16,DentalGuard Preferred - Individual,MTN002,https://dentalexchange.guardiandirect.com/find-a-dentist,Individual,Yes,FALSE
+2026,MT,71788,SERFF,2026-07-21,Delta Dental PPO Individual,MTN001,https://www.deltadentalins.com/find-a-dentist/,Individual,Yes,FALSE
+2026,MT,93895,SERFF,2025-11-10,BEST Life and Health National Network,MTN001,https://www.bestlife.com/Provider_Search/,Individual,Yes,FALSE
+2026,NC,11512,HIOS,2026-07-21,PPO Blue Advantage/Options,NCN001,https://healthnav.bcbsnc.com/?ci=COMMERCIAL&network_id=3,Individual,No,TRUE
+2026,NC,11512,HIOS,2026-07-21,POS Blue Value,NCN002,https://healthnav.bcbsnc.com/?ci=COMMERCIAL&network_id=28,Individual,No,TRUE
+2026,NC,11512,HIOS,2026-07-21,EPO Blue Home UNCHA,NCN013,https://healthnav.bcbsnc.com/?ci=COMMERCIAL&network_id=25,Individual,No,TRUE
+2026,NC,11512,HIOS,2026-07-21,EPO Blue Home Novant,NCN014,https://healthnav.bcbsnc.com/?ci=COMMERCIAL&network_id=32,Individual,No,TRUE
+2026,NC,11512,HIOS,2026-07-21,EPO Blue Local Atrium,NCN015,https://healthnav.bcbsnc.com/?ci=COMMERCIAL&network_id=9,Individual,No,TRUE
+2026,NC,11512,HIOS,2026-07-21,HMO Blue Care,NCN016,https://healthnav.bcbsnc.com/?ci=COMMERCIAL&network_id=6,Individual,No,TRUE
+2026,NC,11512,HIOS,2026-07-21,EPO Blue Home Cone,NCN017,https://healthnav.bcbsnc.com/?ci=COMMERCIAL&network_id=38,Individual,No,TRUE
+2026,NC,17414,HIOS,2025-11-10,ACNEXT NC HMO,NCN001,https://amerihealthcaritasnext.healthsparq.com/healthsparq/public/#/one/city=&state=&postalCode=&country=&insurerCode=ACNEXT_I&brandCode=ACNEXT&alphaPrefix=&bcbsaProductId=&productCode=NCEX,Individual,No,TRUE
+2026,NC,32237,HIOS,2025-10-15,HumanaDental PPO/Traditional Preferred,NCN001,https://www.humana.com/finder/search?customerId=1085&pfpkey=317,Individual,Yes,FALSE
+2026,NC,54332,HIOS,2025-10-15,Individual Exchange Benefit Plan Network,NCN011,https://www.uhc.com/xncdocfindoa2026,Individual,No,TRUE
+2026,NC,55440,HIOS,2025-10-15,DentalGuard Preferred - Individual,NCN001,https://dentalexchange.guardiandirect.com/find-a-dentist,Individual,Yes,FALSE
+2026,NC,56891,HIOS,2025-10-15,Delta Dental Network Individual,NCN001,https://www.deltadental.com/us/en/member/find-a-dentist.html,Individual,Yes,FALSE
+2026,NC,66759,HIOS,2025-10-15,Choice PPO,NCN001,https://www.dominionnational.com/find-a-dentist,Individual,Yes,FALSE
+2026,NC,69803,HIOS,2025-10-28,Individual North Carolina,NCN001,https://www.hioscar.com/search/?networkId=043&year=2026,Individual,No,TRUE
+2026,NC,73943,HIOS,2025-10-15,North Carolina Connect Network,NCN001,https://www.cigna.com/ifp-providers,Individual,No,TRUE
+2026,NC,77264,HIOS,2025-10-15,Premier,NCN001,https://www.ambetterhealth.com/en/nc/findadoc,Individual,No,TRUE
+2026,NC,82612,HIOS,2025-10-15,DenteMax,NCN001,https://www.truassure.com/find-a-provider,Individual,Yes,FALSE
+2026,NC,93383,HIOS,2025-10-15,Premier,NCN001,https://emihealth.com/ProviderSearch,Individual,Yes,FALSE
+2026,NC,93383,HIOS,2025-10-15,Advantage,NCN002,https://emihealth.com/ProviderSearch,Individual,Yes,FALSE
+2026,NC,94482,HIOS,2025-11-10,BEST Life and Health National Network,NCN001,https://www.bestlife.com/Provider_Search/,Individual,Yes,FALSE
+2026,ND,27882,HIOS,2025-11-18,Delta Dental PPO Plus Premier,NDN001,https://www.deltadentalmn.org/find-a-dentist/,Individual,Yes,FALSE
+2026,ND,37160,HIOS,2025-11-04,Preferred Blue PPO-National,NDN001,https://www.bcbsndportals.com/find-a-doctor/#/home,Individual,No,TRUE
+2026,ND,37160,HIOS,2025-11-04,Tiered Network- Trinity,NDN002,https://www.bcbsndportals.com/find-a-doctor/#/home,Individual,No,TRUE
+2026,ND,37160,HIOS,2025-11-04,Tiered Network- Altru,NDN003,https://www.bcbsndportals.com/find-a-doctor/#/home,Individual,No,TRUE
+2026,ND,73751,HIOS,2025-10-15,Altru Prime by Medica,NDN003,https://www.Medica.com/SearchAltruNetwork-2026,Individual,No,TRUE
+2026,ND,73751,HIOS,2025-10-15,Medica Individual Choice,NDN004,https://www.Medica.com/SearchIndividualChoiceNetwork-2026,Individual,No,TRUE
+2026,ND,73751,HIOS,2025-10-15,Essentia Choice Care with Medica,NDN005,https://www.Medica.com/SearchEssentiaCareNetwork-2026,Individual,No,TRUE
+2026,ND,75329,HIOS,2025-11-10,BEST Life and Health National Network,NDN001,https://www.bestlife.com/Provider_Search/,Individual,Yes,FALSE
+2026,ND,89364,HIOS,2025-12-16,Sanford Health Plan North Dakota Simplicity Individual Network,NDN003,https://www3.viiad.com/shp/public/default.asp?SelectedPlan=SHPISP,Individual,No,TRUE
+2026,ND,89364,HIOS,2025-12-16,Sanford Health Plan North Dakota TRUE Individual Network,NDN004,https://www3.viiad.com/shp/public/default.asp?SelectedPlan=SHPISP,Individual,No,TRUE
+2026,NE,13484,SERFF,2025-10-15,Premier,NEN001,https://www.ambetterhealth.com/en/ne/findadoc,Individual,No,TRUE
+2026,NE,20305,SERFF,2025-10-15,Medica Insure,NEN001,https://www.Medica.com/SearchInsureNetwork-2026,Individual,No,TRUE
+2026,NE,20305,SERFF,2025-10-15,Medica with CHI Health,NEN003,https://www.Medica.com/SearchCHINetwork-2026,Individual,No,TRUE
+2026,NE,20305,SERFF,2025-10-15,Elevate by Medica,NEN004,https://www.Medica.com/SearchElevateNetwork-2026,Individual,No,TRUE
+2026,NE,29678,SERFF,2026-01-20,NEtwork BLUE,NEN001,https://bcbsne.healthsparq.com/healthsparq/public/#/one/&state=NE&postalCode=&country=US&insurerCode=BCBSNE_I&brandCode=BCBSNE&productCode=1001001001,Individual,No,TRUE
+2026,NE,29678,SERFF,2026-01-20,Premier Select BlueChoice,NEN002,https://bcbsne.healthsparq.com/healthsparq/public/#/one/&state=NE&postalCode=&country=US&insurerCode=BCBSNE_I&brandCode=BCBSNE&productCode=1002001002,Individual,No,TRUE
+2026,NE,29678,SERFF,2026-01-20,Blueprint Health,NEN003,https://bcbsne.healthsparq.com/healthsparq/public/#/one/&state=NE&postalCode=&country=US&insurerCode=BCBSNE_I&brandCode=BCBSNE&productCode=1000001000,Individual,No,TRUE
+2026,NE,45550,SERFF,2025-11-18,Delta Dental PPO Plus Premier,NEN001,https://www.deltadentalmn.org/find-a-dentist/,Individual,Yes,FALSE
+2026,NE,48282,SERFF,2025-10-15,DenteMax,NEN001,https://www.truassure.com/find-a-provider,Individual,Yes,FALSE
+2026,NE,50022,SERFF,2025-11-10,BEST Life and Health National Network,NEN001,https://www.bestlife.com/Provider_Search/,Individual,Yes,FALSE
+2026,NE,57424,SERFF,2026-02-03,Individual Nebraska,NEN001,https://www.hioscar.com/search/?networkId=073&year=2026,Individual,No,TRUE
+2026,NE,57424,SERFF,2026-02-03,Individual Nebraska Narrow,NEN002,https://www.hioscar.com/search/?networkId=057&year=2026,Individual,No,TRUE
+2026,NE,73102,SERFF,2025-10-15,Individual Exchange Benefit Plan Network,NEN011,https://www.uhc.com/xnedocfindoa2026,Individual,No,TRUE
+2026,NE,98048,SERFF,2025-10-15,DentalGuard Preferred - Individual,NEN001,https://dentalexchange.guardiandirect.com/find-a-dentist,Individual,Yes,FALSE
+2026,NH,13219,SERFF,2025-11-25,WellSense Clarity Network,NHN001,https://www.wellsense.org/members/nh/clarity-plans/find-a-provider,Individual,No,TRUE
+2026,NH,57601,SERFF,2025-10-15,"Preferred Blue PPO, Dental Complete and Rx Choice Tiered Network",NHN003,https://www.anthem.com/find-care/?alphaprefix=N7H,SHOP (Small Group),No,FALSE
+2026,NH,57601,SERFF,2025-10-15,Dental Complete,NHN004,https://www.anthem.com/health-insurance/provider-directory/searchcriteria?planstate=NH&plantype=DENTAL&planname=Dental+Complete,Individual,Yes,FALSE
+2026,NH,59025,SERFF,2026-02-17,NH Local Choice HMO,NHN001,https://point32health.healthsparq.com/healthsparq/public/#/one/&insurerCode=HARVARDPILGRIM_I&brandCode=A087&ProductId=&productCode=A087,Individual,No,TRUE
+2026,NH,59025,SERFF,2026-02-17,NH Local HMO,NHN002,https://point32health.healthsparq.com/healthsparq/public/#/one/&insurerCode=HARVARDPILGRIM_I&brandCode=A088&ProductId=&productCode=A088,Individual,No,TRUE
+2026,NH,72953,SERFF,2025-10-15,Renaissance Dental,NHN001,https://www.myrenproviders.com/,Individual,Yes,FALSE
+2026,NH,75841,SERFF,2025-10-15,Premier,NHN001,https://www.ambetterhealth.com/en/nh/findadoc,Individual,No,TRUE
+2026,NH,87701,SERFF,2025-10-15,PPO,NHN001,https://dentistsearch.nedelta.com/,Individual,Yes,FALSE
+2026,NH,96751,SERFF,2025-10-28,Pathway X Enhanced and Rx Choice Tiered Network,NHN001,https://www.anthem.com/find-care/?alphaprefix=YGQ,Individual,No,TRUE
+2026,NH,96751,SERFF,2025-10-28,"Pathway X, Dental Complete, and Rx Choice Tiered Network",NHN003,https://www.anthem.com/find-care/?alphaprefix=YGP,SHOP (Small Group),No,TRUE
+2026,NH,96751,SERFF,2025-10-28,"Access Blue NE HMO, Dental Complete and Rx Choice Tiered Network",NHN005,https://www.anthem.com/find-care/?alphaprefix=ZZG,SHOP (Small Group),No,TRUE
+2026,NH,96751,SERFF,2025-10-28,Pathway X Enhanced and Pharmacy Base Network,NHN006,https://www.anthem.com/find-care/?alphaprefix=YGQ,Individual,No,TRUE
+2026,OH,25945,SERFF,2026-05-12,HRI Dental,OHN001,https://portal.insuringsmiles.com/findadentist,Individual,Yes,FALSE
+2026,OH,29276,SERFF,2025-10-28,"Pathway X HMO, Dental Prime, and Rx Choice Tiered Network",OHN001,https://www.anthem.com/find-care/?alphaprefix=JWV,Individual,No,TRUE
+2026,OH,29276,SERFF,2025-10-28,Pathway X HMO and Pharmacy Base Network,OHN002,https://www.anthem.com/find-care/?alphaprefix=FQM,Individual,No,TRUE
+2026,OH,29276,SERFF,2025-10-28,Dental Prime,OHN003,https://www.anthem.com/health-insurance/provider-directory/searchcriteria?planstate=OH&plantype=DENTAL&planname=Dental+Prime,Individual,Yes,TRUE
+2026,OH,29276,SERFF,2025-10-28,Pathway X HMO and Rx Choice Tiered Network,OHN004,https://www.anthem.com/find-care/?alphaprefix=FQM,Individual,No,TRUE
+2026,OH,29341,SERFF,2026-02-03,Individual Ohio Columbus,OHN001,https://www.hioscar.com/search/?networkId=020&year=2026,Individual,No,TRUE
+2026,OH,30042,SERFF,2025-10-15,Network 1,OHN001,https://providersearch.medmutual.com/,SHOP (Small Group),Yes,FALSE
+2026,OH,31981,SERFF,2025-10-15,Antidote Ohio Network One,OHN001,http://antidotehealth.com/insurance/find-provider/oh-2026,Individual,No,TRUE
+2026,OH,33931,SERFF,2025-10-15,Individual Exchange Benefit Plan Network,OHN011,https://www.uhc.com/xohdocfindoa2026,Individual,No,TRUE
+2026,OH,33931,SERFF,2025-10-15,EssentialSmile Ohio - Total Care,OHN021,https://www.solsticecare.com/provider-search.aspx,Individual,Yes,TRUE
+2026,OH,34964,SERFF,2025-10-15,OH Statewide Marketplace Network,OHN002,https://www.dentaquest.com/en/find-a-dentist,Individual,Yes,FALSE
+2026,OH,41047,SERFF,2025-10-15,Premier,OHN001,https://www.ambetterhealth.com/en/oh/findadoc,Individual,No,TRUE
+2026,OH,44346,SERFF,2025-10-15,Premier,OHN001,https://emihealth.com/ProviderSearch,Individual,Yes,FALSE
+2026,OH,44346,SERFF,2025-10-15,Advantage,OHN002,https://emihealth.com/ProviderSearch,Individual,Yes,FALSE
+2026,OH,45845,SERFF,2025-10-28,Individual Ohio Cleveland,OHN001,https://www.hioscar.com/search/?networkId=007&year=2026,Individual,No,TRUE
+2026,OH,47509,SERFF,2025-11-10,BEST Life and Health National Network,OHN001,https://www.bestlife.com/Provider_Search/,Individual,Yes,FALSE
+2026,OH,52664,SERFF,2025-11-10,SCConnect,OHN001,https://www.summacare.com/scconnect,Individual,No,TRUE
+2026,OH,56726,SERFF,2025-10-15,Smile Now Ohio PPO,OHN011,https://www.solsticecare.com/provider-search.aspx,Individual,Yes,FALSE
+2026,OH,64353,SERFF,2025-10-15,Molina Exchange Network,OHN001,https://molina.sapphirethreesixtyfive.com//?ci=oh-marketplace,Individual,No,TRUE
+2026,OH,65869,SERFF,2026-03-31,Delta Dental,OHN001,https://www.deltadental.com/us/en/member/find-a-dentist.html,Individual,Yes,FALSE
+2026,OH,68158,SERFF,2025-12-16,DentalGuard Preferred - Individual,OHN001,https://dentalexchange.guardiandirect.com/find-a-dentist,Individual,Yes,FALSE
+2026,OH,68158,SERFF,2025-12-16,DentalGuard Preferred,OHN002,,SHOP (Small Group),Yes,FALSE
+2026,OH,70455,SERFF,2025-10-15,Choice PPO,OHN001,https://www.dominionnational.com/find-a-dentist,Individual,Yes,FALSE
+2026,OH,74313,SERFF,2025-11-18,Paramount Insurance Company,OHN001,https://www.myparamount.org/provider-search/?ProductLineID=27,Individual,No,TRUE
+2026,OH,77552,SERFF,2025-10-15,Ohio,OHN001,https://findadoctor.caresource.com/doctors?programs=OH-Exchange,Individual,No,TRUE
+2026,OH,80627,SERFF,2025-10-15,Dental,OHN001,https://providersearch.medmutual.com/,SHOP (Small Group),Yes,FALSE
+2026,OH,86728,SERFF,2026-03-31,Delta Dental Individual,OHN001,https://www.deltadental.com/us/en/member/find-a-dentist.html,Individual,Yes,FALSE
+2026,OH,86728,SERFF,2026-03-31,Delta Dental Group,OHN002,https://www.deltadental.com/us/en/member/find-a-dentist.html,SHOP (Small Group),Yes,FALSE
+2026,OH,89819,SERFF,2025-10-15,DenteMax,OHN001,https://www.truassure.com/find-a-provider,Individual,Yes,FALSE
+2026,OH,97596,SERFF,2025-10-15,HumanaDental PPO/Traditional Preferred,OHN001,https://www.humana.com/finder/search?customerId=1085&pfpkey=317,Individual,Yes,FALSE
+2026,OH,99969,SERFF,2025-11-10,Individual HMO,OHN001,https://providersearch.medmutual.com/,Individual,No,TRUE
+2026,OH,99969,SERFF,2025-11-10,Dental,OHN003,https://providersearch.medmutual.com/,Individual,Yes,TRUE
+2026,OK,12513,HIOS,2025-10-15,DenteMax,OKN001,https://www.truassure.com/find-a-provider,Individual,Yes,FALSE
+2026,OK,13711,HIOS,2025-10-15,Renaissance Dental,OKN001,https://www.myrenproviders.com/,Individual,Yes,FALSE
+2026,OK,21333,HIOS,2025-10-15,Harmony by Medica,OKN001,https://www.Medica.com/SearchHarmonyNetwork-2026,Individual,No,TRUE
+2026,OK,21333,HIOS,2025-10-15,Balance by Medica,OKN006,https://www.Medica.com/SearchBalanceNetwork-2026,Individual,No,TRUE
+2026,OK,23468,HIOS,2025-10-15,HumanaDental PPO/Traditional Preferred,OKN001,https://www.humana.com/finder/search?customerId=1085&pfpkey=317,Individual,Yes,FALSE
+2026,OK,40254,HIOS,2025-11-10,BEST Life and Health National Network,OKN001,https://www.bestlife.com/Provider_Search/,Individual,Yes,FALSE
+2026,OK,45480,HIOS,2025-10-15,Individual Exchange Benefit Plan Network,OKN011,https://www.uhc.com/xokdocfindoa2026,Individual,No,TRUE
+2026,OK,58944,HIOS,2026-02-03,Mending Health Oklahoma DPC Network,OKN001,https://network.mending.com,Individual,No,TRUE
+2026,OK,58944,HIOS,2026-02-03,Mending Health Oklahoma MP Network,OKN002,https://network.mending.com,Individual,No,TRUE
+2026,OK,62505,HIOS,2025-10-15,Premier,OKN001,https://www.ambetterhealth.com/en/ok/findadoc,Individual,No,TRUE
+2026,OK,77760,HIOS,2025-10-15,PPO Plus Premier,OKN001,https://dentistsearch.deltadentalok.org/,SHOP (Small Group),Yes,FALSE
+2026,OK,81457,HIOS,2025-12-16,DentalGuard Preferred,OKN001,,SHOP (Small Group),Yes,FALSE
+2026,OK,81457,HIOS,2025-12-16,DentalGuard Preferred - Individual,OKN002,https://dentalexchange.guardiandirect.com/find-a-dentist,Individual,Yes,FALSE
+2026,OK,87571,HIOS,2025-10-15,BlueCare Dental PPO,OKN001,https://c4.go2dental.com/member/dental_search/searchprov.cgi?brand=ok&product=ppo,Individual,Yes,TRUE
+2026,OK,87571,HIOS,2025-10-15,MyBlue HMO,OKN002,https://my.providerfinderonline.com/?ci=ok-myblue,Individual,No,TRUE
+2026,OK,87571,HIOS,2025-10-15,Blue Advantage PPO,OKN008,https://my.providerfinderonline.com/?ci=ok-blueadvantageppo-retail&corp_code=OK,Individual,No,TRUE
+2026,OK,87571,HIOS,2025-10-15,Blue Preferred PPO,OKN009,https://my.providerfinderonline.com/?ci=ok-bluepreferredppo-retail&corp_code=OK,Individual,No,TRUE
+2026,OK,91908,HIOS,2025-10-28,Individual Oklahoma,OKN001,https://www.hioscar.com/search/?networkId=045&year=2026,Individual,No,TRUE
+2026,OK,98905,HIOS,2025-10-15,COMMUNITYCARE SELECT PLUS,OKN001,https://marketplace.ccok.com?directory=4&planyear=2026,Individual,No,TRUE
+2026,OK,98905,HIOS,2025-10-15,COMMUNITYCARE ASCENSION ST JOHN EMPOWER,OKN002,https://marketplace.ccok.com/?directory=13&planyear=2026,Individual,No,TRUE
+2026,OK,98905,HIOS,2025-10-15,COMMUNITYCARE SAINT FRANCIS NETWORK,OKN003,https://marketplace.ccok.com/?directory=14&planyear=2026,Individual,No,TRUE
+2026,OR,10091,SERFF,2025-10-15,Core,ORN004,https://providerdirectory.pacificsource.com/,Individual,No,TRUE
+2026,OR,10091,SERFF,2025-10-15,Dental PPO,ORN005,https://providerdirectory.pacificsource.com/,Individual,Yes,TRUE
+2026,OR,25486,SERFF,2025-10-15,Dental Health Services,ORN001,https://dentalhealthservices.alderaplatform.com/Router.jsp?component=Main&source=Logon&action=ProviderDirectory,Individual,Yes,FALSE
+2026,OR,28415,SERFF,2025-10-15,Delta Dental PPO Network - Individual,ORN001,https://www.modahealth.com/shop/provider-search/2026/dental/or/delta-dental-ppo,Individual,Yes,FALSE
+2026,OR,39424,SERFF,2025-10-21,Affinity,ORN002,https://www.modahealth.com/shop/provider-search/2026/medical/or/Affinity,Individual,No,TRUE
+2026,OR,56707,SERFF,2025-11-10,Signature,ORN001,https://providencehealthplan.com/signaturephppd,Individual,No,TRUE
+2026,OR,56707,SERFF,2025-11-10,Connect,ORN002,https://providencehealthplan.com/connectphppd,Individual,No,TRUE
+2026,OR,56707,SERFF,2025-11-10,Choice,ORN003,https://providencehealthplan.com/choicephppd,Individual,No,TRUE
+2026,OR,63474,SERFF,2025-11-04,Individual Value,ORN001,https://bridgespanhealth.com/go/OR/IndividualValue,Individual,No,TRUE
+2026,OR,68420,SERFF,2026-07-21,Dentegra PPO Individual,ORN001,https://www.dentegra.com/find-a-dentist/,Individual,Yes,FALSE
+2026,OR,71287,SERFF,2025-10-15,Classic,ORN001,https://healthy.kaiserpermanente.org/oregon-washington/doctors-locations#/simple-form,Individual,No,TRUE
+2026,OR,71287,SERFF,2025-10-15,Dental,ORN004,https://kaiserpermanentedentalnw.org/choose/by-area/,Individual,Yes,TRUE
+2026,OR,77969,SERFF,2025-11-04,Individual Connect,ORN001,https://regence.com/go/OR/IndividualConnect,Individual,No,TRUE
+2026,OR,77969,SERFF,2025-11-04,Legacy,ORN002,https://regence.com/go/OR/Legacy,Individual,No,TRUE
+2026,OR,98884,SERFF,2025-10-15,Choice PPO,ORN001,https://www.dominionnational.com/find-a-dentist,Individual,Yes,FALSE
+2026,SC,26065,HIOS,2026-07-07,BlueEssentials Network,SCN001,https://www.southcarolinablues.com/links/2026/providers/blueessentials,Individual,No,TRUE
+2026,SC,26065,HIOS,2026-07-07,MUSC Care Alliance Network,SCN003,https://www.southcarolinablues.com/links/2026/providers/bluecooper,Individual,No,TRUE
+2026,SC,26065,HIOS,2026-07-07,PRISMA Health Upstate Network,SCN004,https://www.southcarolinablues.com/links/2026/providers/bluereedy,Individual,No,TRUE
+2026,SC,26065,HIOS,2026-07-07,Congaree Network,SCN005,https://www.southcarolinablues.com/links/2026/providers/bluecongaree,Individual,No,TRUE
+2026,SC,26065,HIOS,2026-07-07,Pee Dee Network,SCN006,https://www.southcarolinablues.com/links/2026/providers/bluepeedee,Individual,No,TRUE
+2026,SC,26065,HIOS,2026-07-07,SC Blue Dental Network,SCN007,https://www.southcarolinablues.com/links/2026/providers/bluesecuredental,Individual,Yes,TRUE
+2026,SC,26065,HIOS,2026-07-07,Beaufort Network,SCN008,https://www.southcarolinablues.com/links/2026/providers/bluebeaufort,Individual,No,TRUE
+2026,SC,32126,HIOS,2025-10-15,DenteMax,SCN001,https://www.truassure.com/find-a-provider,Individual,Yes,FALSE
+2026,SC,33764,HIOS,2026-02-03,Individual Exchange Benefit Plan Network,SCN011,https://www.uhc.com/xscdocfindoa2026,Individual,No,TRUE
+2026,SC,33863,HIOS,2025-10-15,InHealth Network,SCN001,https://www.instilhealth.com/links/2026/providers,Individual,No,TRUE
+2026,SC,42326,HIOS,2025-10-15,Molina Marketplace,SCN001,https://molina.sapphirethreesixtyfive.com//?ci=sc-marketplace,Individual,No,TRUE
+2026,SC,47973,HIOS,2025-10-15,Premier,SCN001,https://emihealth.com/ProviderSearch,Individual,Yes,FALSE
+2026,SC,47973,HIOS,2025-10-15,Advantage,SCN002,https://emihealth.com/ProviderSearch,Individual,Yes,FALSE
+2026,SC,73107,HIOS,2025-11-10,ACNEXT SC HMO,SCN001,https://firstchoicenext.healthsparq.com/healthsparq/public/#/one/city=&state=&postalCode=&country=&insurerCode=FCNEXT_I&brandCode=FCNEXT&alphaPrefix=&bcbsaProductId=&productCode=SCEX,Individual,No,TRUE
+2026,SC,79222,HIOS,2025-10-28,Premier,SCN001,https://www.ambetterhealth.com/en/sc/findadoc,Individual,No,TRUE
+2026,SC,84939,HIOS,2025-10-15,DentalGuard Preferred - Individual,SCN001,https://dentalexchange.guardiandirect.com/find-a-dentist,Individual,Yes,FALSE
+2026,SC,89281,HIOS,2025-11-10,BEST Life and Health National Network,SCN001,https://www.bestlife.com/Provider_Search/,Individual,Yes,FALSE
+2026,SC,97325,HIOS,2025-10-15,Renaissance Dental,SCN001,https://www.myrenproviders.com/,Individual,Yes,FALSE
+2026,SD,31195,SERFF,2025-12-16,Sanford Health Plan South Dakota Individual Simplicity Network,SDN003,https://www3.viiad.com/shp/public/default.asp?SelectedPlan=SHPISP,Individual,No,TRUE
+2026,SD,31195,SERFF,2025-12-16,Sanford Health Plan South Dakota Individual TRUE Network,SDN004,https://www3.viiad.com/shp/public/default.asp?SelectedPlan=SHPISP,Individual,No,TRUE
+2026,SD,50305,SERFF,2026-02-03,Wellmark Blue EPO- South Dakota,SDN001,https://www.wellmark.com/finder-aca,Individual,No,TRUE
+2026,SD,50305,SERFF,2026-02-03,Wellmark Blue EPO- South Dakota,SDN002,https://www.wellmark.com/finder-aca,Individual,No,TRUE
+2026,SD,60536,SERFF,2025-11-25,Avera Health Plans South Dakota Network,SDN001,https://www.avera.org/marketplace/provider-directory/,Individual,No,TRUE
+2026,SD,60536,SERFF,2025-11-25,Avera Health Plans South Dakota Direct Network,SDN002,https://www.avera.org/marketplace/provider-directory/,Individual,No,TRUE
+2026,SD,61214,SERFF,2025-11-10,BEST Life and Health National Network,SDN001,https://www.bestlife.com/Provider_Search/,Individual,Yes,FALSE
+2026,TN,14002,HIOS,2025-11-25,Network S,TNN001,https://www.bcbst.com/network-s,Individual,No,TRUE
+2026,TN,14002,HIOS,2025-11-25,Network E,TNN003,https://www.bcbst.com/network-e,Individual,No,TRUE
+2026,TN,22384,HIOS,2025-10-15,Delta Dental Premier,TNN001,,SHOP (Small Group),Yes,FALSE
+2026,TN,22384,HIOS,2025-10-15,Delta Dental PPO,TNN002,,Individual,Yes,FALSE
+2026,TN,23552,HIOS,2025-10-28,Individual Tennessee,TNN001,https://www.hioscar.com/search/?networkId=033&year=2026,Individual,No,TRUE
+2026,TN,24601,HIOS,2025-11-10,BEST Life and Health National Network,TNN001,https://www.bestlife.com/Provider_Search/,Individual,Yes,FALSE
+2026,TN,28398,HIOS,2025-10-15,DenteMax,TNN001,https://www.truassure.com/find-a-provider,Individual,Yes,FALSE
+2026,TN,29854,HIOS,2025-11-10,Alliant Health Plans,TNN001,https://idirectory.alliantplans.com/ProviderSearch,Individual,No,TRUE
+2026,TN,43878,HIOS,2025-10-15,TN Marketplace Network,TNN001,https://www.dentaquest.com/en/find-a-dentist,Individual,Yes,FALSE
+2026,TN,69443,HIOS,2025-10-21,Individual Exchange Benefit Plan Network,TNN011,https://www.uhc.com/xtndocfindoa2026,Individual,No,TRUE
+2026,TN,69443,HIOS,2025-10-21,EssentialSmile Tennessee - Total Care (Dental),TNN016,https://www.solsticecare.com/provider-search.aspx,Individual,Yes,TRUE
+2026,TN,69443,HIOS,2025-10-21,Smile Now Tennessee - PPO (Dental),TNN017,https://www.solsticecare.com/provider-search.aspx,Individual,Yes,TRUE
+2026,TN,70111,HIOS,2025-10-15,Premier,TNN001,https://www.ambetterhealth.com/en/tn/findadoc,Individual,No,TRUE
+2026,TN,82120,HIOS,2025-10-15,HumanaDental PPO/Traditional Preferred,TNN001,https://www.humana.com/finder/search?customerId=1085&pfpkey=317,Individual,Yes,FALSE
+2026,TN,90402,HIOS,2025-10-15,DentalGuard Preferred - Individual,TNN001,https://dentalexchange.guardiandirect.com/find-a-dentist,Individual,Yes,FALSE
+2026,TN,97536,HIOS,2025-10-15,Premier,TNN001,https://emihealth.com/ProviderSearch,Individual,Yes,FALSE
+2026,TN,97536,HIOS,2025-10-15,Advantage,TNN002,https://emihealth.com/ProviderSearch,Individual,Yes,FALSE
+2026,TN,99248,HIOS,2025-10-15,Tennessee Connect Network,TNN001,https://www.cigna.com/ifp-providers,Individual,No,TRUE
+2026,TN,99248,HIOS,2025-10-15,Tennessee PPO Dental Network,TNN002,https://www.cigna.com/ifp-providers,Individual,Yes,TRUE
+2026,TX,11718,HIOS,2025-10-15,Community Health Choice Ultra Select Network,TXN001,https://memberaccount.communityhealthchoice.org/s/find-a-provider?language=en_US,Individual,No,TRUE
+2026,TX,12846,HIOS,2025-10-28,DentalGuard Preferred,TXN001,,SHOP (Small Group),Yes,FALSE
+2026,TX,12846,HIOS,2025-10-28,DentalGuard Preferred - Individual,TXN002,https://dentalexchange.guardiandirect.com/find-a-dentist,Individual,Yes,FALSE
+2026,TX,17933,HIOS,2025-10-28,Moda Select,TXN001,https://www.modahealth.com/texas/member/tools/provider-search,Individual,No,TRUE
+2026,TX,20069,HIOS,2026-02-03,Individual Texas EPO,TXN001,https://www.hioscar.com/search/?networkId=064&year=2026,Individual,No,TRUE
+2026,TX,20069,HIOS,2026-02-03,Individual Texas HMO,TXN002,https://www.hioscar.com/search/?networkId=059&year=2026,Individual,No,TRUE
+2026,TX,23018,HIOS,2025-10-15,Choice PPO,TXN001,https://www.dominionnational.com/find-a-dentist,Individual,Yes,FALSE
+2026,TX,23891,HIOS,2026-07-27,DeltaCare USA Individual,TXN001,https://www.deltadental.com/us/en/member/find-a-dentist.html,Individual,Yes,FALSE
+2026,TX,23891,HIOS,2026-07-27,DeltaCare USA SHOP,TXN002,https://www.deltadental.com/us/en/member/find-a-dentist.html,SHOP (Small Group),Yes,FALSE
+2026,TX,24349,HIOS,2026-07-28,Delta Dental PPO Individual,TXN001,https://www.deltadentalins.com/find-a-dentist/,Individual,Yes,FALSE
+2026,TX,24349,HIOS,2026-07-28,Delta Dental PPO SHOP,TXN002,https://www.deltadentalins.com/find-a-dentist/,SHOP (Small Group),Yes,FALSE
+2026,TX,26250,HIOS,2025-10-15,Managed DentalGuard - Individual,TXN001,https://dentalexchange.guardiandirect.com/find-a-dentist,Individual,Yes,FALSE
+2026,TX,27248,HIOS,2025-10-15,Community Health Choice Premier Network,TXN001,https://memberaccount.communityhealthchoice.org/s/find-a-provider?language=en_US,Individual,No,TRUE
+2026,TX,27248,HIOS,2025-10-15,Community Health Choice Select Network,TXN002,https://memberaccount.communityhealthchoice.org/s/find-a-provider?language=en_US,Individual,No,TRUE
+2026,TX,27248,HIOS,2025-10-15,Community Health Choice Premier Network 2,TXN003,https://memberaccount.communityhealthchoice.org/s/find-a-provider?language=en_US,Individual,No,TRUE
+2026,TX,29418,HIOS,2025-10-15,Premier,TXN001,https://www.ambetterhealth.com/en/tx/findadoc,Individual,No,TRUE
+2026,TX,33602,HIOS,2026-02-03,BlueCare Dental PPO,TXN001,https://c4.go2dental.com/member/dental_search/searchprov.cgi?brand=tx&product=ppo,Individual,Yes,TRUE
+2026,TX,33602,HIOS,2026-02-03,MyBlue Health,TXN002,https://my.providerfinderonline.com/?ci=tx-myblue-health&corp_code=TX,Individual,No,TRUE
+2026,TX,33602,HIOS,2026-02-03,Blue Advantage,TXN009,https://my.providerfinderonline.com/?ci=tx-blueadvantage-retail&corp_code=TX,Individual,No,TRUE
+2026,TX,33626,HIOS,2025-10-15,EssentialSmile Texas - Total Care,TXN001,https://www.solsticecare.com/provider-search.aspx,Individual,Yes,FALSE
+2026,TX,34826,HIOS,2025-11-04,Imperial Value,TXN001,https://exchange.imperialhealthplan.com/texas/hmo-exchange/online-provider-directory/,Individual,No,TRUE
+2026,TX,37758,HIOS,2025-11-04,Harbor Health IFP Network,TXN001,http://harborhealth.com/shop-plans/atx-in-area-providers,Individual,No,TRUE
+2026,TX,40220,HIOS,2025-11-25,Individual Exchange Benefit Plan Network,TXN011,https://www.uhc.com/xtxdocfindg2026,Individual,No,TRUE
+2026,TX,40220,HIOS,2025-11-25,Kelsey-Seybold Anchor Network,TXN012,https://www.uhc.com/xtxdocfindks2026,Individual,No,TRUE
+2026,TX,40540,HIOS,2025-10-15,Renaissance Dental,TXN001,https://www.myrenproviders.com/,Individual,Yes,FALSE
+2026,TX,40788,HIOS,2025-10-15,BSW Premier HMO,TXN001,https://portal.swhp.org/#/search?networkCode=PREM_HMO_INDV,Individual,No,TRUE
+2026,TX,45786,HIOS,2025-11-10,Molina Marketplace,TXN001,https://molina.sapphirethreesixtyfive.com//?ci=tx-marketplace,Individual,No,TRUE
+2026,TX,47501,HIOS,2025-10-28,Wellpoint Texas Essential and Pharmacy Base Network,TXN001,https://www.wellpoint.com/find-care/?alphaprefix=3730,Individual,No,TRUE
+2026,TX,47501,HIOS,2025-10-28,Wellpoint Texas Essential and RX Choice Tiered Network,TXN002,https://www.wellpoint.com/find-care/?alphaprefix=3730,Individual,No,TRUE
+2026,TX,47501,HIOS,2025-10-28,"Wellpoint Texas Essential, Dental Prime, and RX Choice Tiered Network",TXN003,https://www.wellpoint.com/find-care/?alphaprefix=3732,Individual,No,TRUE
+2026,TX,47665,HIOS,2025-11-10,BEST Life and Health National Network,TXN001,https://www.bestlife.com/Provider_Search/,Individual,Yes,FALSE
+2026,TX,58609,HIOS,2025-10-15,TX Marketplace  Network,TXN001,https://www.dentaquest.com/en/find-a-dentist,Individual,Yes,FALSE
+2026,TX,61315,HIOS,2025-10-15,DenteMax,TXN001,https://www.truassure.com/find-a-provider,Individual,Yes,FALSE
+2026,TX,63141,HIOS,2025-10-15,HumanaDental PPO/Traditional Preferred,TXN001,https://www.humana.com/finder/search?customerId=1085&pfpkey=317,Individual,Yes,FALSE
+2026,TX,63251,HIOS,2025-10-28,Community First EPO,TXN001,https://communityfirsthealthplans.com/wp-content/uploads/2025/09/CFHP_UCCP-ProviderDirectory_web.pdf,Individual,No,TRUE
+2026,TX,66252,HIOS,2025-10-15,CHRISTUS Health Plan Texas,TXN001,https://www.christushealthplan.org/find-a-provider,Individual,No,TRUE
+2026,TX,70754,HIOS,2025-10-15,Sanitas Anchor Network,TXN011,https://www.uhc.com/xtxdocfindsn2026,Individual,No,TRUE
+2026,TX,71837,HIOS,2025-10-28,Sendero Health Plans,TXN001,https://senderohealth.com/physician_search,Individual,No,TRUE
+2026,TX,76589,HIOS,2025-10-15,Texas Connect Network,TXN001,https://www.cigna.com/ifp-providers,Individual,No,TRUE
+2026,TX,87226,HIOS,2025-10-15,Value,TXN001,https://www.ambetterhealth.com/en/tx/findadoc,Individual,No,TRUE
+2026,TX,91476,HIOS,2025-10-15,Premier,TXN001,https://emihealth.com/ProviderSearch,Individual,Yes,FALSE
+2026,TX,91476,HIOS,2025-10-15,Advantage,TXN002,https://emihealth.com/ProviderSearch,Individual,Yes,FALSE
+2026,TX,92388,HIOS,2025-10-15,PDP PLUS,TXN001,https://providers.online.metlife.com/findDentist,SHOP (Small Group),Yes,FALSE
+2026,TX,98809,HIOS,2025-10-15,Smile Now Texas- PPO,TXN011,https://www.solsticecare.com/provider-search.aspx,Individual,Yes,FALSE
+2026,UT,14948,SERFF,2026-07-21,DeltaCare USA Individual,UTN001,https://www.deltadental.com/us/en/member/find-a-dentist.html,Individual,Yes,FALSE
+2026,UT,18167,SERFF,2025-11-18,Molina Healthcare of Utah,UTN001,https://molina.sapphirethreesixtyfive.com//?ci=ut-marketplace,Individual,No,TRUE
+2026,UT,22013,SERFF,2025-11-04,Individual Connect,UTN001,https://regence.com/go/UT/IndividualConnect,Individual,No,TRUE
+2026,UT,34028,SERFF,2025-10-15,DentalGuard Preferred - Individual,UTN001,https://dentalexchange.guardiandirect.com/find-a-dentist,Individual,Yes,FALSE
+2026,UT,34541,SERFF,2025-11-04,Individual Value,UTN001,https://bridgespanhealth.com/go/UT/IndividualValue,Individual,No,TRUE
+2026,UT,40335,SERFF,2025-10-15,Choice (Advantage and Premier),UTN001,https://emihealth.com/ProviderSearch,Individual,Yes,FALSE
+2026,UT,40335,SERFF,2025-10-15,Advantage,UTN002,https://emihealth.com/ProviderSearch,Individual,Yes,FALSE
+2026,UT,42261,SERFF,2025-11-10,Healthy Premier,UTN001,https://uuhip.healthtrioconnect.com/public-app/consumer/provdir/entry.page?xsesschk=,Individual,No,TRUE
+2026,UT,42261,SERFF,2025-11-10,U Health Plus,UTN002,https://uuhip.healthtrioconnect.com/public-app/consumer/provdir/entry.page?xsesschk=,Individual,No,TRUE
+2026,UT,42757,SERFF,2025-11-10,BEST Life and Health National Network,UTN001,https://www.bestlife.com/Provider_Search/,Individual,Yes,FALSE
+2026,UT,46958,SERFF,2025-10-15,HumanaDental PPO/Traditional Preferred,UTN001,https://www.humana.com/finder/search?customerId=1085&pfpkey=317,Individual,Yes,FALSE
+2026,UT,68781,SERFF,2025-12-16,"Select Med IND (medical), Classic (dental)",UTN001,https://selecthealth.sapphirecareselect.com/?network_id=8&ci=SHUT,Individual,No,TRUE
+2026,UT,68781,SERFF,2025-12-16,"Select Value IND (medical), Classic (dental)",UTN002,https://selecthealth.sapphirecareselect.com/?network_id=14&ci=SHUT,Individual,No,TRUE
+2026,UT,68781,SERFF,2025-12-16,"Select Signature - IND (medical), Classic (dental)",UTN003,https://selecthealth.sapphirecareselect.com/?network_id=12&ci=SHUT,Individual,No,TRUE
+2026,UT,71246,SERFF,2025-10-15,Delta Dental PPO Individual,UTN001,https://www.deltadentalins.com/find-a-dentist,Individual,Yes,FALSE
+2026,UT,87169,SERFF,2025-10-15,Renaissance Dental,UTN001,https://www.myrenproviders.com/,Individual,Yes,FALSE
+2026,UT,97462,SERFF,2025-10-15,EssentialSmile Utah - Total Care,UTN011,https://www.solsticecare.com/provider-search.aspx,Individual,Yes,FALSE
+2026,UT,97462,SERFF,2025-10-15,Smile Now Utah - PPO,UTN012,https://www.solsticecare.com/provider-search.aspx,Individual,Yes,FALSE
+2026,UT,98113,SERFF,2025-11-04,Imperial Value,UTN001,https://exchange.imperialhealthplan.com/utah/hmo-exchange/online-provider-directory/,Individual,No,TRUE
+2026,WI,20173,HIOS,2026-02-03,Atlas,WIN001,https://www.healthpartners.com/atlasnetwork,Individual,No,TRUE
+2026,WI,20173,HIOS,2026-02-03,Oak,WIN002,https://www.healthpartners.com/oak,Individual,No,TRUE
+2026,WI,20173,HIOS,2026-02-03,NE WI Select,WIN003,https://www.healthpartners.com/newiselectind,Individual,No,TRUE
+2026,WI,34210,HIOS,2025-10-15,Renaissance Dental,WIN001,https://www.myrenproviders.com/,Individual,Yes,FALSE
+2026,WI,37833,HIOS,2025-10-15,Quartz One Achieve,WIN001,https://quartzbenefits.com/join-quartz/individual-and-family-plans/wisconsin-individual-plans/,Individual,No,TRUE
+2026,WI,37833,HIOS,2025-10-15,Quartz Gundersen Performance,WIN002,https://quartzbenefits.com/join-quartz/individual-and-family-plans/2026-wisconsin-gundersen-performance/,Individual,No,TRUE
+2026,WI,38166,HIOS,2025-12-16,SHP Select,WIN001,https://www.securityhealth.org/SimplyOneProviders,Individual,No,TRUE
+2026,WI,38166,HIOS,2025-12-16,SHP Reliance,WIN002,http://www.securityhealth.org/selectproviders,SHOP (Small Group),No,TRUE
+2026,WI,38166,HIOS,2025-12-16,SHP Premier HMO IFP,WIN003,http://www.securityhealth.org/PremierHMOIFPproviders,Individual,No,TRUE
+2026,WI,38166,HIOS,2025-12-16,SHP Premier HMO SG,WIN004,http://www.securityhealth.org/PremierHMOproviders,SHOP (Small Group),No,TRUE
+2026,WI,38166,HIOS,2025-12-16,SHP Premier POS,WIN005,http://www.securityhealth.org/PremierPOSproviders,SHOP (Small Group),No,TRUE
+2026,WI,38166,HIOS,2025-12-16,SHP SimplyOne IFP,WIN006,http://www.securityhealth.org/relianceproviders,Individual,No,TRUE
+2026,WI,38166,HIOS,2025-12-16,SHP SimplyOne SG,WIN007,https://www.securityhealth.org/enrichproviders,SHOP (Small Group),No,TRUE
+2026,WI,38166,HIOS,2025-12-16,SHP Enrich IFP,WIN008,https://www.securityhealth.org/enrichIFPproviders,Individual,No,TRUE
+2026,WI,38166,HIOS,2025-12-16,SHP Enrich SG,WIN009,https://www.securityhealth.org/simplyoneIFPproviders,SHOP (Small Group),No,TRUE
+2026,WI,38345,HIOS,2025-10-15,Dean Health Plan,WIN001,https://www.DeanCare.com/SearchDeanNetwork-2026,Individual,No,TRUE
+2026,WI,38345,HIOS,2025-10-15,Dean Health Plan - Focus,WIN002,https://www.DeanCare.com/SearchFocusNetwork-2026,Individual,No,TRUE
+2026,WI,38345,HIOS,2025-10-15,Prevea360 Health Plan,WIN003,https://www.Prevea360.com/SearchPrevea360Network-2026,Individual,No,TRUE
+2026,WI,57845,HIOS,2025-10-15,Medica Individual Choice,WIN002,https://www.Medica.com/SearchIndividualChoiceNetwork-2026,Individual,No,TRUE
+2026,WI,57845,HIOS,2025-10-15,Engage by Medica,WIN003,https://www.Medica.com/SearchEngageNetwork-2026,Individual,No,TRUE
+2026,WI,57845,HIOS,2025-10-15,Essentia Choice Care with Medica,WIN005,https://www.Medica.com/SearchEssentiaCareNetwork-2026,Individual,No,TRUE
+2026,WI,58326,HIOS,2025-10-15,HMO,WIN001,https://mercycare.healthsparq.com/healthsparq/public/#/one/city=&state=&postalCode=&country=&insurerCode=MERCYCARE_I&brandCode=MERCYCARE?,Individual,No,TRUE
+2026,WI,65736,HIOS,2025-10-15,Choice PPO,WIN001,https://www.dominionnational.com/find-a-dentist,Individual,Yes,FALSE
+2026,WI,69380,HIOS,2025-10-15,Premier,WIN001,https://emihealth.com/ProviderSearch,Individual,Yes,FALSE
+2026,WI,69380,HIOS,2025-10-15,Advantage,WIN002,https://emihealth.com/ProviderSearch,Individual,Yes,FALSE
+2026,WI,69589,HIOS,2025-10-15,DentalGuard Preferred - Individual,WIN001,https://dentalexchange.guardiandirect.com/find-a-dentist,Individual,Yes,FALSE
+2026,WI,79475,HIOS,2026-02-03,Pathway and Rx Choice Tiered Network,WIN001,https://www.anthem.com/find-care/?alphaprefix=X9P,Individual,No,TRUE
+2026,WI,79475,HIOS,2026-02-03,Pathway and Pharmacy Base Network,WIN002,https://www.anthem.com/find-care/?alphaprefix=X9P,Individual,No,TRUE
+2026,WI,79475,HIOS,2026-02-03,Blue Preferred and Rx Choice Tiered Network,WIN003,https://www.anthem.com/find-care/?alphaprefix=DGH,Individual,No,TRUE
+2026,WI,79475,HIOS,2026-02-03,Blue Preferred and Pharmacy Base Network,WIN004,https://www.anthem.com/find-care/?alphaprefix=DGH,Individual,No,TRUE
+2026,WI,79597,HIOS,2025-10-15,Delta Dental PPO Plus Premier,WIN001,http://www.deltadentalwi.com/provider-search/dental/,Individual,Yes,FALSE
+2026,WI,79597,HIOS,2025-10-15,Delta Dental PPO Plus Premier,WIN002,http://www.deltadentalcoversme.com/s/dentistsearch,SHOP (Small Group),Yes,FALSE
+2026,WI,80180,HIOS,2025-10-15,Individual Exchange Benefit Plan Network,WIN011,https://www.uhc.com/xwidocfindoa2026,Individual,No,TRUE
+2026,WI,81413,HIOS,2025-11-18,WI NE and SE,WIN001,https://networkhealth.com/find-a-doctor/,Individual,No,TRUE
+2026,WI,86584,HIOS,2025-10-15,Signature,WIN001,https://p1.aspirushealthplan.com/find-a-doctor,Individual,No,TRUE
+2026,WI,87416,HIOS,2026-03-17,Wisconsin,WIN001,https://findadoctor.caresource.com/doctors?programs=WI-Exchange,Individual,No,TRUE
+2026,WI,90028,HIOS,2025-10-15,Dental Prime,WIN001,https://www.anthem.com/health-insurance/provider-directory/searchcriteria?planstate=WI&plantype=DENTAL&planname=Dental+Prime,Individual,Yes,FALSE
+2026,WI,91604,HIOS,2025-10-15,HumanaDental PPO/Traditional Preferred,WIN001,https://www.humana.com/finder/search?customerId=1085&pfpkey=317,Individual,Yes,FALSE
+2026,WI,94529,HIOS,2025-10-15,Group Health Cooperative of South Central Wisconsin Partners HMO,WIN001,https://ghcscw.com/find-a-provider/,Individual,No,TRUE
+2026,WI,94529,HIOS,2025-10-15,Group Health Cooperative of South Central Wisconsin Better Together HMO,WIN002,https://ghcscw.com/find-a-provider/,Individual,No,TRUE
+2026,WV,31274,SERFF,2025-11-10,Highmark WV PPO,WVN001,https://findcare.app/healthsparq/public/#/one/insurerCode=FINDCARE_I&brandCode=HMBCBS&productCode=2009,Individual,No,TRUE
+2026,WV,50328,SERFF,2025-10-15,West Virginia,WVN001,https://findadoctor.caresource.com/doctors?programs=WV-Exchange,Individual,No,TRUE
+2026,WV,76526,SERFF,2026-07-21,Delta Dental PPO Individual,WVN001,https://www.deltadentalins.com/find-a-dentist/,Individual,Yes,FALSE
+2026,WY,11269,HIOS,2025-10-15,BlueSelect Individual,WYN001,https://bcbswy.sapphirecareselect.com,Individual,No,TRUE
+2026,WY,34588,HIOS,2026-02-03,Premier,WYN001,https://emihealth.com/ProviderSearch,Individual,Yes,FALSE
+2026,WY,34588,HIOS,2026-02-03,Advantage,WYN002,https://emihealth.com/ProviderSearch,Individual,Yes,FALSE
+2026,WY,47731,HIOS,2025-11-10,BEST Life and Health National Network,WYN001,https://www.bestlife.com/Provider_Search/,Individual,Yes,FALSE
+2026,WY,49714,HIOS,2025-10-15,Choice Network,WYN011,https://www.uhc.com/xwydocfindoa2026,Individual,No,TRUE
+2026,WY,80132,HIOS,2026-02-03,Renaissance Dental,WYN001,https://www.myrenproviders.com/,Individual,Yes,FALSE
+2026,WY,83964,HIOS,2025-10-15,Delta Dental Premier Network - Individual and Family,WYN001,,Individual,Yes,FALSE
+2026,WY,83964,HIOS,2025-10-15,Delta Dental Premier Network - SHOP,WYN002,,SHOP (Small Group),Yes,FALSE

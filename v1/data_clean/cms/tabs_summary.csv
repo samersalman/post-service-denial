@@ -1,0 +1,4 @@
+tab,header_row,data_rows,columns,distinct_plan_ids,distinct_issuers,distinct_states,plan_types,used_in_analysis
+Transparency 2026 - Ind QHP,3,4159,44,4159,185,30,EPO/HMO/POS/PPO,TRUE
+Transparency 2026 - Ind SADP,3,652,44,652,183,30,EPO/HMO/Indemnity/PPO,FALSE
+Transparency 2026 - SHOP,3,145,44,145,6,4,EPO/HMO/POS/PPO,FALSE

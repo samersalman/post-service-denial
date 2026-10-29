@@ -1,0 +1,13 @@
+key,value,unit,description,source_script
+text_g2_rows_total,48,rows,"Rows in the reconciliation with the KFF benchmarks (reproduced, differs explained, differs unexplained, not testable)",09_build_docx.R
+text_g2_rows_other,2,rows,KFF reconciliation rows that neither reproduced nor differed for a documented reason (differs unexplained plus not testable),09_build_docx.R
+text_files_serving_cohort,799,files,Provider files that could serve a cohort plan: distinct files in the inventory (ortho_files_total) minus files skipped because no issuer sharing the index has a computable cohort plan (ortho_files_skipped); equals files harvested plus files not run,09_build_docx.R
+text_models_rows_total,21,rows,"Estimates reported across Table 3 and Supplementary Table 2: the primary row, the Table 3 rows and the Supplement rows",09_build_docx.R
+text_fig3_doublings,8.40443631865572,doublings,Doublings of orthopaedic surgeon density between the 5th and 95th percentile (log2 of the density ratio),09_build_docx.R
+text_fig3_diff_points,-5.28876007032921,percentage points,"Predicted in-network denial probability at the 95th minus the 5th percentile of density, in percentage points",09_build_docx.R
+text_fig3_diff_points_lo,-19.1689733301047,percentage points,"Lower 95 percent limit of the Fig 3 difference, in percentage points",09_build_docx.R
+text_fig3_diff_points_hi,8.59145318944624,percentage points,"Upper 95 percent limit of the Fig 3 difference, in percentage points",09_build_docx.R
+text_residual_exposure_sd,0.437507346592697,doublings,"SD of the primary exposure (log2 density) after removing log2 reported enrollment, plan type, metal group and issuer effects, in doublings (read from results/sap_check_identifying_summary.csv, metric sd_of_residual_exposure_doublings; 05b_sap_checks.R)",09_build_docx.R
+text_software_r,4.6.0,version,R version used by 06_models.R (read from logs/wp6b_models.log),09_build_docx.R
+text_software_sandwich,3.1.1,version,sandwich package version used by 06_models.R (read from logs/wp6b_models.log),09_build_docx.R
+text_software_lme4,2.0.1,version,lme4 package version used by 06_models.R (read from logs/wp6b_models.log),09_build_docx.R

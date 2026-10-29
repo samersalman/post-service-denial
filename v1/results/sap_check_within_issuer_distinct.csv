@@ -1,0 +1,20 @@
+variable,n_distinct,n_issuers,note
+distinct_surgeon_counts_per_issuer,1,96,n_distinct value 5 means 5 or more; cross rows cap at 3; issuers with at least 2 analytic plans only
+distinct_surgeon_counts_per_issuer,2,21,n_distinct value 5 means 5 or more; cross rows cap at 3; issuers with at least 2 analytic plans only
+distinct_surgeon_counts_per_issuer,3,7,n_distinct value 5 means 5 or more; cross rows cap at 3; issuers with at least 2 analytic plans only
+distinct_surgeon_counts_per_issuer,4,2,n_distinct value 5 means 5 or more; cross rows cap at 3; issuers with at least 2 analytic plans only
+distinct_surgeon_counts_per_issuer,5,3,n_distinct value 5 means 5 or more; cross rows cap at 3; issuers with at least 2 analytic plans only
+distinct_network_ids_per_issuer,1,95,n_distinct value 5 means 5 or more; cross rows cap at 3; issuers with at least 2 analytic plans only
+distinct_network_ids_per_issuer,2,20,n_distinct value 5 means 5 or more; cross rows cap at 3; issuers with at least 2 analytic plans only
+distinct_network_ids_per_issuer,3,10,n_distinct value 5 means 5 or more; cross rows cap at 3; issuers with at least 2 analytic plans only
+distinct_network_ids_per_issuer,4,2,n_distinct value 5 means 5 or more; cross rows cap at 3; issuers with at least 2 analytic plans only
+distinct_network_ids_per_issuer,5,2,n_distinct value 5 means 5 or more; cross rows cap at 3; issuers with at least 2 analytic plans only
+cross: distinct counts / distinct network IDs (capped at 3),counts 1 / networks 1,90,n_distinct value 5 means 5 or more; cross rows cap at 3; issuers with at least 2 analytic plans only
+cross: distinct counts / distinct network IDs (capped at 3),counts 2 / networks 2,14,n_distinct value 5 means 5 or more; cross rows cap at 3; issuers with at least 2 analytic plans only
+cross: distinct counts / distinct network IDs (capped at 3),counts 1 / networks 3,1,n_distinct value 5 means 5 or more; cross rows cap at 3; issuers with at least 2 analytic plans only
+cross: distinct counts / distinct network IDs (capped at 3),counts 3 / networks 3,10,n_distinct value 5 means 5 or more; cross rows cap at 3; issuers with at least 2 analytic plans only
+cross: distinct counts / distinct network IDs (capped at 3),counts 2 / networks 3,3,n_distinct value 5 means 5 or more; cross rows cap at 3; issuers with at least 2 analytic plans only
+cross: distinct counts / distinct network IDs (capped at 3),counts 1 / networks 2,5,n_distinct value 5 means 5 or more; cross rows cap at 3; issuers with at least 2 analytic plans only
+cross: distinct counts / distinct network IDs (capped at 3),counts 3 / networks 2,1,n_distinct value 5 means 5 or more; cross rows cap at 3; issuers with at least 2 analytic plans only
+cross: distinct counts / distinct network IDs (capped at 3),counts 2 / networks 1,4,n_distinct value 5 means 5 or more; cross rows cap at 3; issuers with at least 2 analytic plans only
+cross: distinct counts / distinct network IDs (capped at 3),counts 3 / networks 1,1,n_distinct value 5 means 5 or more; cross rows cap at 3; issuers with at least 2 analytic plans only

@@ -1,0 +1,7 @@
+step_id,description,n_plans_excluded_at_step,n_plans_remaining,n_issuers_remaining,n_states_remaining,in_network_claims_received_remaining
+all_plan_rows,Plan rows in the Individual QHP tab,0,4159,185,30,
+plan_level_na,Excluded: plan-level in-network claims are N/A (plan or issuer new to the Exchange),1600,2559,149,30,
+received_suppressed,Excluded: in-network claims received suppressed (**),5,2554,149,30,
+received_zero,Excluded: in-network claims received equal to 0,11,2543,149,30,
+denied_suppressed,Excluded: in-network claims denied suppressed (**) with received above 0,16,2527,149,30,
+computable,Plans with a computable in-network denial proportion,0,2527,149,30,344345114

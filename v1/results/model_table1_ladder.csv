@@ -1,0 +1,10 @@
+row_order,indent,rung_code,rung_label,n_plans,n_issuers,n_states,claim_lines_received,share_of_cohort_plans,share_of_cohort_claim_lines
+1,0,cohort,Cohort: plans with a computable in-network denial proportion,2527,149,30,344345114,1,1
+2,0,excluded_exposure_status,Excluded for exposure status,352,17,11,72872216,0.139295607439652,0.211625526360743
+3,1,issuer_unreachable,Issuer provider files not retrievable,263,11,8,18350577,0.10407597942224,0.0532912367677736
+4,1,issuer_incomplete,Issuer provider files incomplete,77,2,1,54132302,0.0304709141274238,0.157203630309097
+5,1,plan_not_in_directory,Plan not found in the directory,8,2,2,384956,0.00316580925999209,0.0011179365826576
+6,1,no_individuals,Plan listed without individual clinicians,4,2,2,4381,0.00158290462999604,1.27227012142243e-05
+7,0,exposure_ok,Exposure available (exposure status ok),2175,136,30,271472898,0.860704392560348,0.788374473639257
+8,1,lost_complete_case,Lost to the complete-case rule (enrollment suppressed),494,81,27,5693160,0.195488721804511,0.0165332968830799
+9,0,analytic,Analytic sample (exposure available and reported enrollment),1681,135,30,265779738,0.665215670755837,0.771841176756177

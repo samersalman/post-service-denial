@@ -1,0 +1,4 @@
+frozen_utc=2026-10-28T20:07:52Z
+specialty_text_crosswalk.csv sha256=1a68c6dda9eda57ceb9870a7fd24b4fa940e3cbc08bcf523942cb810b96e8cb1
+ortho_taxonomy.csv sha256=80797db7189b74309d524255cc09a9144985a9ec0356ba979429660aa00dc492
+No outcome (denial, claim, appeal or enrollment) column was read by WP4 at any point; the crosswalk was refined on vocabulary evidence only (see wp4_crosswalk_changes.csv).

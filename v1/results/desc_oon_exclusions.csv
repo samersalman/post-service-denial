@@ -1,0 +1,4 @@
+scope,n_excluded,ids,description
+issuers,2,37160;73836,Issuers whose out-of-network denied count exceeds received (left out of out-of-network and combined rates)
+plans,30,,Plans whose out-of-network denied count exceeds received (flagged; no plan-level out-of-network rate is used)
+issuers_holding_the_plans,6,14002;26065;34762;37160;39520;77552,Issuers that hold those plans

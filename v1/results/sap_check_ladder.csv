@@ -1,0 +1,10 @@
+rung,rung_code,label,n_plans,n_issuers,n_states,n_issuer_states,share_of_cohort_plans
+1,cohort_computable,Cohort: plans with a computable outcome,2527,149,30,149,1
+2,exposure_ok,Exposure status ok (enrollment-free exposure set),2175,136,30,136,0.860704392560348
+3,analytic,Analytic sample: exposure ok and numeric reported enrollment,1681,135,30,135,0.665215670755837
+,numeric_enrollment_any_status,"Cohort plans with numeric enrollment, any exposure status",1942,148,30,148,0.768500197863079
+,ok_without_enrollment,Exposure ok but enrollment not numeric (lost to complete case),494,81,27,81,0.195488721804511
+,excluded_issuer_incomplete,Excluded from exposure analyses: issuer_incomplete,77,2,1,2,0.0304709141274238
+,excluded_issuer_unreachable,Excluded from exposure analyses: issuer_unreachable,263,11,8,11,0.10407597942224
+,excluded_no_individuals,Excluded from exposure analyses: no_individuals,4,2,2,2,0.00158290462999604
+,excluded_plan_not_in_directory,Excluded from exposure analyses: plan_not_in_directory,8,2,2,2,0.00316580925999209

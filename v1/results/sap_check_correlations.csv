@@ -1,0 +1,12 @@
+pair,sample,method,n,rho
+log2 density vs log2 reported enrollment,analytic,spearman,1681,-0.767134898109319
+log2 surgeon count vs log2 reported enrollment,analytic,spearman,1681,0.0743463194743604
+log2 derm count vs log2 reported enrollment,analytic,spearman,1681,0.0753658901397194
+log2 derm density vs log2 reported enrollment,analytic,spearman,1681,-0.736027044794251
+log2 ophth density vs log2 reported enrollment,analytic,spearman,1676,-0.634190905714441
+log2 ortho density vs log2 derm density,analytic,spearman,1681,0.982743782883377
+log2 ortho density vs log2 ophth density,analytic,spearman,1676,0.838798273628226
+log2 ortho density vs log2 APC-inclusive density,analytic,spearman,1681,0.996971067460311
+log2 surgeon count vs log2 listed individual NPIs,analytic,spearman,1681,0.863828194092947
+log2 ortho density vs log2 surgeon share,analytic,spearman,1681,-0.100774990375567
+log2 density vs metal level rank (Catastrophic<Bronze<Silver<Gold<Platinum),analytic,spearman,1681,0.12372056584587

@@ -1,0 +1,186 @@
+issuer_id,state,issuer_name,in_network_claims_received,has_reported_in_network_count,has_computable_plan,n_computable_plans,n_computable_with_enrollment,computable_plan_claims,index_url,index_status,n_provider_files,n_files_retrievable,n_files_size_unknown,total_bytes,total_bytes_is_lower_bound,index_bytes_known,n_issuers_sharing_index,n_files_parse_ok,n_files_with_individuals,schema_issuer_id_in_provider_plan_ids,n_computable_plans_in_plan_file,n_plan_files,n_plan_files_ok,retrievable_and_parses_strict,retrievable_and_parses_relaxed
+33602,TX,Blue Cross Blue Shield of Texas,58806743,TRUE,TRUE,522,380,55786747,https://www.bcbstx.com/aca-json/tx/index_tx.json,ok,159,159,159,0,TRUE,0,1,159,125,TRUE,522,1,0,TRUE,TRUE
+30252,FL,"Health Options, Inc.",42561091,TRUE,TRUE,49,45,31911413,https://www.bcbsfl.com/DocumentLibrary/Providers/cms/index.json,ok,52,52,0,7510002491,FALSE,15020004982,2,52,23,TRUE,49,3,0,TRUE,TRUE
+16842,FL,Blue Cross and Blue Shield of Florida,22220889,TRUE,TRUE,28,28,22220889,https://www.bcbsfl.com/DocumentLibrary/Providers/cms/index.json,ok,52,52,0,7510002491,FALSE,15020004982,2,52,23,TRUE,28,3,0,TRUE,TRUE
+29418,TX,Celtic Insurance Company,16238521,TRUE,TRUE,9,9,12409765,https://api.centene.com/ambetter/reference/cms-data-index.json,ok,128,128,0,650473930.958333,FALSE,15611374343,24,128,64,TRUE,9,1,0,TRUE,TRUE
+11512,NC,Blue Cross and Blue Shield of NC,16183703,TRUE,TRUE,94,88,15423060,https://www.bcbsnc.com/cms-data-index.json,failed: HTML landing page,,,,,FALSE,,1,,,FALSE,0,,,FALSE,FALSE
+40220,TX,"UnitedHealthcare of Texas, Inc.",14698969,TRUE,TRUE,12,12,8645485,https://www.uhc.com/content/dam/uhcdotcom/en/general/cms-data-index.json,ok,22,22,0,320037312.75,FALSE,6400746255,20,22,21,TRUE,12,21,0,TRUE,TRUE
+26065,SC,Blue Cross and Blue Shield of South Carolina,11796220,TRUE,TRUE,40,36,9769765,https://www.southcarolinablues.com/web/data/sc/bluecross-index.json,ok,1,1,0,308871594,FALSE,308871594,1,1,1,TRUE,40,1,0,TRUE,TRUE
+90714,MS,Ambetter of Magnolia Inc.,11374142,TRUE,TRUE,13,11,6442230,https://api.centene.com/ambetter/reference/cms-data-index.json,ok,128,128,0,650473930.958333,FALSE,15611374343,24,128,64,TRUE,13,1,0,TRUE,TRUE
+46944,AL,Blue Cross and Blue Shield of Alabama,10704172,TRUE,TRUE,12,12,10064534,https://www.bcbsal.org/cms/cms-data-index.json,ok,2,2,0,202675336,FALSE,202675336,1,2,1,TRUE,12,1,0,TRUE,TRUE
+70111,TN,Celtic Insurance Company,8726180,TRUE,TRUE,14,14,5393451,https://api.centene.com/ambetter/reference/cms-data-index.json,ok,128,128,0,650473930.958333,FALSE,15611374343,24,128,64,TRUE,14,1,0,TRUE,TRUE
+87571,OK,Blue Cross Blue Shield of Oklahoma,8439891,TRUE,TRUE,69,54,7851213,https://www.bcbsok.com/aca-json/ok/index_ok.json,ok,19,19,18,74071,TRUE,74071,1,19,9,TRUE,69,1,0,TRUE,TRUE
+68781,UT,"SelectHealth, Inc.",8402145,TRUE,TRUE,20,16,6966679,https://ebu.intermountainhealthcare.org/shprovider/index.json,ok,1,1,0,263853436,FALSE,263853436,1,1,1,TRUE,20,4,0,TRUE,TRUE
+40788,TX,Scott and White Health Plan,8274564,TRUE,TRUE,9,9,8274564,https://my.firstcare.com/CMS/MachineReadableFormat/swhp/cms-data-index.json,ok,1,1,0,170137040,FALSE,170137040,1,1,1,TRUE,0,1,0,TRUE,TRUE
+62141,AR,Celtic Insurance Company,8079882,TRUE,TRUE,14,13,5785745,https://api.centene.com/ambetter/reference/cms-data-index.json,ok,128,128,0,650473930.958333,FALSE,15611374343,24,128,64,TRUE,14,1,0,TRUE,TRUE
+79222,SC,"Absolute Total Care, Inc",8043578,TRUE,TRUE,16,16,4672106,https://api.centene.com/ambetter/reference/cms-data-index.json,ok,128,128,0,650473930.958333,FALSE,15611374343,24,128,64,TRUE,9,1,0,TRUE,TRUE
+27248,TX,"Community Health Choice, Inc.",6776421,TRUE,TRUE,9,9,5992089,https://providerdirectory.communityhealthchoice.org/him/index.json,ok,1,1,0,21586503.5,FALSE,43173007,2,1,1,TRUE,9,1,0,TRUE,TRUE
+14002,TN,BlueCross BlueShield of Tennessee,6270421,TRUE,TRUE,37,26,2851035,https://www.bcbst.com/cms-data-index.json,ok,16,16,0,2934765335,FALSE,2934765335,1,16,9,TRUE,37,1,0,TRUE,TRUE
+69461,AL,UnitedHealthcare Insurance Company,6010107,TRUE,TRUE,8,7,5124723,https://www.uhc.com/content/dam/uhcdotcom/en/general/cms-data-index.json,ok,22,22,0,320037312.75,FALSE,6400746255,20,22,21,TRUE,8,21,0,TRUE,TRUE
+99723,MO,Celtic Insurance Company,5919313,TRUE,TRUE,15,15,4021970,https://api.centene.com/ambetter/reference/cms-data-index.json,ok,128,128,0,650473930.958333,FALSE,15611374343,24,128,64,TRUE,15,1,0,TRUE,TRUE
+87226,TX,Superior Health Plan,5807390,TRUE,TRUE,9,6,4075637,https://api.centene.com/ambetter/reference/cms-data-index.json,ok,128,128,0,650473930.958333,FALSE,15611374343,24,128,64,TRUE,9,1,0,TRUE,TRUE
+19636,LA,"HMO Louisiana, Inc.",5472870,TRUE,TRUE,13,13,4365238,https://www.lablue.com/acadirectory/19636/19636Index.json,ok,8,8,0,219476183,FALSE,219476183,1,8,3,TRUE,13,1,0,TRUE,TRUE
+99248,TN,Cigna Health and Life Insurance Company,4704089,TRUE,TRUE,8,8,3596053,https://www.cigna.com/sites/json/cms-data-index.json,ok,1,1,0,104091796.25,FALSE,832734370,8,1,1,TRUE,8,1,0,TRUE,TRUE
+48121,FL,Cigna Health and Life Insurance Company,4620013,TRUE,TRUE,10,10,3493501,https://www.cigna.com/sites/json/cms-data-index.json,ok,1,1,0,104091796.25,FALSE,832734370,8,1,1,TRUE,10,1,0,TRUE,TRUE
+77264,NC,Ambetter of North Carolina Inc.,4295438,TRUE,TRUE,27,27,3642653,https://api.centene.com/ambetter/reference/cms-data-index.json,ok,128,128,0,650473930.958333,FALSE,15611374343,24,128,64,TRUE,27,1,0,TRUE,TRUE
+75293,AR,USAble Mutual Insurance Company,4295266,TRUE,TRUE,5,5,3761769,https://secure.arkansasbluecross.com/doclib/QHP/index.json,ok,2,2,0,324625513,FALSE,324625513,1,2,1,TRUE,5,2,0,TRUE,TRUE
+29698,MI,Priority Health,4106893,TRUE,TRUE,5,2,26533,https://priorityhealth.stylelabs.cloud/api/public/content/index.json,ok,25,25,0,2505540965,FALSE,2505540965,1,25,15,TRUE,5,1,0,TRUE,TRUE
+76589,TX,"Cigna HealthCare of Texas, Inc.",4080439,TRUE,TRUE,10,10,3765878,https://www.cigna.com/sites/json/cms-data-index.json,ok,1,1,0,104091796.25,FALSE,832734370,8,1,1,FALSE,10,1,0,TRUE,TRUE
+25896,IA,"Wellmark Health Plan of Iowa, Inc.",3945784,TRUE,TRUE,9,9,3672910,https://public-cdn.wellmark.com/json/WHPI/index.json,ok,2,2,0,68379681,FALSE,68379681,1,2,0,TRUE,9,2,0,TRUE,TRUE
+32753,MO,Healthy Alliance Life Co(Anthem BCBS),3941746,TRUE,FALSE,0,0,0,https://www22.elevancehealth.com/cms-data-index-json/Elevance-Health-Data-Index.json,ok,38,38,0,1098804375.85714,FALSE,7691630631,7,38,30,TRUE,0,9,0,TRUE,TRUE
+34368,KS,Celtic Insurance Company,3865491,TRUE,TRUE,16,15,2868543,https://api.centene.com/ambetter/reference/cms-data-index.json,ok,128,128,0,650473930.958333,FALSE,15611374343,24,128,64,TRUE,16,1,0,TRUE,TRUE
+41047,OH,Buckeye Community Health Plan,3673782,TRUE,TRUE,16,16,2562228,https://api.centene.com/ambetter/reference/cms-data-index.json,ok,128,128,0,650473930.958333,FALSE,15611374343,24,128,64,TRUE,16,1,0,TRUE,TRUE
+68398,FL,"UnitedHealthcare of Florida, Inc.",3564380,TRUE,TRUE,9,9,2470477,https://www.uhc.com/content/dam/uhcdotcom/en/general/cms-data-index.json,ok,22,22,0,320037312.75,FALSE,6400746255,20,22,21,TRUE,9,21,0,TRUE,TRUE
+56503,FL,"Florida Health Care Plan, Inc.",3536806,TRUE,TRUE,23,18,3362081,https://www.fhcp.com/xml/cms-data-index.json,ok,1,1,0,56285499,FALSE,56285499,1,1,1,TRUE,23,1,0,TRUE,TRUE
+29276,OH,Community Insurance Company(Anthem BCBS),3535080,TRUE,FALSE,0,0,0,https://www22.elevancehealth.com/cms-data-index-json/Elevance-Health-Data-Index.json,ok,38,38,0,1098804375.85714,FALSE,7691630631,7,38,30,TRUE,0,9,0,TRUE,TRUE
+54192,IN,"CareSource Indiana, Inc.",3524662,TRUE,TRUE,15,13,3297138,https://caresource.com/vendor/cms/cms-data-index.json,ok,8,8,0,216485350,FALSE,865941400,4,8,3,TRUE,15,4,0,TRUE,TRUE
+58594,MI,"Meridian Health Plan of Michigan, Inc.",3404769,TRUE,TRUE,9,8,1816952,https://api.centene.com/ambetter/reference/cms-data-index.json,ok,128,128,0,650473930.958333,FALSE,15611374343,24,128,64,TRUE,9,1,0,TRUE,TRUE
+98185,MI,Blue Care Network of Michigan,3398397,TRUE,TRUE,13,12,1763626,https://www.bcbsm.com/amslibs/content/dam/public/marketplace/individual/json/bcn/index.json,ok,1,1,0,245021983,FALSE,245021983,1,1,1,TRUE,13,1,0,TRUE,TRUE
+91450,AZ,"Health Net of Arizona, Inc.",3202241,TRUE,TRUE,16,15,1413688,https://api.centene.com/ambetter/reference/cms-data-index.json,ok,128,128,0,650473930.958333,FALSE,15611374343,24,128,64,TRUE,16,1,0,TRUE,TRUE
+20069,TX,Oscar Insurance Company,3001076,TRUE,TRUE,9,9,2056148,https://d3ul0st9g52g6o.cloudfront.net/ffm/cms-data-index.json,ok,35,35,0,1114034765.4,FALSE,16710521481,15,35,35,TRUE,9,1,0,TRUE,TRUE
+77552,OH,"CareSource Ohio, Inc.",2814185,TRUE,TRUE,14,11,2720662,https://caresource.com/vendor/cms/cms-data-index.json,ok,8,8,0,216485350,FALSE,865941400,4,8,3,TRUE,14,4,0,TRUE,TRUE
+40702,AZ,"UnitedHealthcare of Arizona, Inc.",2715431,TRUE,TRUE,3,3,162352,https://www.uhc.com/content/dam/uhcdotcom/en/general/cms-data-index.json,ok,22,22,0,320037312.75,FALSE,6400746255,20,22,21,TRUE,3,21,0,TRUE,TRUE
+17575,IN,Anthem Ins Companies Inc(Anthem BCBS),2552004,TRUE,FALSE,0,0,0,https://www22.elevancehealth.com/cms-data-index-json/Elevance-Health-Data-Index.json,ok,38,38,0,1098804375.85714,FALSE,7691630631,7,38,30,TRUE,0,9,0,TRUE,TRUE
+56766,MS,Cigna Health and Life Insurance Company,2495922,TRUE,TRUE,10,9,2433132,https://www.cigna.com/sites/json/cms-data-index.json,ok,1,1,0,104091796.25,FALSE,832734370,8,1,1,FALSE,10,1,0,TRUE,TRUE
+79475,WI,Compcare Health Serv Ins Co(Anthem BCBS),2462417,TRUE,FALSE,0,0,0,https://www22.elevancehealth.com/cms-data-index-json/Elevance-Health-Data-Index.json,ok,38,38,0,1098804375.85714,FALSE,7691630631,7,38,30,TRUE,0,9,0,TRUE,TRUE
+31274,WV,Highmark Blue Cross Blue Shield West Virginia,2341171,TRUE,TRUE,8,8,1064168,https://www.pfpdata.com/cms-data/31274-wv/31274-index.json,ok,5,5,0,281388415,FALSE,281388415,1,5,3,TRUE,8,1,0,TRUE,TRUE
+96751,NH,Matthew Thornton Hlth Plan(Anthem BCBS),2199992,TRUE,TRUE,11,11,1638151,https://www22.elevancehealth.com/cms-data-index-json/Elevance-Health-Data-Index.json,ok,38,38,0,1098804375.85714,FALSE,7691630631,7,38,30,TRUE,11,9,0,TRUE,TRUE
+69443,TN,UnitedHealthcare Insurance Company,2157936,TRUE,TRUE,9,7,1264942,https://www.uhc.com/content/dam/uhcdotcom/en/general/cms-data-index.json,ok,22,22,0,320037312.75,FALSE,6400746255,20,22,21,TRUE,9,21,0,TRUE,TRUE
+36194,FL,"Health First Commercial Plans, Inc.",2123475,TRUE,TRUE,10,10,1996231,https://apps.hf.org/applications/dn/cms_json/index.json,ok,1,1,0,49664092,FALSE,49664092,1,1,0,TRUE,10,1,0,TRUE,TRUE
+76168,DE,Highmark BCBSD Inc.,2042140,TRUE,TRUE,7,7,1027141,https://www.pfpdata.com/cms-data/76168-de/76168-index.json,ok,5,5,0,270744513,FALSE,270744513,1,5,3,TRUE,0,1,0,TRUE,TRUE
+64353,OH,"Molina Healthcare of Ohio, Inc.",1975213,TRUE,TRUE,7,7,1975213,https://www.molinahealthcare.com/cms/json/index.json,ok,14,14,0,172907827,FALSE,1037446962,6,14,14,TRUE,7,1,0,TRUE,TRUE
+62505,OK,Celtic Insurance Company,1824797,TRUE,TRUE,15,10,1057825,https://api.centene.com/ambetter/reference/cms-data-index.json,ok,128,128,0,650473930.958333,FALSE,15611374343,24,128,64,TRUE,15,1,0,TRUE,TRUE
+15560,MI,Blue Cross Blue Shield of Michigan Mutual Insurance Company,1807844,TRUE,TRUE,9,9,1424199,https://www.bcbsm.com/amslibs/content/dam/public/marketplace/individual/json/bcbsm/index.json,ok,1,1,0,142894350,FALSE,142894350,1,1,1,TRUE,9,1,0,TRUE,TRUE
+90787,LA,"Ambetter Health of Louisiana, Inc.",1704183,TRUE,TRUE,15,8,914945,https://api.centene.com/ambetter/reference/cms-data-index.json,ok,128,128,0,650473930.958333,FALSE,15611374343,24,128,64,TRUE,15,1,0,TRUE,TRUE
+37903,AR,"QualChoice Life & Health Insurance Company, Inc.",1680519,TRUE,TRUE,4,2,1582719,https://api.centene.com/ambetter/reference/cms-data-index.json,ok,128,128,0,650473930.958333,FALSE,15611374343,24,128,64,TRUE,4,1,0,TRUE,TRUE
+53932,AL,Celtic Insurance Company,1644320,TRUE,TRUE,11,9,1479277,https://api.centene.com/ambetter/reference/cms-data-index.json,ok,128,128,0,650473930.958333,FALSE,15611374343,24,128,64,TRUE,11,1,0,TRUE,TRUE
+54332,NC,"UnitedHealthcare of North Carolina, Inc",1601659,TRUE,TRUE,6,6,726499,https://www.uhc.com/content/dam/uhcdotcom/en/general/cms-data-index.json,ok,22,22,0,320037312.75,FALSE,6400746255,20,22,21,TRUE,6,21,0,TRUE,TRUE
+70525,AR,"QCA Health Plan, Inc.",1593974,TRUE,TRUE,6,2,1553708,https://api.centene.com/ambetter/reference/cms-data-index.json,ok,128,128,0,650473930.958333,FALSE,15611374343,24,128,64,TRUE,6,1,0,TRUE,TRUE
+53901,AZ,"Blue Cross and Blue Shield of Arizona, Inc.",1522332,TRUE,TRUE,111,55,935182,https://azblue.com/JSON/Index.JSON,ok,5,5,0,678219725,FALSE,678219725,1,5,4,TRUE,111,1,0,TRUE,TRUE
+13262,AR,"HMO Partners, Inc.",1506621,TRUE,TRUE,5,4,1506621,https://secure.healthadvantage-hmo.com/doclib/QHP/HA/index.json,ok,2,2,0,198490729,FALSE,198490729,1,2,1,TRUE,5,2,0,TRUE,TRUE
+87416,WI,Common Ground Healthcare Cooperative,1504864,TRUE,TRUE,16,14,1308113,https://caresource.com/vendor/cms/cms-data-index.json,ok,8,8,0,216485350,FALSE,865941400,4,8,3,TRUE,15,4,0,TRUE,TRUE
+54172,FL,"Molina Healthcare of Florida, Inc",1447710,TRUE,TRUE,9,7,1229002,https://www.molinahealthcare.com/cms/json/index.json,ok,14,14,0,172907827,FALSE,1037446962,6,14,14,TRUE,9,1,0,TRUE,TRUE
+20305,NE,Medica Insurance Company,1322366,TRUE,TRUE,24,18,1047187,https://esbgatewaypub.medica.com/rest/QHP/NE/20305/cms-data-index.json,failed: TLS,,,,,FALSE,,1,,,FALSE,0,,,FALSE,FALSE
+99969,OH,Medical Health Insuring Corp. of Ohio,1320144,TRUE,TRUE,6,6,758022,https://providersearch.medmutual.com/cms-data-index.json,ok,1,1,0,392816634,FALSE,392816634,1,1,1,TRUE,6,1,0,TRUE,TRUE
+38166,WI,"Security Health Plan of Wisconsin, Inc.",1306739,TRUE,TRUE,31,18,1180268,https://shp-web-public.s3.amazonaws.com/PRD/exchange/cms-data-index.json,ok,1,1,0,459827115,FALSE,459827115,1,1,1,TRUE,30,1,0,TRUE,TRUE
+11269,WY,Blue Cross Blue Shield of Wyoming,1305051,TRUE,TRUE,10,10,810926,https://www.pfpdata.com/cms-data/11269-wy/11269-index.json,ok,4,4,0,482791069,FALSE,482791069,1,4,3,TRUE,10,1,0,TRUE,TRUE
+29341,OH,Oscar Buckeye State Insurance Corp.,1276642,TRUE,TRUE,8,8,881568,https://d3ul0st9g52g6o.cloudfront.net/ffm/cms-data-index.json,ok,35,35,0,1114034765.4,FALSE,16710521481,15,35,35,TRUE,8,1,0,TRUE,TRUE
+86382,FL,Sunshine State Health Plan,1271365,TRUE,TRUE,6,6,855974,https://api.centene.com/ambetter/reference/cms-data-index.json,ok,128,128,0,650473930.958333,FALSE,15611374343,24,128,64,TRUE,6,1,0,TRUE,TRUE
+66252,TX,CHRISTUS Health Plan,1206500,TRUE,FALSE,0,0,0,https://chppayment.christushealth.org/workfiles/json/index.json,ok,7,7,0,538901614.5,FALSE,1077803229,2,7,1,TRUE,0,4,0,TRUE,TRUE
+30751,MT,Blue Cross and Blue Shield of Montana,1143888,TRUE,TRUE,57,41,1087925,https://www.bcbsmt.com/aca-json/mt/index_mt.json,ok,14,14,12,80307,TRUE,80307,1,14,7,TRUE,57,1,0,TRUE,TRUE
+38345,WI,Dean Health Plan,1104307,TRUE,TRUE,16,10,283642,https://www.medica.com/mrf/index/WI2.json,failed: HTTP 403,,,,,FALSE,,1,,,FALSE,0,,,FALSE,FALSE
+39424,OR,"Moda Health Plan, Inc.",1102738,TRUE,FALSE,0,0,0,https://www.modahealth.com/cms-data-index.json,ok,3,3,0,288542527,FALSE,865627581,3,3,3,TRUE,0,3,0,TRUE,TRUE
+95426,MO,UnitedHealthcare Insurance Company,1070569,TRUE,TRUE,9,9,733397,https://www.uhc.com/content/dam/uhcdotcom/en/general/cms-data-index.json,ok,22,22,0,320037312.75,FALSE,6400746255,20,22,21,TRUE,9,21,0,TRUE,TRUE
+42326,SC,"MOLINA HEALTHCARE OF SOUTH CAROLINA, INC",1055016,TRUE,TRUE,7,6,1055016,https://www.molinahealthcare.com/cms/json/index.json,ok,14,14,0,172907827,FALSE,1037446962,6,14,14,TRUE,7,1,0,TRUE,TRUE
+18558,KS,"Blue Cross and Blue Shield of Kansas, Inc.",1042704,TRUE,TRUE,8,8,990477,https://www.bcbsks.com/qhp-data/index.BCBSKS.json,ok,1,1,1,0,TRUE,0,1,1,0,TRUE,8,1,0,TRUE,TRUE
+69842,LA,UnitedHealthcare Insurance Company,1031551,TRUE,TRUE,8,7,586475,https://www.uhc.com/content/dam/uhcdotcom/en/general/cms-data-index.json,ok,22,22,0,320037312.75,FALSE,6400746255,20,22,21,TRUE,8,21,0,TRUE,TRUE
+77969,OR,Regence BlueCross BlueShield of Oregon,1013376,TRUE,TRUE,12,12,1013376,https://cms-machine-readable.cambiahealth.com/index.json,ok,3,3,0,53079008,FALSE,212316032,4,3,1,TRUE,12,1,0,TRUE,TRUE
+73943,NC,"Cigna HealthCare of North Carolina, Inc.",1009831,TRUE,TRUE,7,6,727212,https://www.cigna.com/sites/json/cms-data-index.json,ok,1,1,0,104091796.25,FALSE,832734370,8,1,1,FALSE,7,1,0,TRUE,TRUE
+97176,LA,Louisiana Health Service & Indemnity Company,992770,TRUE,TRUE,8,8,813244,https://www.lablue.com/acadirectory/97176/97176Index.json,ok,10,10,0,124395950,FALSE,124395950,1,10,4,TRUE,8,2,0,TRUE,TRUE
+45786,TX,"Molina Healthcare of Texas, Inc.",987573,TRUE,TRUE,7,7,987573,https://www.molinahealthcare.com/cms/json/index.json,ok,14,14,0,172907827,FALSE,1037446962,6,14,14,TRUE,7,1,0,TRUE,TRUE
+94968,KS,UnitedHealthcare Insurance Company,935058,TRUE,TRUE,9,8,682065,https://www.uhc.com/content/dam/uhcdotcom/en/general/cms-data-index.json,ok,22,22,0,320037312.75,FALSE,6400746255,20,22,21,TRUE,9,21,0,TRUE,TRUE
+33931,OH,"UnitedHealthcare of Ohio, Inc.",895840,TRUE,TRUE,8,8,444239,https://www.uhc.com/content/dam/uhcdotcom/en/general/cms-data-index.json,ok,22,22,0,320037312.75,FALSE,6400746255,20,22,21,TRUE,8,21,0,TRUE,TRUE
+32225,MT,Montana Health Cooperative,868851,TRUE,TRUE,15,13,617520,https://rmm.mhc.coop/plans_providers/32225_MT_Index_2026.json,ok,1,1,0,61550379,FALSE,61550379,1,1,1,TRUE,15,1,0,TRUE,TRUE
+31195,SD,Sanford Health Plan,855229,TRUE,TRUE,18,16,812026,https://tools.sanfordhealthplan.com/json/index.json,ok,2,2,0,1123927790,FALSE,2247855580,2,2,0,TRUE,18,1,0,TRUE,TRUE
+50328,WV,CareSource West Virginia Co.,843758,TRUE,TRUE,14,7,833636,https://caresource.com/vendor/cms/cms-data-index.json,ok,8,8,0,216485350,FALSE,865941400,4,8,3,TRUE,14,4,0,TRUE,TRUE
+23552,TN,Oscar Insurance Company,798002,TRUE,TRUE,10,10,622415,https://d3ul0st9g52g6o.cloudfront.net/ffm/cms-data-index.json,ok,35,35,0,1114034765.4,FALSE,16710521481,15,35,35,TRUE,10,1,0,TRUE,TRUE
+71667,MI,"UnitedHealthcare Community Plan, Inc.",780202,TRUE,TRUE,8,7,257771,https://www.uhc.com/content/dam/uhcdotcom/en/general/cms-data-index.json,ok,22,22,0,320037312.75,FALSE,6400746255,20,22,21,TRUE,8,21,0,TRUE,TRUE
+38344,AK,Premera Blue Cross Blue Shield of Alaska,777414,TRUE,TRUE,8,8,740337,https://fm.formularynavigator.com/jsonFiles/publish/11/47/cms-data-index.json,ok,1,1,0,229848369,FALSE,229848369,1,1,1,TRUE,8,1,0,TRUE,TRUE
+48772,AR,"USAble HMO, Inc.",766146,TRUE,TRUE,5,5,766146,https://secure.arkansasoctave.com/doclib/QHP/Octave/index.json,ok,2,2,0,170382209,FALSE,170382209,1,2,1,TRUE,5,2,0,TRUE,TRUE
+75841,NH,Celtic Insurance Company,759938,TRUE,TRUE,16,15,606359,https://api.centene.com/ambetter/reference/cms-data-index.json,ok,128,128,0,650473930.958333,FALSE,15611374343,24,128,64,TRUE,16,1,0,TRUE,TRUE
+18350,HI,Hawaii Medical Service Association,723658,TRUE,TRUE,7,7,693110,https://hmsa.com/cms-data-index.json,ok,1,1,0,21480382,FALSE,21480382,1,1,1,TRUE,7,1,0,TRUE,TRUE
+37160,ND,Blue Cross Blue Shield of North Dakota,717367,TRUE,TRUE,13,13,662157,https://www.pfpdata.com/cms-data/37160-nd/37160-index.json,ok,3,3,0,288836820,FALSE,288836820,1,3,2,TRUE,13,1,0,TRUE,TRUE
+37833,WI,Quartz Health Benefit Plans Corporation,696511,TRUE,TRUE,11,8,356649,https://apps.quartzbenefits.com/cmsfiles/CMS-INDEX-JSON.json,ok,6,6,0,498516546,FALSE,498516546,1,6,5,TRUE,11,1,0,TRUE,TRUE
+79975,MS,"Molina Healthcare of Mississippi, Inc",687896,TRUE,TRUE,2,1,15895,https://www.molinahealthcare.com/cms/json/index.json,ok,14,14,0,172907827,FALSE,1037446962,6,14,14,TRUE,2,1,0,TRUE,TRUE
+80180,WI,"UnitedHealthcare of Wisconsin, Inc.",659260,TRUE,TRUE,6,6,203082,https://www.uhc.com/content/dam/uhcdotcom/en/general/cms-data-index.json,ok,22,22,0,320037312.75,FALSE,6400746255,20,22,21,TRUE,6,21,0,TRUE,TRUE
+42261,UT,University of Utah Health Insurance Plans,644314,TRUE,TRUE,12,12,567522,https://doc.uhealthplan.utah.edu/individual/json/42261_UT_index.json,ok,1,1,0,54519152,FALSE,54519152,1,1,1,TRUE,12,2,0,TRUE,TRUE
+89364,ND,Sanford Health Plan,642746,TRUE,TRUE,18,15,594931,https://tools.sanfordhealthplan.com/json/index.json,ok,2,2,0,1123927790,FALSE,2247855580,2,2,0,TRUE,18,1,0,TRUE,TRUE
+45845,OH,Oscar Insurance Corporation of Ohio,610423,TRUE,TRUE,11,10,397630,https://d3ul0st9g52g6o.cloudfront.net/ffm/cms-data-index.json,ok,35,35,0,1114034765.4,FALSE,16710521481,15,35,35,TRUE,11,1,0,TRUE,TRUE
+29678,NE,Blue Cross and Blue Shield of Nebraska,590006,TRUE,TRUE,27,25,585498,https://cms.nebraskablue.com/cms-data-index.json,ok,8,8,0,1968460219,FALSE,1968460219,1,8,2,TRUE,27,2,0,TRUE,TRUE
+69512,MO,Oscar Insurance Company,544633,TRUE,TRUE,9,7,500184,https://d3ul0st9g52g6o.cloudfront.net/ffm/cms-data-index.json,ok,35,35,0,1114034765.4,FALSE,16710521481,15,35,35,TRUE,9,1,0,TRUE,TRUE
+66966,FL,Capital Health Plan,540104,TRUE,TRUE,6,6,540104,https://capitalhealth.com/cms-data-index.json,ok,1,1,1,0,TRUE,0,1,1,0,TRUE,6,1,0,TRUE,TRUE
+57845,WI,Medica Community Health Plan,510731,TRUE,TRUE,18,17,414405,https://esbgatewaypub.medica.com/rest/QHP/WI/57845/cms-data-index.json,failed: TLS,,,,,FALSE,,1,,,FALSE,0,,,FALSE,FALSE
+71837,TX,"Sendero Health Plans, Inc.",471218,TRUE,TRUE,7,7,373093,https://senderohealth.com/files/json/index.json,ok,1,1,0,77931545,FALSE,77931545,1,1,1,TRUE,7,1,0,TRUE,TRUE
+45819,IA,Oscar Insurance Company,467434,TRUE,TRUE,19,13,407665,https://d3ul0st9g52g6o.cloudfront.net/ffm/cms-data-index.json,ok,35,35,0,1114034765.4,FALSE,16710521481,15,35,35,TRUE,19,1,0,TRUE,TRUE
+20173,WI,HealthPartners Insurance Company,466789,TRUE,TRUE,16,12,449068,https://www.healthpartners.com/cms/ffm/cms-data-index.json,ok,1,1,0,438847977,FALSE,438847977,1,1,1,TRUE,16,1,0,TRUE,TRUE
+33764,SC,"UnitedHealthcare of South Carolina, Inc.",438616,TRUE,TRUE,6,4,115086,https://www.uhc.com/content/dam/uhcdotcom/en/general/cms-data-index.json,ok,22,22,0,320037312.75,FALSE,6400746255,20,22,21,TRUE,6,21,0,TRUE,TRUE
+60536,SD,"Avera Health Plans, Inc.",436009,TRUE,TRUE,18,13,336307,https://www.ahsecure.net/CMS/index.json,ok,13,13,0,534597768,FALSE,1069195536,2,13,9,TRUE,18,2,0,TRUE,TRUE
+98905,OK,CommunityCare HMO Inc.,435151,TRUE,TRUE,10,10,431047,https://secure.ccok.com/json/index.json,ok,1,1,0,24621932,FALSE,24621932,1,1,1,TRUE,10,1,0,TRUE,TRUE
+19898,FL,"AvMed, Inc.",431996,TRUE,TRUE,57,21,346516,https://shc-p-001.sitecorecontenthub.cloud/api/public/content/indexfile.json,ok,24,24,0,933184178,FALSE,933184178,1,24,20,TRUE,57,2,0,TRUE,TRUE
+50305,SD,Wellmark of South Dakota,425214,TRUE,TRUE,14,11,425214,https://public-cdn.wellmark.com/json/WSD/index.json,ok,1,1,0,20649306,FALSE,20649306,1,1,0,TRUE,14,1,0,TRUE,TRUE
+93078,IA,Medica Insurance Company,420450,TRUE,TRUE,28,11,300364,https://esbgatewaypub.medica.com/rest/QHP/IA/93078/cms-data-index.json,failed: TLS,,,,,FALSE,,1,,,FALSE,0,,,FALSE,FALSE
+56707,OR,Providence Health Plan,410010,TRUE,TRUE,9,9,229700,https://www.providencehealthplan.com/cms-data-index.json,ok,3,3,0,636557621,FALSE,636557621,1,3,3,TRUE,9,2,0,TRUE,TRUE
+53461,MO,Medica Insurance Company,406622,TRUE,TRUE,24,12,334582,https://esbgatewaypub.medica.com/rest/QHP/MO/53461/cms-data-index.json,failed: TLS,,,,,FALSE,,1,,,FALSE,0,,,FALSE,FALSE
+21333,OK,Medica Insurance Company,398541,TRUE,TRUE,15,13,340227,https://esbgatewaypub.medica.com/rest/QHP/OK/21333/cms-data-index.json,failed: TLS,,,,,FALSE,,1,,,FALSE,0,,,FALSE,FALSE
+86584,WI,"Aspirus Health Plan, Inc.",398306,TRUE,TRUE,12,9,341475,https://www.aspirushealthplan.com/group-individual/files/json/index.json,ok,2,2,0,180764284,FALSE,180764284,1,2,2,TRUE,12,7,0,TRUE,TRUE
+22013,UT,Regence BlueCross BlueShield of Utah,395068,TRUE,TRUE,7,7,395068,https://cms-machine-readable.cambiahealth.com/index.json,ok,3,3,0,53079008,FALSE,212316032,4,3,1,TRUE,7,1,0,TRUE,TRUE
+17414,NC,"AmeriHealth Caritas North Carolina, Inc.",387771,TRUE,TRUE,6,5,387771,https://www.amerihealthcaritasnext.com/cms-data-index.json,ok,1,1,0,61751313.25,FALSE,247005253,4,1,1,TRUE,6,6,0,TRUE,TRUE
+94419,IN,Cigna Health and Life Insurance Company,384617,TRUE,TRUE,9,8,343630,https://www.cigna.com/sites/json/cms-data-index.json,ok,1,1,0,104091796.25,FALSE,832734370,8,1,1,FALSE,9,1,0,TRUE,TRUE
+97560,MS,"UnitedHealthcare of Mississippi, Inc.",314752,TRUE,TRUE,9,6,166782,https://www.uhc.com/content/dam/uhcdotcom/en/general/cms-data-index.json,ok,22,22,0,320037312.75,FALSE,6400746255,20,22,21,TRUE,9,21,0,TRUE,TRUE
+81413,WI,Network Health Plan,298634,TRUE,TRUE,16,7,286898,https://data.networkhealth.com/hix/index.json,ok,1,1,0,128330745,FALSE,128330745,1,1,1,TRUE,16,1,0,TRUE,TRUE
+43490,KS,Oscar Insurance Company,296092,TRUE,TRUE,6,3,207315,https://d3ul0st9g52g6o.cloudfront.net/ffm/cms-data-index.json,ok,35,35,0,1114034765.4,FALSE,16710521481,15,35,35,TRUE,6,1,0,TRUE,TRUE
+13877,AZ,"Oscar Health Plan, Inc.",292877,TRUE,TRUE,9,8,161763,https://d3ul0st9g52g6o.cloudfront.net/ffm/cms-data-index.json,ok,35,35,0,1114034765.4,FALSE,16710521481,15,35,35,TRUE,9,1,0,TRUE,TRUE
+45480,OK,"UnitedHealthcare of Oklahoma, Inc.",260548,TRUE,TRUE,9,5,130870,https://www.uhc.com/content/dam/uhcdotcom/en/general/cms-data-index.json,ok,22,22,0,320037312.75,FALSE,6400746255,20,22,21,TRUE,9,21,0,TRUE,TRUE
+91908,OK,Oscar Insurance Company,259248,TRUE,TRUE,8,6,191265,https://d3ul0st9g52g6o.cloudfront.net/ffm/cms-data-index.json,ok,35,35,0,1114034765.4,FALSE,16710521481,15,35,35,TRUE,8,1,0,TRUE,TRUE
+58326,WI,"MercyCare HMO, Inc.",208646,TRUE,TRUE,7,7,208646,https://www.mercycarehealthplans.com/wp-content/uploads/JSON/cms-data-index.json,ok,2,2,0,17395887,FALSE,17395887,1,2,1,TRUE,7,1,0,TRUE,TRUE
+94529,WI,Group Health Cooperative of South Central Wisconsin,207372,TRUE,TRUE,14,9,86077,https://planfinder.ghcscw.com/cms/index.json,ok,51,51,0,60986339,FALSE,60986339,1,51,29,TRUE,14,1,0,TRUE,TRUE
+52664,OH,"Summa Insurance Company, Inc.",197767,TRUE,TRUE,8,7,197767,https://files.myplancentral.com/ACA/cms-data-index.json,ok,56,56,0,239961718,FALSE,239961718,1,56,2,TRUE,8,2,0,TRUE,TRUE
+73836,AK,"Moda Health Plan, Inc.",168684,TRUE,TRUE,7,7,168684,https://www.modahealth.com/cms-data-index.json,ok,3,3,0,288542527,FALSE,865627581,3,3,3,TRUE,7,3,0,TRUE,TRUE
+72760,DE,"AmeriHealth Caritas VIP Next, Inc.",165638,TRUE,TRUE,6,6,165638,https://www.amerihealthcaritasnext.com/cms-data-index.json,ok,1,1,0,61751313.25,FALSE,247005253,4,1,1,TRUE,6,6,0,TRUE,TRUE
+13591,NC,CareSource North Carolina Co.,158212,TRUE,TRUE,13,6,109206,,no MR URL in CMS PUF,,,,,FALSE,,,,,FALSE,0,,,FALSE,FALSE
+98780,LA,CHRISTUS Health Plan Louisiana,154775,TRUE,FALSE,0,0,0,https://chppayment.christushealth.org/workfiles/json/index.json,ok,7,7,0,538901614.5,FALSE,1077803229,2,7,1,TRUE,0,4,0,TRUE,TRUE
+34762,MO,Blue Cross and Blue Shield of Kansas City,152989,TRUE,TRUE,10,6,107185,https://www.bluekc.com/cms-data/index.json,ok,4,4,0,159722447.5,FALSE,319444895,2,4,1,TRUE,10,1,0,TRUE,TRUE
+17933,TX,"Moda Health Plan, Inc.",142112,TRUE,TRUE,5,5,81038,https://www.modahealth.com/cms-data-index.json,ok,3,3,0,288542527,FALSE,865627581,3,3,3,TRUE,5,3,0,TRUE,TRUE
+97667,AZ,"Cigna HealthCare of Arizona, Inc",139645,TRUE,TRUE,8,5,90205,https://www.cigna.com/sites/json/cms-data-index.json,ok,1,1,0,104091796.25,FALSE,832734370,8,1,1,FALSE,8,1,0,TRUE,TRUE
+18167,UT,Molina Healthcare of Utah,125008,TRUE,TRUE,6,4,125008,https://www.molinahealthcare.com/cms/json/index.json,ok,14,14,0,172907827,FALSE,1037446962,6,14,14,TRUE,6,1,0,TRUE,TRUE
+73107,SC,Select Health of South Carolina,121039,TRUE,TRUE,6,5,121039,https://www.firstchoicenext.com/cms-data-index.json,ok,1,1,0,107304637,FALSE,107304637,1,1,1,TRUE,6,1,0,TRUE,TRUE
+59025,NH,Harvard Pilgrim Health Care of NE,117211,TRUE,FALSE,0,0,0,https://www.harvardpilgrim.org/cmsjson/rest/index.json,ok,9,9,0,99076767,FALSE,99076767,1,9,9,TRUE,0,1,0,TRUE,TRUE
+63251,TX,Community First Insurance Plans,112382,TRUE,TRUE,4,1,112382,https://exchange.communityfirsthealthplans.com/cms-data-index.json,ok,1,1,1,0,TRUE,0,1,1,1,TRUE,2,1,0,TRUE,TRUE
+74313,OH,Paramount Insurance Company,110549,TRUE,TRUE,15,6,106432,https://www.myparamount.org/machinereadablefiles/cms-data-index.json,ok,2,2,0,231332088,FALSE,231332088,1,2,2,TRUE,15,2,0,TRUE,TRUE
+94248,KS,Blue Cross and Blue Shield of Kansas City,102463,TRUE,TRUE,5,3,42060,https://www.bluekc.com/cms-data/index.json,ok,4,4,0,159722447.5,FALSE,319444895,2,4,1,TRUE,5,1,0,TRUE,TRUE
+74917,MI,McLaren Health Plan Community,100136,TRUE,TRUE,9,6,83060,https://www.mclaren.org/Uploads/Public/Documents/HealthPlan/documents/CMSUploads/cms-data-index.json,ok,10,10,0,1179734732,FALSE,1179734732,1,10,10,TRUE,9,1,0,TRUE,TRUE
+96384,MO,Cox Health Systems Insurance Company,99299,TRUE,TRUE,7,6,96804,https://www.thinkinghealthforward.com/Index.json,ok,1,1,1,0,TRUE,0,1,1,1,TRUE,7,1,0,TRUE,TRUE
+69803,NC,"Oscar Health Plan of North Carolina, Inc",81081,TRUE,TRUE,8,6,67113,https://d3ul0st9g52g6o.cloudfront.net/ffm/cms-data-index.json,ok,35,35,0,1114034765.4,FALSE,16710521481,15,35,35,TRUE,8,1,0,TRUE,TRUE
+67926,FL,"AmeriHealth Caritas Florida, Inc.",79451,TRUE,TRUE,6,4,79451,https://www.amerihealthcaritasnext.com/cms-data-index.json,ok,1,1,0,61751313.25,FALSE,247005253,4,1,1,TRUE,6,6,0,TRUE,TRUE
+73751,ND,Medica Health Plans,72125,TRUE,TRUE,21,4,68596,https://esbgatewaypub.medica.com/rest/QHP/ND/73751/cms-data-index.json,failed: TLS,,,,,FALSE,,1,,,FALSE,0,,,FALSE,FALSE
+47840,MO,Medica Central Insurance Company,62815,TRUE,TRUE,4,1,10148,https://www.medica.com/mrf/index/MO2.json,failed: HTTP 403,,,,,FALSE,,1,,,FALSE,0,,,FALSE,FALSE
+39520,KS,Medica Insurance Company,56889,TRUE,TRUE,6,1,19160,https://esbgatewaypub.medica.com/rest/QHP/KS/39520/cms-data-index.json,failed: TLS,,,,,FALSE,,1,,,FALSE,0,,,FALSE,FALSE
+77739,MI,Oscar Insurance Company,54216,TRUE,TRUE,9,5,39920,https://d3ul0st9g52g6o.cloudfront.net/ffm/cms-data-index.json,ok,35,35,0,1114034765.4,FALSE,16710521481,15,35,35,TRUE,9,1,0,TRUE,TRUE
+57424,NE,Oscar Insurance Company,46889,TRUE,TRUE,10,3,41968,https://d3ul0st9g52g6o.cloudfront.net/ffm/cms-data-index.json,ok,35,35,0,1114034765.4,FALSE,16710521481,15,35,35,TRUE,10,1,0,TRUE,TRUE
+64004,DE,Celtic Insurance Company,24728,TRUE,TRUE,11,3,18161,https://api.centene.com/ambetter/reference/cms-data-index.json,ok,128,128,0,650473930.958333,FALSE,15611374343,24,128,64,TRUE,11,1,0,TRUE,TRUE
+63474,OR,BridgeSpan Health Company,12346,TRUE,TRUE,3,1,12346,https://cms-machine-readable.cambiahealth.com/index.json,ok,3,3,0,53079008,FALSE,212316032,4,3,1,TRUE,3,1,0,TRUE,TRUE
+60612,HI,"Kaiser Foundation Health Plan, Inc.",11489,TRUE,TRUE,9,9,10460,https://healthy.kaiserpermanente.org/content/dam/kporg/data/hi/cms-data-index.json,ok,1,1,0,2780531,FALSE,2780531,1,1,1,TRUE,9,1,0,TRUE,TRUE
+71287,OR,Kaiser Foundation Healthplan of the NW,9923,TRUE,TRUE,3,3,9664,https://healthy.kaiserpermanente.org/content/dam/kporg/data/or/cms-data-index.json,ok,1,1,0,38787414,FALSE,38787414,1,1,1,TRUE,3,1,0,TRUE,TRUE
+34541,UT,BridgeSpan Health Company,7900,TRUE,TRUE,3,1,7900,https://cms-machine-readable.cambiahealth.com/index.json,ok,3,3,0,53079008,FALSE,212316032,4,3,1,TRUE,3,1,0,TRUE,TRUE
+58944,OK,"Taro Health Plan of Oklahoma, Inc.",7564,TRUE,TRUE,3,2,7564,https://static.mending.com/json/cms-data-index.json,ok,1,1,0,155916498,FALSE,155916498,1,1,1,TRUE,3,1,0,TRUE,TRUE
+10091,OR,PacificSource Health Plans,3771,TRUE,FALSE,0,0,0,https://enroll.pacificsource.com/MRF/OR/cms-data-index.json,ok,1,1,0,255060738,FALSE,255060738,1,1,1,TRUE,0,1,0,TRUE,TRUE
+34826,TX,"Imperial Insurance Companies, Inc.",2530,TRUE,TRUE,7,1,2530,https://fm.formularynavigator.com/jsonFiles/publish/200/270/cms-data-index.json,ok,1,1,0,46842294,FALSE,46842294,1,1,1,TRUE,7,1,0,TRUE,TRUE
+85533,AZ,"Imperial Insurance Companies, Inc.",2393,TRUE,TRUE,5,1,2393,https://fm.formularynavigator.com/jsonFiles/publish/200/269/cms-data-index.json,ok,1,1,0,19973667,FALSE,19973667,1,1,1,TRUE,5,1,0,TRUE,TRUE
+98113,UT,"Imperial Health Plan of the Southwest, Inc.",261,TRUE,TRUE,2,0,242,https://fm.formularynavigator.com/jsonFiles/publish/200/272/cms-data-index.json,ok,1,1,0,3763900,FALSE,3763900,1,1,1,TRUE,2,1,0,TRUE,TRUE
+23603,MT,PacificSource Health Plans,41,TRUE,FALSE,0,0,0,https://enroll.pacificsource.com/MRF/MT/cms-data-index.json,ok,1,1,0,99789129,FALSE,99789129,1,1,1,TRUE,0,1,0,TRUE,TRUE
+40356,MI,HAP CareSource,,FALSE,FALSE,0,0,0,,no MR URL in CMS PUF,,,,,FALSE,,,,,FALSE,0,,,FALSE,FALSE
+13484,NE,Celtic Insurance Company,,FALSE,FALSE,0,0,0,https://api.centene.com/ambetter/reference/cms-data-index.json,ok,128,128,0,650473930.958333,FALSE,15611374343,24,128,64,TRUE,0,1,0,TRUE,TRUE
+35065,IN,Coordinated Care Corporation Indiana,,FALSE,FALSE,0,0,0,https://api.centene.com/ambetter/reference/cms-data-index.json,ok,128,128,0,650473930.958333,FALSE,15611374343,24,128,64,TRUE,0,1,0,TRUE,TRUE
+48286,IA,"Iowa Total Care, Inc.",,FALSE,FALSE,0,0,0,https://api.centene.com/ambetter/reference/cms-data-index.json,ok,128,128,0,650473930.958333,FALSE,15611374343,24,128,64,TRUE,0,1,0,TRUE,TRUE
+49004,FL,Centene Venture Company Florida,,FALSE,FALSE,0,0,0,https://api.centene.com/ambetter/reference/cms-data-index.json,ok,128,128,0,650473930.958333,FALSE,15611374343,24,128,64,TRUE,0,1,0,TRUE,TRUE
+49714,WY,UnitedHealthcare Insurance Company,,FALSE,FALSE,0,0,0,https://www.uhc.com/content/dam/uhcdotcom/en/general/cms-data-index.json,ok,22,22,0,320037312.75,FALSE,6400746255,20,22,21,TRUE,0,21,0,TRUE,TRUE
+56610,IA,"UnitedHealthcare Plan of the River Valley, Inc.",,FALSE,FALSE,0,0,0,https://www.uhc.com/content/dam/uhcdotcom/en/general/cms-data-index.json,ok,22,22,0,320037312.75,FALSE,6400746255,20,22,21,TRUE,0,21,0,TRUE,TRUE
+70754,TX,"UnitedHealthcare Benefits of Texas, Inc.",,FALSE,FALSE,0,0,0,https://www.uhc.com/content/dam/uhcdotcom/en/general/cms-data-index.json,ok,22,22,0,320037312.75,FALSE,6400746255,20,22,21,TRUE,0,21,0,TRUE,TRUE
+72850,IN,UnitedHealthcare Insurance Company,,FALSE,FALSE,0,0,0,https://www.uhc.com/content/dam/uhcdotcom/en/general/cms-data-index.json,ok,22,22,0,320037312.75,FALSE,6400746255,20,22,21,TRUE,0,21,0,TRUE,TRUE
+73102,NE,UnitedHealthcare Insurance Company,,FALSE,FALSE,0,0,0,https://www.uhc.com/content/dam/uhcdotcom/en/general/cms-data-index.json,ok,22,22,0,320037312.75,FALSE,6400746255,20,22,21,TRUE,0,21,0,TRUE,TRUE
+17091,AL,Oscar Insurance Company,,FALSE,FALSE,0,0,0,https://d3ul0st9g52g6o.cloudfront.net/ffm/cms-data-index.json,ok,35,35,0,1114034765.4,FALSE,16710521481,15,35,35,TRUE,0,1,0,TRUE,TRUE
+20635,MS,"Oscar Health Plan, Inc.",,FALSE,FALSE,0,0,0,https://d3ul0st9g52g6o.cloudfront.net/ffm/cms-data-index.json,ok,35,35,0,1114034765.4,FALSE,16710521481,15,35,35,TRUE,0,1,0,TRUE,TRUE
+21525,FL,Oscar Health Maintenance Organization of Florida,,FALSE,FALSE,0,0,0,https://d3ul0st9g52g6o.cloudfront.net/ffm/cms-data-index.json,ok,35,35,0,1114034765.4,FALSE,16710521481,15,35,35,TRUE,0,1,0,TRUE,TRUE
+79850,FL,"Cigna HealthCare of Florida, Inc.",,FALSE,FALSE,0,0,0,https://www.cigna.com/sites/json/cms-data-index.json,ok,1,1,0,104091796.25,FALSE,832734370,8,1,1,FALSE,0,1,0,TRUE,TRUE
+44228,FL,Simply Healthcare Plans Inc dba Wellpoint Florida Inc,,FALSE,FALSE,0,0,0,https://www22.elevancehealth.com/cms-data-index-json/Elevance-Health-Data-Index.json,ok,38,38,0,1098804375.85714,FALSE,7691630631,7,38,30,TRUE,0,9,0,TRUE,TRUE
+47501,TX,Wellpoint Insurance Company,,FALSE,FALSE,0,0,0,https://www22.elevancehealth.com/cms-data-index-json/Elevance-Health-Data-Index.json,ok,38,38,0,1098804375.85714,FALSE,7691630631,7,38,30,TRUE,0,9,0,TRUE,TRUE
+38246,LA,"AmeriHealth Caritas Louisiana, Inc.",,FALSE,FALSE,0,0,0,https://www.amerihealthcaritasnext.com/cms-data-index.json,ok,1,1,0,61751313.25,FALSE,247005253,4,1,1,TRUE,0,6,0,TRUE,TRUE
+11718,TX,"Community Health Choice Texas, Inc.",,FALSE,FALSE,0,0,0,https://providerdirectory.communityhealthchoice.org/him/index.json,ok,1,1,0,21586503.5,FALSE,43173007,2,1,1,TRUE,0,1,0,TRUE,TRUE
+74980,IA,"Avera Health Plans, Inc.",,FALSE,FALSE,0,0,0,https://www.ahsecure.net/CMS/index.json,ok,13,13,0,534597768,FALSE,1069195536,2,13,9,TRUE,0,2,0,TRUE,TRUE
+13887,FL,Community Care Network Inc,,FALSE,FALSE,0,0,0,https://22healthplan.com/machine-readable-files/cms-data-index.json,ok,1,1,1,0,TRUE,0,1,1,1,TRUE,0,2,0,TRUE,TRUE
+29854,TN,"Alliant Health Plans, Inc.",,FALSE,FALSE,0,0,0,https://alliantplans.com/cms-data-index.json,ok,2,2,0,527062467,FALSE,527062467,1,2,0,TRUE,0,3,0,TRUE,TRUE
+68445,AZ,"Antidote Health Plan of Arizona, Inc.",,FALSE,FALSE,0,0,0,https://api.antidotehealth.ai/antidote-index-az-2026.json,ok,4,4,0,574310379,FALSE,574310379,1,4,2,TRUE,0,1,0,TRUE,TRUE
+31981,OH,Antidote Health Plan of Ohio,,FALSE,FALSE,0,0,0,https://api.antidotehealth.ai/antidote-index-oh-2026.json,ok,4,4,0,80674276,FALSE,80674276,1,4,2,TRUE,0,1,0,TRUE,TRUE
+37758,TX,Harbor Health Insurance Company,,FALSE,FALSE,0,0,0,https://assets.harborhealth.com/qhp/mrf/index.json,ok,1,1,0,38423749,FALSE,38423749,1,1,1,TRUE,0,1,0,TRUE,TRUE
+13219,NH,"Boston Medical Center Health Plan, Inc.",,FALSE,FALSE,0,0,0,https://connect.wellsense.org:8443/NHACA_MRF/data/cms-data-index.json,ok,1,1,0,91863034,FALSE,91863034,1,1,1,TRUE,0,1,0,TRUE,TRUE
+33863,SC,InStil Health Insurance Company,,FALSE,FALSE,0,0,0,https://www.instilhealth.com/web/data/sc/instil-index.json,ok,1,1,0,10991238,FALSE,10991238,1,1,1,TRUE,0,1,0,TRUE,TRUE

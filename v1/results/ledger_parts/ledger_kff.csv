@@ -1,0 +1,73 @@
+key,value,unit,description,source_script
+kff_claims_received_total,495645965,claim lines,"Claims received, in plus out-of-network, issuers with more than 1,000 in-network claims, 2024 (KFF replication; suppressed counted as zero)",02_parse_cms.R
+kff_claims_received_in_network,451249490,claim lines,"In-network claims received, issuers with more than 1,000 in-network claims (KFF replication)",02_parse_cms.R
+kff_claims_received_out_of_network,44396475,claim lines,"Out-of-network claims received, same issuers (KFF replication)",02_parse_cms.R
+kff_claims_denied_in_network,84502662,claim lines,"In-network claims denied, same issuers (KFF replication)",02_parse_cms.R
+kff_claims_denied_out_of_network,16471467,claim lines,"Out-of-network claims denied, same issuers (KFF replication)",02_parse_cms.R
+kff_in_network_share_of_claims,0.910427042415245,proportion,In-network share of all claims received (KFF replication),02_parse_cms.R
+kff_denial_rate_in_network,0.187263728541832,proportion,Claims-weighted in-network denial rate (KFF replication),02_parse_cms.R
+kff_denial_rate_out_of_network,0.371008441548569,proportion,Claims-weighted out-of-network denial rate (KFF replication),02_parse_cms.R
+kff_denial_rate_combined,0.203722285926407,proportion,Claims-weighted combined denial rate (KFF replication),02_parse_cms.R
+kff_issuer_in_network_rate_min,0.0269535720592924,proportion,"Lowest issuer in-network denial rate among issuers with more than 1,000 in-network claims",02_parse_cms.R
+kff_issuer_in_network_rate_max,0.356521739130435,proportion,"Highest issuer in-network denial rate among issuers with more than 1,000 in-network claims",02_parse_cms.R
+kff_issuers_over_1000_in_network_claims,157,issuers,"Issuers with more than 1,000 in-network claims received (KFF restriction); identical to the 157 issuers in KFF's working file",02_parse_cms.R
+kff_issuers_in_puf,185,issuers,Issuer IDs in the Individual QHP tab,02_parse_cms.R
+kff_issuers_offering_2026,183,issuers,Issuer IDs present in both the 2026 Machine-readable URL PUF and the Network PUF (KFF: 183 offering plans in 2026),02_parse_cms.R
+kff_internal_appeals_filed,262982,appeal requests,"Internal appeals filed, issuers with more than 1,000 in-network claims (KFF: at least 262,982)",02_parse_cms.R
+kff_internal_appeals_filed_unrestricted,263021,appeal requests,"Internal appeals filed, all 185 issuers, suppressed counted as zero",02_parse_cms.R
+kff_internal_appeals_share_of_denied,0.00311211497692227,proportion,Internal appeals filed over in-network claims denied (KFF: less than 1%),02_parse_cms.R
+kff_internal_upheld_share_reported_percent,0.660772461513493,proportion,Share of internal appeals upheld on issuers that report a percent overturned (CMS percent column),02_parse_cms.R
+kff_internal_appeals_reported_percent_issuers,131,issuers,Issuers (of the KFF set) with a reported percent of internal appeals overturned,02_parse_cms.R
+kff_internal_appeals_filed_reported_percent_issuers,252621,appeal requests,Internal appeals filed by issuers that report a percent overturned,02_parse_cms.R
+kff_internal_upheld_share_all_appeals,0.673715311314082,proportion,"Filed minus overturned over filed, KFF issuers, suppressed overturned counted as zero",02_parse_cms.R
+kff_external_appeals_filed,5881,appeal requests,"External appeals filed, issuers with more than 1,000 in-network claims (KFF: at least 5,881)",02_parse_cms.R
+kff_external_share_of_upheld_internal,0.040532903261379,proportion,"External appeals over upheld internal appeals, issuers with at least 10 external appeals (KFF: 4%)",02_parse_cms.R
+kff_plan_level_in_network_denied,65578278,claim lines,"Plan-level in-network claims denied, all plan rows (KFF: about 66 million)",02_parse_cms.R
+kff_plan_level_in_network_received,344346696,claim lines,"Plan-level in-network claims received, all plan rows",02_parse_cms.R
+kff_denial_reason_tallies_nine,78605749,reason tallies,"Sum of the nine denial reason tallies excluding out-of-network provider, all plan rows (KFF: about 79 million)",02_parse_cms.R
+kff_denial_reason_tallies_ten,87173324,reason tallies,"Sum of all ten denial reason tallies, all plan rows",02_parse_cms.R
+kff_plan_rows_individual_qhp,4159,plans,Plan rows in the Individual QHP tab,02_parse_cms.R
+kff_plan_rows_with_plan_level_data,2559,plans,Plan rows whose plan-level in-network claims are not N/A,02_parse_cms.R
+kff_plan_level_share_of_plans,0.615292137533061,proportion,Plan rows with plan-level data over all plan rows (KFF: 62%),02_parse_cms.R
+kff_states_individual_qhp,30,states,States in the Individual QHP tab,02_parse_cms.R
+kff_g2_rows_reproduce,41,rows,G2 table rows that reproduce within rounding or exactly,02_parse_cms.R
+kff_g2_rows_differs_explained,5,rows,G2 table rows that differ with a verified explanation,02_parse_cms.R
+kff_g2_rows_differs_unexplained,1,rows,G2 table rows that differ with no verified explanation,02_parse_cms.R
+kff_g2_rows_not_testable,1,rows,G2 table rows not testable from the PUF,02_parse_cms.R
+kff_denial_rate_in_network_bronze,0.190307213231782,proportion,"Plan-level in-network denial rate, Bronze plans, KFF issuers (replication)",02_parse_cms.R
+kff_denial_rate_in_network_silver,0.195335310538623,proportion,"Plan-level in-network denial rate, Silver plans, KFF issuers (replication)",02_parse_cms.R
+kff_denial_rate_in_network_gold,0.172781922666671,proportion,"Plan-level in-network denial rate, Gold plans, KFF issuers (replication)",02_parse_cms.R
+kff_denial_rate_in_network_platinum,0.177855250300345,proportion,"Plan-level in-network denial rate, Platinum plans, KFF issuers (replication)",02_parse_cms.R
+kff_denial_rate_in_network_catastrophic,0.218271397093412,proportion,"Plan-level in-network denial rate, Catastrophic plans, KFF issuers (replication)",02_parse_cms.R
+att_claims_received_in_network,451249792,claim lines,"2024 national total, sum of reported issuer-level cells over all 185 issuers (claims received in network); suppressed cells contribute nothing, so a lower bound",02_parse_cms.R
+att_claims_received_in_network_issuers_reported,159,issuers,Issuers with a numeric value for claims received in network,02_parse_cms.R
+att_claims_received_in_network_issuers_suppressed,0,issuers,Issuers with a suppressed (**) value for claims received in network,02_parse_cms.R
+att_claims_received_out_of_network,44397058,claim lines,"2024 national total, sum of reported issuer-level cells over all 185 issuers (claims received out of network); suppressed cells contribute nothing, so a lower bound",02_parse_cms.R
+att_claims_received_out_of_network_issuers_reported,159,issuers,Issuers with a numeric value for claims received out of network,02_parse_cms.R
+att_claims_received_out_of_network_issuers_suppressed,0,issuers,Issuers with a suppressed (**) value for claims received out of network,02_parse_cms.R
+att_claims_denied_in_network,84502749,claim lines,"2024 national total, sum of reported issuer-level cells over all 185 issuers (claims denied in network); suppressed cells contribute nothing, so a lower bound",02_parse_cms.R
+att_claims_denied_in_network_issuers_reported,158,issuers,Issuers with a numeric value for claims denied in network,02_parse_cms.R
+att_claims_denied_in_network_issuers_suppressed,1,issuers,Issuers with a suppressed (**) value for claims denied in network,02_parse_cms.R
+att_claims_denied_out_of_network,16471653,claim lines,"2024 national total, sum of reported issuer-level cells over all 185 issuers (claims denied out of network); suppressed cells contribute nothing, so a lower bound",02_parse_cms.R
+att_claims_denied_out_of_network_issuers_reported,159,issuers,Issuers with a numeric value for claims denied out of network,02_parse_cms.R
+att_claims_denied_out_of_network_issuers_suppressed,0,issuers,Issuers with a suppressed (**) value for claims denied out of network,02_parse_cms.R
+att_claims_resubmitted_in_network,32111793,claim lines,"2024 national total, sum of reported issuer-level cells over all 185 issuers (claims resubmitted in network); suppressed cells contribute nothing, so a lower bound",02_parse_cms.R
+att_claims_resubmitted_in_network_issuers_reported,158,issuers,Issuers with a numeric value for claims resubmitted in network,02_parse_cms.R
+att_claims_resubmitted_in_network_issuers_suppressed,1,issuers,Issuers with a suppressed (**) value for claims resubmitted in network,02_parse_cms.R
+att_claims_resubmitted_out_of_network,2976243,claim lines,"2024 national total, sum of reported issuer-level cells over all 185 issuers (claims resubmitted out of network); suppressed cells contribute nothing, so a lower bound",02_parse_cms.R
+att_claims_resubmitted_out_of_network_issuers_reported,155,issuers,Issuers with a numeric value for claims resubmitted out of network,02_parse_cms.R
+att_claims_resubmitted_out_of_network_issuers_suppressed,4,issuers,Issuers with a suppressed (**) value for claims resubmitted out of network,02_parse_cms.R
+att_internal_appeals_filed,263021,appeal requests,"2024 national total, sum of reported issuer-level cells over all 185 issuers (internal appeals filed); suppressed cells contribute nothing, so a lower bound",02_parse_cms.R
+att_internal_appeals_filed_issuers_reported,148,issuers,Issuers with a numeric value for internal appeals filed,02_parse_cms.R
+att_internal_appeals_filed_issuers_suppressed,11,issuers,Issuers with a suppressed (**) value for internal appeals filed,02_parse_cms.R
+att_internal_appeals_overturned,85807,appeal requests,"2024 national total, sum of reported issuer-level cells over all 185 issuers (internal appeals overturned); suppressed cells contribute nothing, so a lower bound",02_parse_cms.R
+att_internal_appeals_overturned_issuers_reported,138,issuers,Issuers with a numeric value for internal appeals overturned,02_parse_cms.R
+att_internal_appeals_overturned_issuers_suppressed,21,issuers,Issuers with a suppressed (**) value for internal appeals overturned,02_parse_cms.R
+att_external_appeals_filed,5881,appeal requests,"2024 national total, sum of reported issuer-level cells over all 185 issuers (external appeals filed); suppressed cells contribute nothing, so a lower bound",02_parse_cms.R
+att_external_appeals_filed_issuers_reported,100,issuers,Issuers with a numeric value for external appeals filed,02_parse_cms.R
+att_external_appeals_filed_issuers_suppressed,59,issuers,Issuers with a suppressed (**) value for external appeals filed,02_parse_cms.R
+att_external_appeals_overturned,1929,appeal requests,"2024 national total, sum of reported issuer-level cells over all 185 issuers (external appeals overturned); suppressed cells contribute nothing, so a lower bound",02_parse_cms.R
+att_external_appeals_overturned_issuers_reported,108,issuers,Issuers with a numeric value for external appeals overturned,02_parse_cms.R
+att_external_appeals_overturned_issuers_suppressed,51,issuers,Issuers with a suppressed (**) value for external appeals overturned,02_parse_cms.R
+att_issuers_in_puf,185,issuers,Issuer IDs in the Individual QHP tab (denominator for the issuers_reported counts),02_parse_cms.R
+att_issuers_na_issuer_level,26,issuers,Issuers whose issuer-level claims are N/A (new to the Exchange); they contribute nothing to the att_ totals,02_parse_cms.R
